@@ -1,10 +1,20 @@
 "use client";
 
 import { ChangeEvent, useState } from "react"
+import WordPopup from "./WordPopup";
+
+interface PopupData {
+  word: string;
+  category: string;
+  translations: string[];
+  x: number;
+  y: number;
+}
 
 export default function ContentBody({ text, audio }: { text: string, audio: React.ReactNode }){
     const lineHeight = 10;
     const [fontSize, setFontSize] = useState<number>(18);
+    const [popup, setPopup] = useState<PopupData | null>(null);
 
     const textList = text.split(" ");
 
@@ -30,6 +40,25 @@ export default function ContentBody({ text, audio }: { text: string, audio: Reac
         setFontSize(value);
     }
 
+    const handleWordClick = (e: React.MouseEvent<HTMLSpanElement>, word: string) => {
+        const rect = e.currentTarget.getBoundingClientRect();
+        
+        // Aqui você pode integrar com dados reais da sua API/banco
+        // Por enquanto, usando dados de exemplo
+        setPopup({
+            word: word,
+            category: "Verbo", // Substitua com dados reais
+            translations: ["Exemplo 1", "Exemplo 2"], // Substitua com dados reais
+            x: rect.left,
+            y: rect.top,
+        });
+    };
+
+    const handlePlayAudio = (word: string) => {
+        console.log("Reproduzindo áudio para:", word);
+        // Implemente a lógica de reprodução de áudio aqui
+    };
+
     return <div>
         <div className="flex justify-between items-center mb-4">
             <div>{audio}</div>
@@ -51,9 +80,22 @@ export default function ContentBody({ text, audio }: { text: string, audio: Reac
                 lineHeight: `${fontSize+lineHeight}px`
             }}
         >
-            {textList.map(element => <>
-                <span className="cursor-pointer hover:bg-gray-200 rounded-sm" style={{ padding: "2px" }}>{element}</span> {" "}
+            {textList.map((element, index) => <>
+                <span 
+                    key={index}
+                    onClick={(e) => handleWordClick(e, element)}
+                    className="cursor-pointer hover:bg-gray-200 rounded-sm transition-colors duration-150" 
+                    style={{ padding: "2px" }}
+                >
+                    {element}
+                </span> {" "}
             </>)}
         </div>
+
+        <WordPopup 
+            data={popup} 
+            onClose={() => setPopup(null)}
+            onPlayAudio={handlePlayAudio}
+        />
     </div>
 }
