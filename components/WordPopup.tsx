@@ -5,6 +5,7 @@ import { useEffect, useRef } from "react";
 interface WordPopupData {
   word: string;
   category: string;
+  audioUrl: string;
   translations: string[];
   x: number;
   y: number;
