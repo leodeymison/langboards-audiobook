@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
+import { useSpeech } from 'react-text-to-speech';
 
 interface WordPopupData {
   word: string;
@@ -19,6 +20,18 @@ interface WordPopupProps {
 
 export default function WordPopup({ data, onClose, onPlayAudio }: WordPopupProps) {
   const popupRef = useRef<HTMLDivElement>(null);
+
+  const {
+    start,
+    stop,
+  } = useSpeech({
+    text: data?.word || '',
+    pitch: 1.0,
+    rate: 1.0,
+    volume: 1.0,
+    lang: 'en-US',
+    voiceURI: 'Google US English',
+  });
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
@@ -112,7 +125,10 @@ export default function WordPopup({ data, onClose, onPlayAudio }: WordPopupProps
       {/* Botão de Player */}
       <button
         onClick={() => {
-          onPlayAudio?.(data.word);
+          stop();
+          setTimeout(() => {
+            start();
+          }, 100);
         }}
         className="cursor-pointer w-full bg-green-500 hover:bg-green-600 text-white font-semibold py-2 px-4 rounded-lg transition-colors duration-200 flex items-center justify-center gap-2"
       >

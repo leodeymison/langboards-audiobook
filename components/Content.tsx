@@ -14,12 +14,37 @@ interface PopupData {
 
 export default function ContentBody({ text }: { text: string }){
     const lineHeight = 10;
-    const [fontSize, setFontSize] = useState<number>(18);
+    const [fontSize, setFontSizeState] = useState<number>(18);
     const [popup, setPopup] = useState<PopupData | null>(null);
     const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
     const [selectedVoice, setSelectedVoice] = useState<SpeechSynthesisVoice | null>(null);
 
     const textList = text.split(" ");
+
+    // Carrega o tamanho da fonte do localStorage
+    useEffect(() => {
+        try {
+            const savedFontSize = localStorage.getItem('fontSize');
+            if (savedFontSize) {
+                const size = parseInt(savedFontSize);
+                if (size > 10 && size <= 30) {
+                    setFontSizeState(size);
+                }
+            }
+        } catch (error) {
+            console.error('Erro ao carregar tamanho da fonte do localStorage:', error);
+        }
+    }, []);
+
+    // Função auxiliar para atualizar fontSize e salvar no localStorage
+    const setFontSize = (size: number) => {
+        setFontSizeState(size);
+        try {
+            localStorage.setItem('fontSize', size.toString());
+        } catch (error) {
+            console.error('Erro ao salvar tamanho da fonte no localStorage:', error);
+        }
+    };
 
     // Carrega as vozes disponíveis
     useEffect(() => {
