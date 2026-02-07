@@ -8894,705 +8894,3509 @@
     "meaning": "obter novamente",
     "usage": "ex.: regain confidence"
   },
-  "regardless": "regardless",
-  "regret": "regret",
-  "regrets": "regrets",
-  "regretted": "regretted",
-  "regularly": "regularly",
-  "rehashing": "rehashing",
-  "rejected": "rejected",
-  "rejection": "rejection",
-  "related": "related",
-  "relationship": "relationship",
-  "relationships": "relationships",
-  "relatives": "relatives",
-  "relax": "relax",
-  "relearn": "relearn",
-  "release": "release",
-  "released": "released",
-  "relentlessly": "relentlessly",
-  "relieved": "relieved",
-  "remained": "remained",
-  "remaining": "remaining",
-  "remember": "remember",
-  "remembered": "remembered",
-  "reminded": "reminded",
-  "repair": "repair",
-  "repeatedly": "repeatedly",
-  "replayed": "replayed",
-  "replicate": "replicate",
-  "replied": "replied",
-  "reputation": "reputation",
-  "request": "request",
-  "requests": "requests",
-  "require": "require",
-  "required": "required",
-  "requires": "requires",
-  "research": "research",
-  "resented": "resented",
-  "resentful": "resentful",
-  "resentment": "resentment",
-  "reserved": "reserved",
-  "resilience": "resilience",
-  "resilient": "resilient",
-  "resolved": "resolved",
-  "resources": "resources",
-  "respect": "respect",
-  "respected": "respected",
-  "respectfully": "respectfully",
-  "respecting": "respecting",
-  "respond": "respond",
-  "responded": "responded",
-  "responding": "responding",
-  "response": "response",
-  "responsibilities": "responsibilities",
-  "responsibility": "responsibility",
-  "responsible": "responsible",
-  "rest": "rest",
-  "restaurant": "restaurant",
-  "results": "results",
-  "retirement": "retirement",
-  "return": "return",
-  "returned": "returned",
-  "returning": "returning",
-  "revealed": "revealed",
-  "revered": "revered",
-  "reward": "reward",
-  "rich": "rich",
-  "richer": "richer",
-  "right": "direito",
-  "rights": "rights",
-  "rigid": "rigid",
-  "ripple": "ripple",
-  "risk": "risk",
-  "risking": "risking",
-  "risks": "risks",
-  "risky": "risky",
-  "rival": "rival",
-  "road": "road",
-  "robbed": "robbed",
-  "robert": "robert",
-  "roberto": "roberto",
-  "robs": "robs",
-  "rock": "rock",
-  "role": "role",
-  "roles": "roles",
-  "room": "room",
-  "rose": "rose",
-  "routine": "routine",
-  "ruin": "ruin",
-  "rule": "rule",
-  "run": "correr",
-  "running": "running",
-  "russell": "russell",
-  "rustic": "rustic",
-  "s": "s",
-  "sacrifice": "sacrifice",
-  "sacrificed": "sacrificed",
-  "sacrificing": "sacrificing",
-  "sad": "sad",
-  "sadly": "sadly",
-  "safe": "safe",
-  "safely": "safely",
-  "safer": "safer",
-  "safety": "safety",
-  "said": "said",
-  "sake": "sake",
-  "salary": "salary",
-  "salvage": "salvage",
-  "same": "mesmo",
-  "samuel": "samuel",
-  "sarah": "sarah",
-  "sat": "sat",
-  "satisfaction": "satisfaction",
-  "satisfied": "satisfied",
-  "save": "save",
-  "saved": "saved",
-  "saves": "saves",
-  "saw": "saw",
-  "say": "dizer",
-  "saying": "saying",
-  "scholarship": "scholarship",
-  "scholarships": "scholarships",
-  "school": "school",
-  "schools": "schools",
-  "science": "science",
-  "scientist": "scientist",
-  "scrambling": "scrambling",
-  "search": "search",
-  "searched": "searched",
-  "seasons": "seasons",
-  "second": "second",
-  "secret": "secret",
-  "secure": "secure",
-  "security": "security",
-  "see": "ver",
-  "seeing": "seeing",
-  "seek": "seek",
-  "seeking": "seeking",
-  "seemed": "seemed",
-  "seen": "seen",
-  "self": "self",
-  "selfish": "selfish",
-  "selflessness": "selflessness",
-  "selves": "selves",
-  "sense": "sense",
-  "separate": "separate",
-  "separation": "separation",
-  "series": "series",
-  "serious": "serious",
-  "serve": "serve",
-  "served": "served",
-  "service": "service",
-  "serving": "serving",
-  "session": "session",
-  "set": "set",
-  "setback": "setback",
-  "setbacks": "setbacks",
-  "sets": "sets",
-  "setting": "setting",
-  "seventy": "seventy",
-  "several": "several",
-  "severe": "severe",
-  "sexual": "sexual",
-  "shake": "shake",
-  "shaking": "shaking",
-  "shaky": "shaky",
-  "shallow": "shallow",
-  "shame": "shame",
-  "shape": "shape",
-  "shaped": "shaped",
-  "shaping": "shaping",
-  "share": "share",
-  "shared": "shared",
-  "shareholder": "shareholder",
-  "sharing": "sharing",
-  "she": "she",
-  "shelter": "shelter",
-  "shelters": "shelters",
-  "shifted": "shifted",
-  "shocked": "shocked",
-  "shocking": "shocking",
-  "shook": "shook",
-  "short": "short",
-  "should": "should",
-  "shouldn": "shouldn",
-  "show": "mostrar",
-  "showed": "showed",
-  "showing": "showing",
-  "shown": "shown",
-  "shrink": "shrink",
-  "shutting": "shutting",
-  "shy": "shy",
-  "shyness": "shyness",
-  "siblings": "siblings",
-  "sick": "sick",
-  "side": "lado",
-  "sign": "sign",
-  "silence": "silence",
-  "silenced": "silenced",
-  "silent": "silent",
-  "silently": "silently",
-  "silly": "silly",
-  "similar": "similar",
-  "simple": "simple",
-  "since": "desde",
-  "single": "single",
-  "sit": "sit",
-  "sitting": "sitting",
-  "situation": "situation",
-  "six": "six",
-  "sixty": "sixty",
-  "skill": "skill",
-  "skills": "skills",
-  "skin": "skin",
-  "sky": "sky",
-  "slept": "slept",
-  "slightly": "slightly",
-  "slow": "slow",
-  "slower": "slower",
-  "slowly": "slowly",
-  "small": "pequeno",
-  "smaller": "smaller",
-  "smallest": "smallest",
-  "smart": "smart",
-  "smarter": "smarter",
-  "smartest": "smartest",
-  "smiled": "smiled",
-  "smooth": "smooth",
-  "snow": "snow",
-  "snowstorm": "snowstorm",
-  "so": "então",
-  "sober": "sober",
-  "soccer": "soccer",
-  "social": "social",
-  "society": "society",
-  "sofia": "sofia",
-  "sold": "sold",
-  "soldier": "soldier",
-  "soldiers": "soldiers",
-  "sole": "sole",
-  "solutions": "solutions",
-  "solve": "solve",
-  "solved": "solved",
-  "solving": "solving",
-  "some": "alguns",
-  "someone": "someone",
-  "something": "something",
-  "sometimes": "sometimes",
-  "somewhere": "somewhere",
-  "son": "son",
-  "songs": "songs",
-  "sophia": "sophia",
-  "sophie": "sophie",
-  "sorry": "sorry",
-  "soul": "soul",
-  "sound": "som",
-  "source": "source",
-  "sources": "sources",
-  "south": "south",
-  "spaces": "spaces",
-  "spark": "spark",
-  "speak": "speak",
-  "speaking": "speaking",
-  "special": "special",
-  "specific": "specific",
-  "specifically": "specifically",
-  "speech": "speech",
-  "spend": "spend",
-  "spending": "spending",
-  "spent": "spent",
-  "spoke": "spoke",
-  "spoken": "spoken",
-  "spontaneity": "spontaneity",
-  "spontaneous": "spontaneous",
-  "sports": "sports",
-  "stability": "stability",
-  "stable": "stable",
-  "standard": "standard",
-  "standards": "standards",
-  "standing": "standing",
-  "start": "começar",
-  "started": "started",
-  "starting": "starting",
-  "status": "status",
-  "stay": "stay",
-  "stayed": "stayed",
-  "staying": "staying",
-  "steady": "steady",
-  "step": "step",
-  "stepped": "stepped",
-  "stigma": "stigma",
-  "still": "ainda",
-  "stood": "stood",
-  "stop": "parar",
-  "stopped": "stopped",
-  "stories": "stories",
-  "story": "story",
-  "storytelling": "storytelling",
-  "strange": "strange",
-  "strategies": "strategies",
-  "streets": "streets",
-  "strength": "strength",
-  "strengths": "strengths",
-  "stress": "stress",
-  "stressed": "stressed",
-  "stressful": "stressful",
-  "stretched": "stretched",
-  "strict": "strict",
-  "stroke": "stroke",
-  "strong": "strong",
-  "stronger": "stronger",
-  "strongest": "strongest",
-  "struck": "struck",
-  "structural": "structural",
-  "structure": "structure",
-  "structured": "structured",
-  "struggled": "struggled",
-  "struggles": "struggles",
-  "struggling": "struggling",
-  "stubbornness": "stubbornness",
-  "stuck": "stuck",
-  "student": "student",
-  "students": "students",
-  "studied": "studied",
-  "study": "study",
-  "stumbled": "stumbled",
-  "stutter": "stutter",
-  "submitted": "submitted",
-  "succeed": "succeed",
-  "succeeded": "succeeded",
-  "success": "success",
-  "successful": "successful",
-  "such": "tal",
-  "suddenly": "suddenly",
-  "suffer": "suffer",
-  "suffered": "suffered",
-  "suffering": "suffering",
-  "suffocated": "suffocated",
-  "suggested": "suggested",
-  "suicidal": "suicidal",
-  "suicide": "suicide",
-  "sunset": "sunset",
-  "superpower": "superpower",
-  "supplement": "supplement",
-  "support": "support",
-  "supported": "supported",
-  "supporting": "supporting",
-  "supportive": "supportive",
-  "supposed": "supposed",
-  "suppress": "suppress",
-  "suppressed": "suppressed",
-  "suppressing": "suppressing",
-  "suppression": "suppression",
-  "sure": "sure",
-  "surgeon": "surgeon",
-  "surgery": "surgery",
-  "surprised": "surprised",
-  "surprisingly": "surprisingly",
-  "surrounded": "surrounded",
-  "surrounding": "surrounding",
-  "survivable": "survivable",
-  "survive": "survive",
-  "survived": "survived",
-  "survivors": "survivors",
-  "susan": "susan",
-  "sustainable": "sustainable",
-  "system": "system",
-  "systemic": "systemic",
-  "systems": "systems",
-  "t": "t",
-  "table": "table",
-  "take": "levar",
-  "taken": "taken",
-  "takes": "takes",
-  "taking": "taking",
-  "talent": "talent",
-  "talented": "talented",
-  "talents": "talents",
-  "talk": "falar",
-  "talked": "talked",
-  "talking": "talking",
-  "targeted": "targeted",
-  "task": "task",
-  "taste": "taste",
-  "tasted": "tasted",
-  "taught": "taught",
-  "teach": "teach",
-  "teacher": "teacher",
-  "teachers": "teachers",
-  "teaching": "teaching",
-  "team": "team",
-  "tearing": "tearing",
-  "tears": "tears",
-  "teased": "teased",
-  "techniques": "techniques",
-  "teenage": "teenage",
-  "television": "television",
-  "tell": "contar",
-  "telling": "telling",
-  "tells": "tells",
-  "temporary": "temporary",
-  "tempted": "tempted",
-  "ten": "ten",
-  "tension": "tension",
-  "terminal": "terminal",
-  "terrible": "terrible",
-  "terrified": "terrified",
-  "terrifying": "terrifying",
-  "texted": "texted",
-  "than": "do que",
-  "thank": "thank",
-  "thanked": "thanked",
-  "that": "que",
-  "the": "o/a",
-  "theater": "theater",
-  "their": "seu",
-  "theirs": "theirs",
-  "them": "eles",
-  "themselves": "themselves",
-  "then": "then",
-  "therapist": "therapist",
-  "therapists": "therapists",
-  "therapy": "therapy",
-  "there": "lá",
-  "these": "these",
-  "they": "eles",
-  "thief": "thief",
-  "thing": "thing",
-  "things": "things",
-  "think": "pensar",
-  "thinking": "thinking",
-  "third": "third",
-  "thirty": "thirty",
-  "this": "isto",
-  "thomas": "thomas",
-  "those": "those",
-  "though": "though",
-  "thought": "thought",
-  "thousands": "thousands",
-  "three": "three",
-  "thrives": "thrives",
-  "thriving": "thriving",
-  "through": "através",
-  "throughout": "throughout",
-  "ticking": "ticking",
-  "tied": "tied",
-  "time": "tempo",
-  "times": "times",
-  "tired": "tired",
-  "tirelessly": "tirelessly",
-  "to": "para/a",
-  "together": "together",
-  "told": "told",
-  "tolerate": "tolerate",
-  "tomas": "tomas",
-  "too": "too",
-  "took": "took",
-  "tool": "tool",
-  "tools": "tools",
-  "top": "topo",
-  "topics": "topics",
-  "touched": "touched",
-  "toward": "toward",
-  "town": "town",
-  "towns": "towns",
-  "track": "track",
-  "tradition": "tradition",
-  "traditional": "traditional",
-  "tragedy": "tragedy",
-  "trained": "trained",
-  "training": "training",
-  "traits": "traits",
-  "trajectory": "trajectory",
-  "transfer": "transfer",
-  "transform": "transform",
-  "transformed": "transformed",
-  "transition": "transition",
-  "transitions": "transitions",
-  "trapped": "trapped",
-  "trauma": "trauma",
-  "traumatic": "traumatic",
-  "traumatized": "traumatized",
-  "travel": "travel",
-  "traveled": "traveled",
-  "traveling": "traveling",
-  "treasure": "treasure",
-  "treated": "treated",
-  "treatment": "treatment",
-  "trembling": "trembling",
-  "tremendous": "tremendous",
-  "trevor": "trevor",
-  "tribe": "tribe",
-  "tried": "tried",
-  "trip": "trip",
-  "trips": "trips",
-  "true": "true",
-  "truly": "truly",
-  "trust": "trust",
-  "truth": "truth",
-  "try": "tentar",
-  "trying": "trying",
-  "turn": "virar",
-  "twelve": "twelve",
-  "twenty": "twenty",
-  "two": "two",
-  "type": "type",
-  "ultimately": "ultimately",
-  "unable": "unable",
-  "unaddressed": "unaddressed",
-  "unappreciated": "unappreciated",
-  "unbearable": "unbearable",
-  "uncertainty": "uncertainty",
-  "uncomfortable": "uncomfortable",
-  "unconditional": "unconditional",
-  "unconditionally": "unconditionally",
-  "uncontrollable": "uncontrollable",
-  "under": "sob",
-  "underfunded": "underfunded",
-  "underprivileged": "underprivileged",
-  "understand": "entender",
-  "understanding": "understanding",
-  "understood": "understood",
-  "unexpected": "unexpected",
-  "unfairly": "unfairly",
-  "unfolded": "unfolded",
-  "unfollowing": "unfollowing",
-  "unforgettable": "unforgettable",
-  "unfulfilled": "unfulfilled",
-  "unfulfilling": "unfulfilling",
-  "ungrateful": "ungrateful",
-  "unhappiness": "unhappiness",
-  "unhappy": "unhappy",
-  "unhealthy": "unhealthy",
-  "unique": "unique",
-  "universities": "universities",
-  "university": "university",
-  "unless": "unless",
-  "unnatural": "unnatural",
-  "unreliable": "unreliable",
-  "unremarkable": "unremarkable",
-  "unstable": "unstable",
-  "unstructured": "unstructured",
-  "until": "até",
-  "unwanted": "unwanted",
-  "up": "acima",
-  "upscale": "upscale",
-  "upset": "upset",
-  "urge": "urge",
-  "us": "us",
-  "use": "usar",
-  "used": "used",
-  "using": "using",
-  "usually": "usually",
-  "validation": "validation",
-  "valuable": "valuable",
-  "value": "value",
-  "valued": "valued",
-  "values": "values",
-  "ve": "ve",
-  "very": "muito",
-  "victim": "victim",
-  "victimized": "victimized",
-  "victims": "victims",
-  "victor": "victor",
-  "victoria": "victoria",
-  "victories": "victories",
-  "videos": "videos",
-  "view": "view",
-  "village": "village",
-  "vincent": "vincent",
-  "violence": "violence",
-  "violin": "violin",
-  "visible": "visible",
-  "visit": "visit",
-  "visited": "visited",
-  "vitality": "vitality",
-  "vocal": "vocal",
-  "voice": "voice",
-  "voices": "voices",
-  "volunteer": "volunteer",
-  "volunteered": "volunteered",
-  "volunteering": "volunteering",
-  "vulnerability": "vulnerability",
-  "vulnerable": "vulnerable",
-  "wait": "wait",
-  "waiting": "waiting",
-  "waitress": "waitress",
-  "walk": "walk",
-  "walked": "walked",
-  "wall": "wall",
-  "want": "querer",
-  "wanted": "wanted",
-  "wanting": "wanting",
-  "war": "war",
-  "warm": "warm",
-  "warmth": "warmth",
-  "was": "foi",
-  "wasn": "wasn",
-  "wasted": "wasted",
-  "wasting": "wasting",
-  "watch": "watch",
-  "watched": "watched",
-  "watching": "watching",
-  "water": "água",
-  "way": "caminho",
-  "ways": "ways",
-  "we": "nós",
-  "weak": "weak",
-  "weakness": "weakness",
-  "weaknesses": "weaknesses",
-  "wealth": "wealth",
-  "wealthy": "wealthy",
-  "wear": "wear",
-  "wearing": "wearing",
-  "wedding": "wedding",
-  "week": "week",
-  "weeks": "weeks",
-  "well": "well",
-  "went": "went",
-  "were": "were",
-  "weren": "weren",
-  "what": "o que",
-  "whatever": "whatever",
-  "wheelchair": "wheelchair",
-  "when": "quando",
-  "whenever": "whenever",
-  "where": "onde",
-  "whether": "whether",
-  "which": "qual",
-  "while": "enquanto",
-  "whispered": "whispered",
-  "who": "quem",
-  "whole": "whole",
-  "whom": "whom",
-  "whose": "whose",
-  "why": "por quê",
-  "wife": "wife",
-  "will": "vai",
-  "william": "william",
-  "willing": "willing",
-  "willingness": "willingness",
-  "willow": "willow",
-  "win": "win",
-  "winning": "winning",
-  "winter": "winter",
-  "wisdom": "wisdom",
-  "wise": "wise",
-  "wiser": "wiser",
-  "wished": "wished",
-  "wishing": "wishing",
-  "with": "com",
-  "withdraw": "withdraw",
-  "withdrawal": "withdrawal",
-  "without": "sem",
-  "woke": "woke",
-  "woman": "woman",
-  "women": "women",
-  "won": "won",
-  "wonder": "wonder",
-  "wood": "wood",
-  "woodworking": "woodworking",
-  "word": "palavra",
-  "words": "words",
-  "wore": "wore",
-  "work": "trabalho",
-  "worked": "worked",
-  "workers": "workers",
-  "working": "working",
-  "world": "world",
-  "worried": "worried",
-  "worry": "worry",
-  "worrying": "worrying",
-  "worse": "worse",
-  "worst": "worst",
-  "worth": "worth",
-  "worthless": "worthless",
-  "worthy": "worthy",
-  "would": "seria",
-  "wouldn": "wouldn",
-  "wounds": "wounds",
-  "write": "escrever",
-  "writers": "writers",
-  "writing": "writing",
-  "written": "written",
-  "wrong": "wrong",
-  "wronged": "wronged",
-  "wrongly": "wrongly",
-  "wrote": "wrote",
-  "xavier": "xavier",
-  "year": "ano",
-  "years": "years",
-  "yes": "yes",
-  "yesterday": "yesterday",
-  "yet": "yet",
-  "yolanda": "yolanda",
-  "you": "você",
-  "young": "young",
-  "younger": "younger",
-  "youngest": "youngest",
-  "your": "your",
-  "yourself": "yourself",
-  "youth": "youth",
-  "yuki": "yuki"
+  "regardless": {
+    "translation": "independentemente; apesar de",
+    "meaning": "sem considerar; não obstante",
+    "usage": "ex.: regardless of cost"
+  },
+  "regret": {
+    "translation": "arrependimento; arrepender-se",
+    "meaning": "pesar; também lamentar",
+    "usage": "ex.: no regrets; regret decision"
+  },
+  "regrets": {
+    "translation": "arrependimentos; arrepende-se",
+    "meaning": "plural de \"regret\"; também 3ª pessoa",
+    "usage": "ex.: have regrets"
+  },
+  "regretted": {
+    "translation": "arrependeu-se; lamentou",
+    "meaning": "passado de \"regret\"",
+    "usage": "ex.: regretted choice"
+  },
+  "regularly": {
+    "translation": "regularmente",
+    "meaning": "de modo regular; frequentemente",
+    "usage": "ex.: exercise regularly"
+  },
+  "rehashing": {
+    "translation": "remoendo; reprocessando",
+    "meaning": "gerúndio de \"rehash\"; revisar repetidamente",
+    "usage": "ex.: rehashing past"
+  },
+  "rejected": {
+    "translation": "rejeitou; rejeitado(a)",
+    "meaning": "passado de \"reject\"",
+    "usage": "ex.: rejected proposal"
+  },
+  "rejection": {
+    "translation": "rejeição",
+    "meaning": "ato de rejeitar; recusa",
+    "usage": "ex.: fear of rejection"
+  },
+  "related": {
+    "translation": "relacionado(a); relatou",
+    "meaning": "conectado; também passado de \"relate\"",
+    "usage": "ex.: related topics"
+  },
+  "relationship": {
+    "translation": "relacionamento; relação",
+    "meaning": "ligação entre pessoas ou coisas",
+    "usage": "ex.: healthy relationship"
+  },
+  "relationships": {
+    "translation": "relacionamentos; relações",
+    "meaning": "plural de \"relationship\"",
+    "usage": "ex.: build relationships"
+  },
+  "relatives": {
+    "translation": "parentes; familiares",
+    "meaning": "plural de \"relative\"",
+    "usage": "ex.: visit relatives"
+  },
+  "relax": {
+    "translation": "relaxar",
+    "meaning": "descansar; descontrair",
+    "usage": "ex.: relax mind"
+  },
+  "relearn": {
+    "translation": "reaprender",
+    "meaning": "aprender novamente",
+    "usage": "ex.: relearn skills"
+  },
+  "release": {
+    "translation": "liberar; lançar; liberação",
+    "meaning": "soltar; também ato de libertar",
+    "usage": "ex.: release tension"
+  },
+  "released": {
+    "translation": "liberou; lançou; libertado(a)",
+    "meaning": "passado de \"release\"",
+    "usage": "ex.: released album"
+  },
+  "relentlessly": {
+    "translation": "implacavelmente",
+    "meaning": "sem parar; persistentemente",
+    "usage": "ex.: work relentlessly"
+  },
+  "relieved": {
+    "translation": "aliviou; aliviado(a)",
+    "meaning": "passado de \"relieve\"; também com alívio",
+    "usage": "ex.: felt relieved"
+  },
+  "remained": {
+    "translation": "permaneceu; ficou",
+    "meaning": "passado de \"remain\"",
+    "usage": "ex.: remained calm"
+  },
+  "remaining": {
+    "translation": "restante; permanecendo",
+    "meaning": "que sobra; também gerúndio de \"remain\"",
+    "usage": "ex.: remaining time"
+  },
+  "remember": {
+    "translation": "lembrar; recordar",
+    "meaning": "trazer à memória",
+    "usage": "ex.: remember name"
+  },
+  "remembered": {
+    "translation": "lembrou; recordou",
+    "meaning": "passado de \"remember\"",
+    "usage": "ex.: remembered details"
+  },
+  "reminded": {
+    "translation": "lembrou; relembrou",
+    "meaning": "passado de \"remind\"",
+    "usage": "ex.: reminded me"
+  },
+  "repair": {
+    "translation": "reparar; consertar; reparo",
+    "meaning": "corrigir; também conserto",
+    "usage": "ex.: repair damage"
+  },
+  "repeatedly": {
+    "translation": "repetidamente",
+    "meaning": "de modo repetido; várias vezes",
+    "usage": "ex.: asked repeatedly"
+  },
+  "replayed": {
+    "translation": "reproduziu; repetiu",
+    "meaning": "passado de \"replay\"",
+    "usage": "ex.: replayed memory"
+  },
+  "replicate": {
+    "translation": "replicar; reproduzir",
+    "meaning": "copiar; duplicar",
+    "usage": "ex.: replicate success"
+  },
+  "replied": {
+    "translation": "respondeu; replicou",
+    "meaning": "passado de \"reply\"",
+    "usage": "ex.: replied quickly"
+  },
+  "reputation": {
+    "translation": "reputação",
+    "meaning": "opinião geral sobre alguém",
+    "usage": "ex.: good reputation"
+  },
+  "request": {
+    "translation": "pedido; solicitação; solicitar",
+    "meaning": "requerimento; também pedir",
+    "usage": "ex.: make request"
+  },
+  "requests": {
+    "translation": "pedidos; solicita",
+    "meaning": "plural de \"request\"; também 3ª pessoa",
+    "usage": "ex.: many requests"
+  },
+  "require": {
+    "translation": "requerer; exigir",
+    "meaning": "precisar; necessitar",
+    "usage": "ex.: require attention"
+  },
+  "required": {
+    "translation": "requereu; exigiu; obrigatório(a)",
+    "meaning": "passado de \"require\"; também necessário",
+    "usage": "ex.: required field"
+  },
+  "requires": {
+    "translation": "requer; exige",
+    "meaning": "3ª pessoa do singular de \"require\"",
+    "usage": "ex.: requires effort"
+  },
+  "research": {
+    "translation": "pesquisa; pesquisar",
+    "meaning": "investigação; também estudar",
+    "usage": "ex.: conduct research"
+  },
+  "resented": {
+    "translation": "ressentiu; ressentiu-se",
+    "meaning": "passado de \"resent\"",
+    "usage": "ex.: resented treatment"
+  },
+  "resentful": {
+    "translation": "ressentido(a)",
+    "meaning": "que sente ressentimento",
+    "usage": "ex.: feel resentful"
+  },
+  "resentment": {
+    "translation": "ressentimento",
+    "meaning": "mágoa; rancor",
+    "usage": "ex.: harbor resentment"
+  },
+  "reserved": {
+    "translation": "reservou; reservado(a)",
+    "meaning": "passado de \"reserve\"; também discreto; contido",
+    "usage": "ex.: reserved seat; reserved person"
+  },
+  "resilience": {
+    "translation": "resiliência",
+    "meaning": "capacidade de recuperação; elasticidade",
+    "usage": "ex.: build resilience"
+  },
+  "resilient": {
+    "translation": "resiliente",
+    "meaning": "que se recupera facilmente",
+    "usage": "ex.: resilient nature"
+  },
+  "resolved": {
+    "translation": "resolveu; resolvido(a); determinado(a)",
+    "meaning": "passado de \"resolve\"; também decidido",
+    "usage": "ex.: resolved issue"
+  },
+  "resources": {
+    "translation": "recursos",
+    "meaning": "plural de \"resource\"; meios disponíveis",
+    "usage": "ex.: natural resources"
+  },
+  "respect": {
+    "translation": "respeito; respeitar",
+    "meaning": "consideração; também honrar",
+    "usage": "ex.: show respect"
+  },
+  "respected": {
+    "translation": "respeitou; respeitado(a)",
+    "meaning": "passado de \"respect\"",
+    "usage": "ex.: highly respected"
+  },
+  "respectfully": {
+    "translation": "respeitosamente",
+    "meaning": "de modo respeitoso",
+    "usage": "ex.: speak respectfully"
+  },
+  "respecting": {
+    "translation": "respeitando",
+    "meaning": "gerúndio de \"respect\"",
+    "usage": "ex.: respecting boundaries"
+  },
+  "respond": {
+    "translation": "responder; reagir",
+    "meaning": "dar resposta; também corresponder",
+    "usage": "ex.: respond quickly"
+  },
+  "responded": {
+    "translation": "respondeu; reagiu",
+    "meaning": "passado de \"respond\"",
+    "usage": "ex.: responded well"
+  },
+  "responding": {
+    "translation": "respondendo; reagindo",
+    "meaning": "gerúndio de \"respond\"",
+    "usage": "ex.: responding to crisis"
+  },
+  "response": {
+    "translation": "resposta",
+    "meaning": "replicação; reação",
+    "usage": "ex.: quick response"
+  },
+  "responsibilities": {
+    "translation": "responsabilidades",
+    "meaning": "plural de \"responsibility\"",
+    "usage": "ex.: many responsibilities"
+  },
+  "responsibility": {
+    "translation": "responsabilidade",
+    "meaning": "obrigação; dever",
+    "usage": "ex.: take responsibility"
+  },
+  "responsible": {
+    "translation": "responsável",
+    "meaning": "que tem responsabilidade",
+    "usage": "ex.: responsible person"
+  },
+  "rest": {
+    "translation": "descanso; resto; descansar",
+    "meaning": "repouso; também o que sobra; repousar",
+    "usage": "ex.: get rest; rest of life"
+  },
+  "restaurant": {
+    "translation": "restaurante",
+    "meaning": "estabelecimento que serve refeições",
+    "usage": "ex.: eat at restaurant"
+  },
+  "results": {
+    "translation": "resultados; resulta",
+    "meaning": "plural de \"result\"; também 3ª pessoa",
+    "usage": "ex.: good results"
+  },
+  "retirement": {
+    "translation": "aposentadoria",
+    "meaning": "ato de aposentar-se; retiro",
+    "usage": "ex.: early retirement"
+  },
+  "return": {
+    "translation": "retornar; voltar; retorno",
+    "meaning": "vir de volta; também volta",
+    "usage": "ex.: return home"
+  },
+  "returned": {
+    "translation": "retornou; voltou; devolveu",
+    "meaning": "passado de \"return\"",
+    "usage": "ex.: returned call"
+  },
+  "returning": {
+    "translation": "retornando; voltando",
+    "meaning": "gerúndio de \"return\"",
+    "usage": "ex.: returning soon"
+  },
+  "revealed": {
+    "translation": "revelou; revelado(a)",
+    "meaning": "passado de \"reveal\"",
+    "usage": "ex.: revealed truth"
+  },
+  "revered": {
+    "translation": "reverenciou; reverenciado(a)",
+    "meaning": "passado de \"revere\"; venerado",
+    "usage": "ex.: highly revered"
+  },
+  "reward": {
+    "translation": "recompensa; recompensar",
+    "meaning": "prêmio; também premiar",
+    "usage": "ex.: earn reward"
+  },
+  "rich": {
+    "translation": "rico(a); abundante",
+    "meaning": "que tem riqueza; também farto",
+    "usage": "ex.: rich people; rich flavor"
+  },
+  "richer": {
+    "translation": "mais rico(a)",
+    "meaning": "comparativo de \"rich\"",
+    "usage": "ex.: richer life"
+  },
+  "right": {
+    "translation": "direito; correto(a); certo(a)",
+    "meaning": "lado direito; também apropriado; justo",
+    "usage": "ex.: turn right; right answer"
+  },
+  "rights": {
+    "translation": "direitos",
+    "meaning": "plural de \"right\"; prerrogativas",
+    "usage": "ex.: human rights"
+  },
+  "rigid": {
+    "translation": "rígido(a); inflexível",
+    "meaning": "que não se dobra; também estrito",
+    "usage": "ex.: rigid rules"
+  },
+  "ripple": {
+    "translation": "ondulação; ondular",
+    "meaning": "pequena onda; também propagar-se",
+    "usage": "ex.: ripple effect"
+  },
+  "risk": {
+    "translation": "risco; arriscar",
+    "meaning": "perigo potencial; também ousar",
+    "usage": "ex.: take risk"
+  },
+  "risking": {
+    "translation": "arriscando",
+    "meaning": "gerúndio de \"risk\"",
+    "usage": "ex.: risking everything"
+  },
+  "risks": {
+    "translation": "riscos; arrisca",
+    "meaning": "plural de \"risk\"; também 3ª pessoa",
+    "usage": "ex.: many risks"
+  },
+  "risky": {
+    "translation": "arriscado(a); perigoso(a)",
+    "meaning": "que envolve risco",
+    "usage": "ex.: risky decision"
+  },
+  "rival": {
+    "translation": "rival; competidor(a)",
+    "meaning": "oponente; concorrente",
+    "usage": "ex.: business rival"
+  },
+  "road": {
+    "translation": "estrada; caminho",
+    "meaning": "via; rota",
+    "usage": "ex.: long road"
+  },
+  "robbed": {
+    "translation": "roubou; roubado(a)",
+    "meaning": "passado de \"rob\"",
+    "usage": "ex.: robbed bank"
+  },
+  "robert": {
+    "translation": "Robert",
+    "meaning": "nome próprio masculino",
+    "usage": "usado como nome pessoal"
+  },
+  "roberto": {
+    "translation": "Roberto",
+    "meaning": "nome próprio masculino",
+    "usage": "usado como nome pessoal"
+  },
+  "robs": {
+    "translation": "rouba; priva",
+    "meaning": "3ª pessoa do singular de \"rob\"",
+    "usage": "ex.: robs people"
+  },
+  "rock": {
+    "translation": "rocha; pedra; balançar",
+    "meaning": "formação rochosa; também embalar",
+    "usage": "ex.: solid rock; rock baby"
+  },
+  "role": {
+    "translation": "papel; função",
+    "meaning": "personagem; também responsabilidade",
+    "usage": "ex.: important role"
+  },
+  "roles": {
+    "translation": "papéis; funções",
+    "meaning": "plural de \"role\"",
+    "usage": "ex.: multiple roles"
+  },
+  "room": {
+    "translation": "quarto; sala; espaço",
+    "meaning": "aposento; também lugar disponível",
+    "usage": "ex.: bedroom; room for growth"
+  },
+  "rose": {
+    "translation": "levantou-se; rosa",
+    "meaning": "passado de \"rise\"; também flor",
+    "usage": "ex.: sun rose; red rose"
+  },
+  "routine": {
+    "translation": "rotina",
+    "meaning": "sequência habitual de atividades",
+    "usage": "ex.: daily routine"
+  },
+  "ruin": {
+    "translation": "ruína; arruinar",
+    "meaning": "destruição; também destruir",
+    "usage": "ex.: fall into ruin; ruin plans"
+  },
+  "rule": {
+    "translation": "regra; governar",
+    "meaning": "norma; também dominar",
+    "usage": "ex.: follow rules; rule kingdom"
+  },
+  "run": {
+    "translation": "correr; executar; dirigir",
+    "meaning": "mover-se rapidamente; também operar",
+    "usage": "ex.: run fast; run business"
+  },
+  "running": {
+    "translation": "correndo; executando",
+    "meaning": "gerúndio de \"run\"",
+    "usage": "ex.: running late"
+  },
+  "russell": {
+    "translation": "Russell",
+    "meaning": "nome próprio masculino",
+    "usage": "usado como nome pessoal"
+  },
+  "rustic": {
+    "translation": "rústico(a)",
+    "meaning": "simples; campestre",
+    "usage": "ex.: rustic cabin"
+  },
+  "s": {
+    "translation": "s",
+    "meaning": "letra do alfabeto; abreviação",
+    "usage": "ex.: 's (it's, he's)"
+  },
+  "sacrifice": {
+    "translation": "sacrifício; sacrificar",
+    "meaning": "ato de renunciar; também abdicar",
+    "usage": "ex.: make sacrifice"
+  },
+  "sacrificed": {
+    "translation": "sacrificou; sacrificado(a)",
+    "meaning": "passado de \"sacrifice\"",
+    "usage": "ex.: sacrificed career"
+  },
+  "sacrificing": {
+    "translation": "sacrificando",
+    "meaning": "gerúndio de \"sacrifice\"",
+    "usage": "ex.: sacrificing time"
+  },
+  "sad": {
+    "translation": "triste",
+    "meaning": "que sente tristeza",
+    "usage": "ex.: feel sad"
+  },
+  "sadly": {
+    "translation": "tristemente; infelizmente",
+    "meaning": "de modo triste; lamentavelmente",
+    "usage": "ex.: sadly, it failed"
+  },
+  "safe": {
+    "translation": "seguro(a); cofre",
+    "meaning": "protegido; também caixa-forte",
+    "usage": "ex.: safe place; keep in safe"
+  },
+  "safely": {
+    "translation": "com segurança; em segurança",
+    "meaning": "de modo seguro",
+    "usage": "ex.: arrived safely"
+  },
+  "safer": {
+    "translation": "mais seguro(a)",
+    "meaning": "comparativo de \"safe\"",
+    "usage": "ex.: safer option"
+  },
+  "safety": {
+    "translation": "segurança",
+    "meaning": "estado de estar seguro",
+    "usage": "ex.: safety first"
+  },
+  "said": {
+    "translation": "disse; dito(a)",
+    "meaning": "passado de \"say\"",
+    "usage": "ex.: said goodbye"
+  },
+  "sake": {
+    "translation": "bem; causa",
+    "meaning": "usado em \"for the sake of\" (pelo bem de)",
+    "usage": "ex.: for your sake"
+  },
+  "salary": {
+    "translation": "salário",
+    "meaning": "remuneração periódica",
+    "usage": "ex.: annual salary"
+  },
+  "salvage": {
+    "translation": "salvar; resgatar; salvamento",
+    "meaning": "recuperar; também resgate",
+    "usage": "ex.: salvage relationship"
+  },
+  "same": {
+    "translation": "mesmo(a); igual",
+    "meaning": "idêntico; também semelhante",
+    "usage": "ex.: same person; at same time"
+  },
+  "samuel": {
+    "translation": "Samuel",
+    "meaning": "nome próprio masculino",
+    "usage": "usado como nome pessoal"
+  },
+  "sarah": {
+    "translation": "Sarah",
+    "meaning": "nome próprio feminino",
+    "usage": "usado como nome pessoal"
+  },
+  "sat": {
+    "translation": "sentou; sentado(a)",
+    "meaning": "passado de \"sit\"",
+    "usage": "ex.: sat down"
+  },
+  "satisfaction": {
+    "translation": "satisfação",
+    "meaning": "contentamento; prazer",
+    "usage": "ex.: job satisfaction"
+  },
+  "satisfied": {
+    "translation": "satisfez; satisfeito(a)",
+    "meaning": "passado de \"satisfy\"; também contente",
+    "usage": "ex.: felt satisfied"
+  },
+  "save": {
+    "translation": "salvar; economizar; guardar",
+    "meaning": "resgatar; também poupar",
+    "usage": "ex.: save life; save money"
+  },
+  "saved": {
+    "translation": "salvou; economizou; guardado(a)",
+    "meaning": "passado de \"save\"",
+    "usage": "ex.: saved time"
+  },
+  "saves": {
+    "translation": "salva; economiza",
+    "meaning": "3ª pessoa do singular de \"save\"",
+    "usage": "ex.: saves lives"
+  },
+  "saw": {
+    "translation": "viu; serra",
+    "meaning": "passado de \"see\"; também ferramenta",
+    "usage": "ex.: saw movie"
+  },
+  "say": {
+    "translation": "dizer; falar",
+    "meaning": "expressar com palavras",
+    "usage": "ex.: say hello"
+  },
+  "saying": {
+    "translation": "dizendo; ditado",
+    "meaning": "gerúndio de \"say\"; também provérbio",
+    "usage": "ex.: saying goodbye; old saying"
+  },
+  "scholarship": {
+    "translation": "bolsa de estudos",
+    "meaning": "auxílio financeiro para estudar",
+    "usage": "ex.: win scholarship"
+  },
+  "scholarships": {
+    "translation": "bolsas de estudos",
+    "meaning": "plural de \"scholarship\"",
+    "usage": "ex.: apply for scholarships"
+  },
+  "school": {
+    "translation": "escola",
+    "meaning": "instituição de ensino",
+    "usage": "ex.: go to school"
+  },
+  "schools": {
+    "translation": "escolas",
+    "meaning": "plural de \"school\"",
+    "usage": "ex.: public schools"
+  },
+  "science": {
+    "translation": "ciência",
+    "meaning": "conhecimento sistemático",
+    "usage": "ex.: study science"
+  },
+  "scientist": {
+    "translation": "cientista",
+    "meaning": "pessoa que pratica ciência",
+    "usage": "ex.: famous scientist"
+  },
+  "scrambling": {
+    "translation": "embaralhando; lutando",
+    "meaning": "gerúndio de \"scramble\"; esforçando-se",
+    "usage": "ex.: scrambling for answers"
+  },
+  "search": {
+    "translation": "busca; procura; buscar",
+    "meaning": "pesquisa; também procurar",
+    "usage": "ex.: search for truth"
+  },
+  "searched": {
+    "translation": "buscou; procurou; pesquisado(a)",
+    "meaning": "passado de \"search\"",
+    "usage": "ex.: searched everywhere"
+  },
+  "seasons": {
+    "translation": "estações; temporadas",
+    "meaning": "plural de \"season\"",
+    "usage": "ex.: four seasons"
+  },
+  "second": {
+    "translation": "segundo(a); segundo (tempo)",
+    "meaning": "que vem após o primeiro; também unidade de tempo",
+    "usage": "ex.: second place; wait a second"
+  },
+  "secret": {
+    "translation": "segredo; secreto(a)",
+    "meaning": "informação oculta; também escondido",
+    "usage": "ex.: keep secret"
+  },
+  "secure": {
+    "translation": "seguro(a); garantir",
+    "meaning": "protegido; também assegurar",
+    "usage": "ex.: secure future"
+  },
+  "security": {
+    "translation": "segurança",
+    "meaning": "proteção; estabilidade",
+    "usage": "ex.: job security"
+  },
+  "see": {
+    "translation": "ver; perceber",
+    "meaning": "enxergar; também entender",
+    "usage": "ex.: see clearly; see point"
+  },
+  "seeing": {
+    "translation": "vendo; percebendo",
+    "meaning": "gerúndio de \"see\"",
+    "usage": "ex.: seeing results"
+  },
+  "seek": {
+    "translation": "buscar; procurar",
+    "meaning": "tentar encontrar",
+    "usage": "ex.: seek help"
+  },
+  "seeking": {
+    "translation": "buscando; procurando",
+    "meaning": "gerúndio de \"seek\"",
+    "usage": "ex.: seeking answers"
+  },
+  "seemed": {
+    "translation": "pareceu; aparentou",
+    "meaning": "passado de \"seem\"",
+    "usage": "ex.: seemed happy"
+  },
+  "seen": {
+    "translation": "visto(a)",
+    "meaning": "particípio de \"see\"",
+    "usage": "ex.: have seen"
+  },
+  "self": {
+    "translation": "eu; si mesmo(a)",
+    "meaning": "própria pessoa; identidade",
+    "usage": "ex.: true self"
+  },
+  "selfish": {
+    "translation": "egoísta",
+    "meaning": "que só pensa em si",
+    "usage": "ex.: selfish behavior"
+  },
+  "selflessness": {
+    "translation": "altruísmo; desprendimento",
+    "meaning": "qualidade de pensar nos outros",
+    "usage": "ex.: act of selflessness"
+  },
+  "selves": {
+    "translation": "eus; si mesmos(as)",
+    "meaning": "plural de \"self\"",
+    "usage": "ex.: our true selves"
+  },
+  "sense": {
+    "translation": "sentido; senso; sentir",
+    "meaning": "percepção; também perceber",
+    "usage": "ex.: common sense; sense danger"
+  },
+  "separate": {
+    "translation": "separar; separado(a)",
+    "meaning": "dividir; também distinto",
+    "usage": "ex.: separate items"
+  },
+  "separation": {
+    "translation": "separação",
+    "meaning": "ato de separar; distância",
+    "usage": "ex.: painful separation"
+  },
+  "series": {
+    "translation": "série",
+    "meaning": "sequência; conjunto",
+    "usage": "ex.: TV series"
+  },
+  "serious": {
+    "translation": "sério(a)",
+    "meaning": "grave; comprometido",
+    "usage": "ex.: serious problem"
+  },
+  "serve": {
+    "translation": "servir; atender",
+    "meaning": "prestar serviço; também oferecer",
+    "usage": "ex.: serve food"
+  },
+  "served": {
+    "translation": "serviu; atendeu",
+    "meaning": "passado de \"serve\"",
+    "usage": "ex.: served well"
+  },
+  "service": {
+    "translation": "serviço; atendimento",
+    "meaning": "trabalho prestado; assistência",
+    "usage": "ex.: customer service"
+  },
+  "serving": {
+    "translation": "servindo; porção",
+    "meaning": "gerúndio de \"serve\"; também quantidade",
+    "usage": "ex.: serving dinner"
+  },
+  "session": {
+    "translation": "sessão",
+    "meaning": "período de atividade; reunião",
+    "usage": "ex.: therapy session"
+  },
+  "set": {
+    "translation": "conjunto; estabelecer; definir",
+    "meaning": "coleção; também fixar; por do sol",
+    "usage": "ex.: set of rules; set goal"
+  },
+  "setback": {
+    "translation": "revés; contratempo",
+    "meaning": "problema que atrasa progresso",
+    "usage": "ex.: major setback"
+  },
+  "setbacks": {
+    "translation": "revéses; contratempos",
+    "meaning": "plural de \"setback\"",
+    "usage": "ex.: overcome setbacks"
+  },
+  "sets": {
+    "translation": "conjuntos; estabelece",
+    "meaning": "plural de \"set\"; também 3ª pessoa",
+    "usage": "ex.: sets standards"
+  },
+  "setting": {
+    "translation": "configurando; ambiente; cenário",
+    "meaning": "gerúndio de \"set\"; também local",
+    "usage": "ex.: setting goals; beautiful setting"
+  },
+  "seventy": {
+    "translation": "setenta",
+    "meaning": "número 70",
+    "usage": "ex.: seventy years"
+  },
+  "several": {
+    "translation": "vários(as); diversos(as)",
+    "meaning": "mais de dois; alguns",
+    "usage": "ex.: several times"
+  },
+  "severe": {
+    "translation": "severo(a); grave",
+    "meaning": "rigoroso; também sério",
+    "usage": "ex.: severe pain"
+  },
+  "sexual": {
+    "translation": "sexual",
+    "meaning": "relativo ao sexo",
+    "usage": "ex.: sexual orientation"
+  },
+  "shake": {
+    "translation": "sacudir; tremer; agitar",
+    "meaning": "balançar; também estremecer",
+    "usage": "ex.: shake hands"
+  },
+  "shaking": {
+    "translation": "sacudindo; tremendo",
+    "meaning": "gerúndio de \"shake\"",
+    "usage": "ex.: shaking with fear"
+  },
+  "shaky": {
+    "translation": "trêmulo(a); instável",
+    "meaning": "que treme; também incerto",
+    "usage": "ex.: shaky ground"
+  },
+  "shallow": {
+    "translation": "raso(a); superficial",
+    "meaning": "de pouca profundidade; também fútil",
+    "usage": "ex.: shallow water"
+  },
+  "shame": {
+    "translation": "vergonha; envergonhar",
+    "meaning": "sentimento de humilhação; também desonrar",
+    "usage": "ex.: feel shame"
+  },
+  "shape": {
+    "translation": "forma; formato; moldar",
+    "meaning": "configuração; também dar forma",
+    "usage": "ex.: in good shape; shape future"
+  },
+  "shaped": {
+    "translation": "moldou; moldado(a); formado(a)",
+    "meaning": "passado de \"shape\"",
+    "usage": "ex.: shaped by experience"
+  },
+  "shaping": {
+    "translation": "moldando; formando",
+    "meaning": "gerúndio de \"shape\"",
+    "usage": "ex.: shaping identity"
+  },
+  "share": {
+    "translation": "compartilhar; partilhar; parte",
+    "meaning": "dividir com outros; também porção",
+    "usage": "ex.: share information"
+  },
+  "shared": {
+    "translation": "compartilhou; compartilhado(a)",
+    "meaning": "passado de \"share\"",
+    "usage": "ex.: shared experience"
+  },
+  "shareholder": {
+    "translation": "acionista",
+    "meaning": "pessoa que possui ações",
+    "usage": "ex.: major shareholder"
+  },
+  "sharing": {
+    "translation": "compartilhando; partilhando",
+    "meaning": "gerúndio de \"share\"",
+    "usage": "ex.: sharing ideas"
+  },
+  "she": {
+    "translation": "ela",
+    "meaning": "pronome feminino terceira pessoa",
+    "usage": "ex.: she is happy"
+  },
+  "shelter": {
+    "translation": "abrigo; abrigar",
+    "meaning": "refúgio; também proteger",
+    "usage": "ex.: need shelter"
+  },
+  "shelters": {
+    "translation": "abrigos; abriga",
+    "meaning": "plural de \"shelter\"; também 3ª pessoa",
+    "usage": "ex.: homeless shelters"
+  },
+  "shifted": {
+    "translation": "mudou; deslocou; transferido(a)",
+    "meaning": "passado de \"shift\"",
+    "usage": "ex.: shifted perspective"
+  },
+  "shocked": {
+    "translation": "chocou; chocado(a)",
+    "meaning": "passado de \"shock\"; também surpreso",
+    "usage": "ex.: deeply shocked"
+  },
+  "shocking": {
+    "translation": "chocante",
+    "meaning": "que causa choque",
+    "usage": "ex.: shocking news"
+  },
+  "shook": {
+    "translation": "sacudiu; tremeu; abalado(a)",
+    "meaning": "passado de \"shake\"",
+    "usage": "ex.: shook hands"
+  },
+  "short": {
+    "translation": "curto(a); baixo(a)",
+    "meaning": "de pouca extensão; também pequeno em estatura",
+    "usage": "ex.: short time; short person"
+  },
+  "should": {
+    "translation": "deveria; deve",
+    "meaning": "verbo modal indicando obrigação ou conselho",
+    "usage": "ex.: should go"
+  },
+  "shouldn": {
+    "translation": "não deveria",
+    "meaning": "contração de \"should not\"",
+    "usage": "ex.: shouldn't worry"
+  },
+  "show": {
+    "translation": "mostrar; exibir; programa",
+    "meaning": "demonstrar; também espetáculo",
+    "usage": "ex.: show respect; TV show"
+  },
+  "showed": {
+    "translation": "mostrou; exibiu",
+    "meaning": "passado de \"show\"",
+    "usage": "ex.: showed courage"
+  },
+  "showing": {
+    "translation": "mostrando; exibindo",
+    "meaning": "gerúndio de \"show\"",
+    "usage": "ex.: showing emotion"
+  },
+  "shown": {
+    "translation": "mostrado(a); exibido(a)",
+    "meaning": "particípio de \"show\"",
+    "usage": "ex.: has shown"
+  },
+  "shrink": {
+    "translation": "encolher; diminuir",
+    "meaning": "reduzir de tamanho",
+    "usage": "ex.: shrink away"
+  },
+  "shutting": {
+    "translation": "fechando",
+    "meaning": "gerúndio de \"shut\"",
+    "usage": "ex.: shutting door"
+  },
+  "shy": {
+    "translation": "tímido(a)",
+    "meaning": "reservado; envergonhado",
+    "usage": "ex.: shy person"
+  },
+  "shyness": {
+    "translation": "timidez",
+    "meaning": "qualidade de ser tímido",
+    "usage": "ex.: overcome shyness"
+  },
+  "siblings": {
+    "translation": "irmãos",
+    "meaning": "irmãos e irmãs",
+    "usage": "ex.: three siblings"
+  },
+  "sick": {
+    "translation": "doente; enjoado(a)",
+    "meaning": "com doença; também farto",
+    "usage": "ex.: feel sick"
+  },
+  "side": {
+    "translation": "lado; lateral",
+    "meaning": "face; também aspecto",
+    "usage": "ex.: other side; by your side"
+  },
+  "sign": {
+    "translation": "sinal; placa; assinar",
+    "meaning": "indicação; também marcar",
+    "usage": "ex.: warning sign; sign document"
+  },
+  "silence": {
+    "translation": "silêncio; silenciar",
+    "meaning": "ausência de som; também calar",
+    "usage": "ex.: break silence"
+  },
+  "silenced": {
+    "translation": "silenciou; silenciado(a)",
+    "meaning": "passado de \"silence\"",
+    "usage": "ex.: silenced critics"
+  },
+  "silent": {
+    "translation": "silencioso(a); calado(a)",
+    "meaning": "sem som; também quieto",
+    "usage": "ex.: remain silent"
+  },
+  "silently": {
+    "translation": "silenciosamente",
+    "meaning": "de modo silencioso",
+    "usage": "ex.: move silently"
+  },
+  "silly": {
+    "translation": "bobo(a); tolo(a)",
+    "meaning": "sem sentido; absurdo",
+    "usage": "ex.: silly mistake"
+  },
+  "similar": {
+    "translation": "similar; semelhante",
+    "meaning": "parecido; análogo",
+    "usage": "ex.: similar experience"
+  },
+  "simple": {
+    "translation": "simples",
+    "meaning": "fácil; descomplicado",
+    "usage": "ex.: simple solution"
+  },
+  "since": {
+    "translation": "desde; como; já que",
+    "meaning": "a partir de; também porque",
+    "usage": "ex.: since yesterday; since you asked"
+  },
+  "single": {
+    "translation": "único(a); solteiro(a); individual",
+    "meaning": "um só; também não casado",
+    "usage": "ex.: single person; single room"
+  },
+  "sit": {
+    "translation": "sentar",
+    "meaning": "tomar assento",
+    "usage": "ex.: sit down"
+  },
+  "sitting": {
+    "translation": "sentando; sentado(a)",
+    "meaning": "gerúndio de \"sit\"",
+    "usage": "ex.: sitting quietly"
+  },
+  "situation": {
+    "translation": "situação",
+    "meaning": "circunstância; condição",
+    "usage": "ex.: difficult situation"
+  },
+  "six": {
+    "translation": "seis",
+    "meaning": "número 6",
+    "usage": "ex.: six people"
+  },
+  "sixty": {
+    "translation": "sessenta",
+    "meaning": "número 60",
+    "usage": "ex.: sixty years"
+  },
+  "skill": {
+    "translation": "habilidade; competência",
+    "meaning": "capacidade desenvolvida",
+    "usage": "ex.: important skill"
+  },
+  "skills": {
+    "translation": "habilidades; competências",
+    "meaning": "plural de \"skill\"",
+    "usage": "ex.: develop skills"
+  },
+  "skin": {
+    "translation": "pele",
+    "meaning": "tegumento; superfície",
+    "usage": "ex.: soft skin"
+  },
+  "sky": {
+    "translation": "céu",
+    "meaning": "firmamento; atmosfera",
+    "usage": "ex.: blue sky"
+  },
+  "slept": {
+    "translation": "dormiu; dormido(a)",
+    "meaning": "passado de \"sleep\"",
+    "usage": "ex.: slept well"
+  },
+  "slightly": {
+    "translation": "ligeiramente; levemente",
+    "meaning": "um pouco; de leve",
+    "usage": "ex.: slightly different"
+  },
+  "slow": {
+    "translation": "lento(a); devagar",
+    "meaning": "de baixa velocidade; também adjetivo",
+    "usage": "ex.: slow down; slow process"
+  },
+  "slower": {
+    "translation": "mais lento(a)",
+    "meaning": "comparativo de \"slow\"",
+    "usage": "ex.: slower pace"
+  },
+  "slowly": {
+    "translation": "lentamente; devagar",
+    "meaning": "de modo lento",
+    "usage": "ex.: move slowly"
+  },
+  "small": {
+    "translation": "pequeno(a)",
+    "meaning": "de tamanho reduzido",
+    "usage": "ex.: small house"
+  },
+  "smaller": {
+    "translation": "menor",
+    "meaning": "comparativo de \"small\"",
+    "usage": "ex.: smaller size"
+  },
+  "smallest": {
+    "translation": "menor; o(a) mais pequeno(a)",
+    "meaning": "superlativo de \"small\"",
+    "usage": "ex.: smallest detail"
+  },
+  "smart": {
+    "translation": "inteligente; esperto(a)",
+    "meaning": "que tem inteligência",
+    "usage": "ex.: smart decision"
+  },
+  "smarter": {
+    "translation": "mais inteligente",
+    "meaning": "comparativo de \"smart\"",
+    "usage": "ex.: smarter approach"
+  },
+  "smartest": {
+    "translation": "mais inteligente; o(a) mais esperto(a)",
+    "meaning": "superlativo de \"smart\"",
+    "usage": "ex.: smartest person"
+  },
+  "smiled": {
+    "translation": "sorriu",
+    "meaning": "passado de \"smile\"",
+    "usage": "ex.: smiled warmly"
+  },
+  "smooth": {
+    "translation": "liso(a); suave",
+    "meaning": "sem aspereza; também tranquilo",
+    "usage": "ex.: smooth surface"
+  },
+  "snow": {
+    "translation": "neve; nevar",
+    "meaning": "precipitação gelada; também cair neve",
+    "usage": "ex.: white snow"
+  },
+  "snowstorm": {
+    "translation": "tempestade de neve; nevasca",
+    "meaning": "tempestade com neve intensa",
+    "usage": "ex.: survive snowstorm"
+  },
+  "so": {
+    "translation": "então; tão; assim",
+    "meaning": "portanto; também muito; desse modo",
+    "usage": "ex.: so good; so what?"
+  },
+  "sober": {
+    "translation": "sóbrio(a)",
+    "meaning": "não embriagado; também moderado",
+    "usage": "ex.: stay sober"
+  },
+  "soccer": {
+    "translation": "futebol",
+    "meaning": "esporte com bola e gols",
+    "usage": "ex.: play soccer"
+  },
+  "social": {
+    "translation": "social",
+    "meaning": "relativo à sociedade",
+    "usage": "ex.: social media"
+  },
+  "society": {
+    "translation": "sociedade",
+    "meaning": "comunidade; organização social",
+    "usage": "ex.: modern society"
+  },
+  "sofia": {
+    "translation": "Sofia",
+    "meaning": "nome próprio feminino",
+    "usage": "usado como nome pessoal"
+  },
+  "sold": {
+    "translation": "vendeu; vendido(a)",
+    "meaning": "passado de \"sell\"",
+    "usage": "ex.: sold house"
+  },
+  "soldier": {
+    "translation": "soldado",
+    "meaning": "militar; combatente",
+    "usage": "ex.: brave soldier"
+  },
+  "soldiers": {
+    "translation": "soldados",
+    "meaning": "plural de \"soldier\"",
+    "usage": "ex.: many soldiers"
+  },
+  "sole": {
+    "translation": "único(a); sola",
+    "meaning": "exclusivo; também parte do sapato",
+    "usage": "ex.: sole purpose"
+  },
+  "solutions": {
+    "translation": "soluções",
+    "meaning": "plural de \"solution\"",
+    "usage": "ex.: find solutions"
+  },
+  "solve": {
+    "translation": "resolver; solucionar",
+    "meaning": "encontrar solução",
+    "usage": "ex.: solve problem"
+  },
+  "solved": {
+    "translation": "resolveu; resolvido(a)",
+    "meaning": "passado de \"solve\"",
+    "usage": "ex.: solved puzzle"
+  },
+  "solving": {
+    "translation": "resolvendo; solucionando",
+    "meaning": "gerúndio de \"solve\"",
+    "usage": "ex.: solving issues"
+  },
+  "some": {
+    "translation": "alguns; algum; alguns",
+    "meaning": "uma quantidade indeterminada; alguns",
+    "usage": "ex.: some people"
+  },
+  "someone": {
+    "translation": "alguém",
+    "meaning": "uma pessoa não especificada",
+    "usage": "ex.: someone called"
+  },
+  "something": {
+    "translation": "algo; alguma coisa",
+    "meaning": "uma coisa não especificada",
+    "usage": "ex.: something important"
+  },
+  "sometimes": {
+    "translation": "às vezes; algumas vezes",
+    "meaning": "em certas ocasiões; ocasionalmente",
+    "usage": "ex.: sometimes I read"
+  },
+  "somewhere": {
+    "translation": "em algum lugar; algures",
+    "meaning": "em um lugar não especificado",
+    "usage": "ex.: somewhere in the city"
+  },
+  "son": {
+    "translation": "filho",
+    "meaning": "descendente do sexo masculino",
+    "usage": "ex.: my son"
+  },
+  "songs": {
+    "translation": "canções; músicas",
+    "meaning": "plural de \"song\"",
+    "usage": "ex.: love songs"
+  },
+  "sophia": {
+    "translation": "Sofia",
+    "meaning": "nome próprio feminino",
+    "usage": "ex.: Sophia is here"
+  },
+  "sophie": {
+    "translation": "Sophie",
+    "meaning": "nome próprio feminino",
+    "usage": "ex.: Sophie called"
+  },
+  "sorry": {
+    "translation": "desculpe; sinto muito",
+    "meaning": "expressão de pedido de desculpas ou pesar",
+    "usage": "ex.: I'm sorry"
+  },
+  "soul": {
+    "translation": "alma",
+    "meaning": "espírito; essência espiritual de uma pessoa",
+    "usage": "ex.: my soul"
+  },
+  "sound": {
+    "translation": "som; soar",
+    "meaning": "ruído audível ou parecer",
+    "usage": "ex.: the sound of music"
+  },
+  "source": {
+    "translation": "fonte; origem",
+    "meaning": "origem de algo; ponto de proveniência",
+    "usage": "ex.: the source of the problem"
+  },
+  "sources": {
+    "translation": "fontes; origens",
+    "meaning": "plural de \"source\"",
+    "usage": "ex.: reliable sources"
+  },
+  "south": {
+    "translation": "sul",
+    "meaning": "direção ou ponto cardeal oposto ao norte",
+    "usage": "ex.: go south"
+  },
+  "spaces": {
+    "translation": "espaços",
+    "meaning": "plural de \"space\" (lugar, área)",
+    "usage": "ex.: parking spaces"
+  },
+  "spark": {
+    "translation": "faísca; centelha",
+    "meaning": "pequena partícula de fogo; inspiração inicial",
+    "usage": "ex.: a spark of hope"
+  },
+  "speak": {
+    "translation": "falar",
+    "meaning": "comunicar-se verbalmente",
+    "usage": "ex.: speak clearly"
+  },
+  "speaking": {
+    "translation": "falando",
+    "meaning": "gerúndio de \"speak\"",
+    "usage": "ex.: speaking English"
+  },
+  "special": {
+    "translation": "especial",
+    "meaning": "diferente; extraordinário; único",
+    "usage": "ex.: a special day"
+  },
+  "specific": {
+    "translation": "específico; particular",
+    "meaning": "determinado; preciso; exato",
+    "usage": "ex.: specific details"
+  },
+  "specifically": {
+    "translation": "especificamente; particularmente",
+    "meaning": "de maneira específica; precisamente",
+    "usage": "ex.: specifically for you"
+  },
+  "speech": {
+    "translation": "discurso; fala",
+    "meaning": "ato de falar; apresentação oral",
+    "usage": "ex.: give a speech"
+  },
+  "spend": {
+    "translation": "gastar; passar (tempo)",
+    "meaning": "usar dinheiro ou tempo",
+    "usage": "ex.: spend money"
+  },
+  "spending": {
+    "translation": "gastando; gasto",
+    "meaning": "gerúndio de \"spend\"; ato de gastar",
+    "usage": "ex.: spending time"
+  },
+  "spent": {
+    "translation": "gastou; passou (tempo)",
+    "meaning": "passado de \"spend\"",
+    "usage": "ex.: spent money"
+  },
+  "spoke": {
+    "translation": "falou",
+    "meaning": "passado de \"speak\"",
+    "usage": "ex.: I spoke to him"
+  },
+  "spoken": {
+    "translation": "falado",
+    "meaning": "particípio passado de \"speak\"",
+    "usage": "ex.: have spoken"
+  },
+  "spontaneity": {
+    "translation": "espontaneidade",
+    "meaning": "qualidade de ser espontâneo",
+    "usage": "ex.: love spontaneity"
+  },
+  "spontaneous": {
+    "translation": "espontâneo",
+    "meaning": "que ocorre naturalmente; sem planejamento",
+    "usage": "ex.: spontaneous decision"
+  },
+  "sports": {
+    "translation": "esportes",
+    "meaning": "plural de \"sport\"",
+    "usage": "ex.: play sports"
+  },
+  "stability": {
+    "translation": "estabilidade",
+    "meaning": "estado de ser estável; firmeza",
+    "usage": "ex.: financial stability"
+  },
+  "stable": {
+    "translation": "estável",
+    "meaning": "firme; constante; equilibrado",
+    "usage": "ex.: stable condition"
+  },
+  "standard": {
+    "translation": "padrão; norma",
+    "meaning": "nível de qualidade; modelo",
+    "usage": "ex.: high standard"
+  },
+  "standards": {
+    "translation": "padrões; normas",
+    "meaning": "plural de \"standard\"",
+    "usage": "ex.: quality standards"
+  },
+  "standing": {
+    "translation": "em pé; de pé",
+    "meaning": "posição ereta; reputação",
+    "usage": "ex.: standing position"
+  },
+  "start": {
+    "translation": "começar; iniciar",
+    "meaning": "dar início; principiar",
+    "usage": "ex.: start the day"
+  },
+  "started": {
+    "translation": "começou; iniciou",
+    "meaning": "passado de \"start\"",
+    "usage": "ex.: started working"
+  },
+  "starting": {
+    "translation": "começando; iniciando",
+    "meaning": "gerúndio de \"start\"",
+    "usage": "ex.: starting today"
+  },
+  "status": {
+    "translation": "status; situação",
+    "meaning": "estado ou condição atual",
+    "usage": "ex.: check status"
+  },
+  "stay": {
+    "translation": "ficar; permanecer",
+    "meaning": "manter-se em um lugar; continuar",
+    "usage": "ex.: stay here"
+  },
+  "stayed": {
+    "translation": "ficou; permaneceu",
+    "meaning": "passado de \"stay\"",
+    "usage": "ex.: stayed home"
+  },
+  "staying": {
+    "translation": "ficando; permanecendo",
+    "meaning": "gerúndio de \"stay\"",
+    "usage": "ex.: staying late"
+  },
+  "steady": {
+    "translation": "firme; constante",
+    "meaning": "estável; regular; uniforme",
+    "usage": "ex.: steady progress"
+  },
+  "step": {
+    "translation": "passo; degrau",
+    "meaning": "movimento do pé; etapa",
+    "usage": "ex.: take a step"
+  },
+  "stepped": {
+    "translation": "pisou; deu um passo",
+    "meaning": "passado de \"step\"",
+    "usage": "ex.: stepped forward"
+  },
+  "stigma": {
+    "translation": "estigma",
+    "meaning": "marca negativa; preconceito social",
+    "usage": "ex.: mental health stigma"
+  },
+  "still": {
+    "translation": "ainda; quieto",
+    "meaning": "até agora; imóvel; tranquilo",
+    "usage": "ex.: still waiting"
+  },
+  "stood": {
+    "translation": "ficou de pé; estava",
+    "meaning": "passado de \"stand\"",
+    "usage": "ex.: stood up"
+  },
+  "stop": {
+    "translation": "parar; parada",
+    "meaning": "cessar; interromper",
+    "usage": "ex.: stop talking"
+  },
+  "stopped": {
+    "translation": "parou",
+    "meaning": "passado de \"stop\"",
+    "usage": "ex.: stopped working"
+  },
+  "stories": {
+    "translation": "histórias; estórias",
+    "meaning": "plural de \"story\"",
+    "usage": "ex.: tell stories"
+  },
+  "story": {
+    "translation": "história; estória",
+    "meaning": "narrativa; relato",
+    "usage": "ex.: a good story"
+  },
+  "storytelling": {
+    "translation": "contação de histórias; narrativa",
+    "meaning": "arte de contar histórias",
+    "usage": "ex.: storytelling skills"
+  },
+  "strange": {
+    "translation": "estranho; esquisito",
+    "meaning": "incomum; diferente; peculiar",
+    "usage": "ex.: strange behavior"
+  },
+  "strategies": {
+    "translation": "estratégias",
+    "meaning": "plural de \"strategy\"",
+    "usage": "ex.: business strategies"
+  },
+  "streets": {
+    "translation": "ruas",
+    "meaning": "plural de \"street\"",
+    "usage": "ex.: city streets"
+  },
+  "strength": {
+    "translation": "força; resistência",
+    "meaning": "poder físico ou mental; capacidade",
+    "usage": "ex.: physical strength"
+  },
+  "strengths": {
+    "translation": "forças; pontos fortes",
+    "meaning": "plural de \"strength\"",
+    "usage": "ex.: my strengths"
+  },
+  "stress": {
+    "translation": "estresse; tensão",
+    "meaning": "pressão psicológica ou física",
+    "usage": "ex.: feel stress"
+  },
+  "stressed": {
+    "translation": "estressado; tenso",
+    "meaning": "sob pressão; ansioso",
+    "usage": "ex.: feeling stressed"
+  },
+  "stressful": {
+    "translation": "estressante",
+    "meaning": "que causa estresse",
+    "usage": "ex.: stressful situation"
+  },
+  "stretched": {
+    "translation": "esticado; estendido",
+    "meaning": "passado de \"stretch\"; alongado",
+    "usage": "ex.: stretched muscles"
+  },
+  "strict": {
+    "translation": "rigoroso; rígido",
+    "meaning": "severo; que exige obediência",
+    "usage": "ex.: strict rules"
+  },
+  "stroke": {
+    "translation": "derrame; AVC; toque",
+    "meaning": "acidente vascular cerebral; movimento",
+    "usage": "ex.: had a stroke"
+  },
+  "strong": {
+    "translation": "forte",
+    "meaning": "que tem força; poderoso",
+    "usage": "ex.: strong person"
+  },
+  "stronger": {
+    "translation": "mais forte",
+    "meaning": "comparativo de \"strong\"",
+    "usage": "ex.: getting stronger"
+  },
+  "strongest": {
+    "translation": "o mais forte",
+    "meaning": "superlativo de \"strong\"",
+    "usage": "ex.: the strongest"
+  },
+  "struck": {
+    "translation": "atingido; golpeado",
+    "meaning": "passado de \"strike\"",
+    "usage": "ex.: struck by lightning"
+  },
+  "structural": {
+    "translation": "estrutural",
+    "meaning": "relativo à estrutura",
+    "usage": "ex.: structural changes"
+  },
+  "structure": {
+    "translation": "estrutura",
+    "meaning": "organização; construção; forma",
+    "usage": "ex.: building structure"
+  },
+  "structured": {
+    "translation": "estruturado",
+    "meaning": "organizado; com estrutura definida",
+    "usage": "ex.: structured plan"
+  },
+  "struggled": {
+    "translation": "lutou; batalhou",
+    "meaning": "passado de \"struggle\"",
+    "usage": "ex.: struggled to survive"
+  },
+  "struggles": {
+    "translation": "lutas; dificuldades",
+    "meaning": "plural de \"struggle\"",
+    "usage": "ex.: daily struggles"
+  },
+  "struggling": {
+    "translation": "lutando; batalhando",
+    "meaning": "gerúndio de \"struggle\"",
+    "usage": "ex.: struggling with"
+  },
+  "stubbornness": {
+    "translation": "teimosia; obstinação",
+    "meaning": "qualidade de ser teimoso",
+    "usage": "ex.: his stubbornness"
+  },
+  "stuck": {
+    "translation": "preso; travado",
+    "meaning": "passado de \"stick\"; impossibilitado de mover",
+    "usage": "ex.: stuck in traffic"
+  },
+  "student": {
+    "translation": "estudante; aluno",
+    "meaning": "pessoa que estuda",
+    "usage": "ex.: college student"
+  },
+  "students": {
+    "translation": "estudantes; alunos",
+    "meaning": "plural de \"student\"",
+    "usage": "ex.: many students"
+  },
+  "studied": {
+    "translation": "estudou",
+    "meaning": "passado de \"study\"",
+    "usage": "ex.: studied hard"
+  },
+  "study": {
+    "translation": "estudar; estudo",
+    "meaning": "aprender; investigar; pesquisa",
+    "usage": "ex.: study English"
+  },
+  "stumbled": {
+    "translation": "tropeçou",
+    "meaning": "passado de \"stumble\"",
+    "usage": "ex.: stumbled upon"
+  },
+  "stutter": {
+    "translation": "gaguejar; gagueira",
+    "meaning": "ter dificuldade na fala; tartamudear",
+    "usage": "ex.: has a stutter"
+  },
+  "submitted": {
+    "translation": "enviou; submeteu",
+    "meaning": "passado de \"submit\"",
+    "usage": "ex.: submitted the form"
+  },
+  "succeed": {
+    "translation": "ter sucesso; conseguir",
+    "meaning": "alcançar um objetivo; obter êxito",
+    "usage": "ex.: succeed in life"
+  },
+  "succeeded": {
+    "translation": "teve sucesso; conseguiu",
+    "meaning": "passado de \"succeed\"",
+    "usage": "ex.: succeeded at last"
+  },
+  "success": {
+    "translation": "sucesso",
+    "meaning": "resultado positivo; êxito",
+    "usage": "ex.: great success"
+  },
+  "successful": {
+    "translation": "bem-sucedido; exitoso",
+    "meaning": "que teve sucesso",
+    "usage": "ex.: successful career"
+  },
+  "such": {
+    "translation": "tal; tão",
+    "meaning": "desse tipo; de tal natureza",
+    "usage": "ex.: such a day"
+  },
+  "suddenly": {
+    "translation": "de repente; subitamente",
+    "meaning": "de forma súbita; inesperadamente",
+    "usage": "ex.: suddenly appeared"
+  },
+  "suffer": {
+    "translation": "sofrer",
+    "meaning": "sentir dor ou angústia",
+    "usage": "ex.: suffer pain"
+  },
+  "suffered": {
+    "translation": "sofreu",
+    "meaning": "passado de \"suffer\"",
+    "usage": "ex.: suffered greatly"
+  },
+  "suffering": {
+    "translation": "sofrimento; sofrendo",
+    "meaning": "dor; angústia; gerúndio de \"suffer\"",
+    "usage": "ex.: end suffering"
+  },
+  "suffocated": {
+    "translation": "sufocou; asfixiou",
+    "meaning": "passado de \"suffocate\"",
+    "usage": "ex.: felt suffocated"
+  },
+  "suggested": {
+    "translation": "sugeriu",
+    "meaning": "passado de \"suggest\"",
+    "usage": "ex.: suggested an idea"
+  },
+  "suicidal": {
+    "translation": "suicida",
+    "meaning": "relacionado a suicídio; com tendências suicidas",
+    "usage": "ex.: suicidal thoughts"
+  },
+  "suicide": {
+    "translation": "suicídio",
+    "meaning": "ato de tirar a própria vida",
+    "usage": "ex.: prevent suicide"
+  },
+  "sunset": {
+    "translation": "pôr do sol; anoitecer",
+    "meaning": "momento em que o sol se põe",
+    "usage": "ex.: beautiful sunset"
+  },
+  "superpower": {
+    "translation": "superpoder",
+    "meaning": "habilidade extraordinária; potência mundial",
+    "usage": "ex.: my superpower"
+  },
+  "supplement": {
+    "translation": "suplemento; complementar",
+    "meaning": "complemento; adicional",
+    "usage": "ex.: vitamin supplement"
+  },
+  "support": {
+    "translation": "apoio; apoiar",
+    "meaning": "dar suporte; sustentar",
+    "usage": "ex.: need support"
+  },
+  "supported": {
+    "translation": "apoiou; suportou",
+    "meaning": "passado de \"support\"",
+    "usage": "ex.: supported me"
+  },
+  "supporting": {
+    "translation": "apoiando; suportando",
+    "meaning": "gerúndio de \"support\"",
+    "usage": "ex.: supporting family"
+  },
+  "supportive": {
+    "translation": "solidário; prestativo",
+    "meaning": "que dá apoio",
+    "usage": "ex.: supportive friend"
+  },
+  "supposed": {
+    "translation": "suposto; deveria",
+    "meaning": "esperado; presumido",
+    "usage": "ex.: supposed to do"
+  },
+  "suppress": {
+    "translation": "suprimir; reprimir",
+    "meaning": "conter; ocultar; impedir",
+    "usage": "ex.: suppress emotions"
+  },
+  "suppressed": {
+    "translation": "suprimiu; reprimiu",
+    "meaning": "passado de \"suppress\"",
+    "usage": "ex.: suppressed feelings"
+  },
+  "suppressing": {
+    "translation": "suprimindo; reprimindo",
+    "meaning": "gerúndio de \"suppress\"",
+    "usage": "ex.: suppressing anger"
+  },
+  "suppression": {
+    "translation": "supressão; repressão",
+    "meaning": "ato de suprimir",
+    "usage": "ex.: emotional suppression"
+  },
+  "sure": {
+    "translation": "certo; certeza",
+    "meaning": "com certeza; confiante",
+    "usage": "ex.: I'm sure"
+  },
+  "surgeon": {
+    "translation": "cirurgião",
+    "meaning": "médico especializado em cirurgia",
+    "usage": "ex.: skilled surgeon"
+  },
+  "surgery": {
+    "translation": "cirurgia",
+    "meaning": "procedimento médico operatório",
+    "usage": "ex.: need surgery"
+  },
+  "surprised": {
+    "translation": "surpreso; surpreendeu",
+    "meaning": "admirado; passado de \"surprise\"",
+    "usage": "ex.: was surprised"
+  },
+  "surprisingly": {
+    "translation": "surpreendentemente",
+    "meaning": "de forma surpreendente",
+    "usage": "ex.: surprisingly good"
+  },
+  "surrounded": {
+    "translation": "cercado; rodeado",
+    "meaning": "passado de \"surround\"",
+    "usage": "ex.: surrounded by friends"
+  },
+  "surrounding": {
+    "translation": "cercando; rodeando; arredores",
+    "meaning": "gerúndio de \"surround\"; adjacente",
+    "usage": "ex.: surrounding area"
+  },
+  "survivable": {
+    "translation": "sobrevivível",
+    "meaning": "que pode ser sobrevivido",
+    "usage": "ex.: survivable injury"
+  },
+  "survive": {
+    "translation": "sobreviver",
+    "meaning": "permanecer vivo; superar",
+    "usage": "ex.: survive the storm"
+  },
+  "survived": {
+    "translation": "sobreviveu",
+    "meaning": "passado de \"survive\"",
+    "usage": "ex.: survived cancer"
+  },
+  "survivors": {
+    "translation": "sobreviventes",
+    "meaning": "plural de \"survivor\"",
+    "usage": "ex.: trauma survivors"
+  },
+  "susan": {
+    "translation": "Susan",
+    "meaning": "nome próprio feminino",
+    "usage": "ex.: Susan said"
+  },
+  "sustainable": {
+    "translation": "sustentável",
+    "meaning": "que pode ser mantido; ecológico",
+    "usage": "ex.: sustainable development"
+  },
+  "system": {
+    "translation": "sistema",
+    "meaning": "conjunto organizado; método",
+    "usage": "ex.: new system"
+  },
+  "systemic": {
+    "translation": "sistêmico",
+    "meaning": "relativo ao sistema; generalizado",
+    "usage": "ex.: systemic problem"
+  },
+  "systems": {
+    "translation": "sistemas",
+    "meaning": "plural de \"system\"",
+    "usage": "ex.: computer systems"
+  },
+  "t": {
+    "translation": "t",
+    "meaning": "vigésima letra do alfabeto",
+    "usage": "ex.: letter T"
+  },
+  "table": {
+    "translation": "mesa; tabela",
+    "meaning": "móvel com superfície plana; quadro de dados",
+    "usage": "ex.: dining table"
+  },
+  "take": {
+    "translation": "levar; pegar; tomar",
+    "meaning": "pegar algo; transportar; aceitar",
+    "usage": "ex.: take the bus"
+  },
+  "taken": {
+    "translation": "levado; tomado",
+    "meaning": "particípio passado de \"take\"",
+    "usage": "ex.: have taken"
+  },
+  "takes": {
+    "translation": "leva; pega; toma",
+    "meaning": "terceira pessoa do singular de \"take\"",
+    "usage": "ex.: she takes"
+  },
+  "taking": {
+    "translation": "levando; pegando; tomando",
+    "meaning": "gerúndio de \"take\"",
+    "usage": "ex.: taking time"
+  },
+  "talent": {
+    "translation": "talento",
+    "meaning": "habilidade natural; dom",
+    "usage": "ex.: musical talent"
+  },
+  "talented": {
+    "translation": "talentoso",
+    "meaning": "que tem talento",
+    "usage": "ex.: talented artist"
+  },
+  "talents": {
+    "translation": "talentos",
+    "meaning": "plural de \"talent\"",
+    "usage": "ex.: many talents"
+  },
+  "talk": {
+    "translation": "falar; conversar; conversa",
+    "meaning": "comunicar-se verbalmente; bate-papo",
+    "usage": "ex.: let's talk"
+  },
+  "talked": {
+    "translation": "falou; conversou",
+    "meaning": "passado de \"talk\"",
+    "usage": "ex.: we talked"
+  },
+  "talking": {
+    "translation": "falando; conversando",
+    "meaning": "gerúndio de \"talk\"",
+    "usage": "ex.: keep talking"
+  },
+  "targeted": {
+    "translation": "direcionado; visado",
+    "meaning": "passado de \"target\"; focado em alvo",
+    "usage": "ex.: targeted ads"
+  },
+  "task": {
+    "translation": "tarefa",
+    "meaning": "trabalho a ser feito; atividade",
+    "usage": "ex.: daily task"
+  },
+  "taste": {
+    "translation": "sabor; gosto; provar",
+    "meaning": "sensação gustativa; experimentar comida",
+    "usage": "ex.: good taste"
+  },
+  "tasted": {
+    "translation": "provou; experimentou",
+    "meaning": "passado de \"taste\"",
+    "usage": "ex.: tasted wine"
+  },
+  "taught": {
+    "translation": "ensinou",
+    "meaning": "passado de \"teach\"",
+    "usage": "ex.: taught me"
+  },
+  "teach": {
+    "translation": "ensinar",
+    "meaning": "instruir; educar",
+    "usage": "ex.: teach English"
+  },
+  "teacher": {
+    "translation": "professor; professora",
+    "meaning": "pessoa que ensina",
+    "usage": "ex.: my teacher"
+  },
+  "teachers": {
+    "translation": "professores; professoras",
+    "meaning": "plural de \"teacher\"",
+    "usage": "ex.: many teachers"
+  },
+  "teaching": {
+    "translation": "ensinando; ensino",
+    "meaning": "gerúndio de \"teach\"; profissão de ensinar",
+    "usage": "ex.: teaching methods"
+  },
+  "team": {
+    "translation": "equipe; time",
+    "meaning": "grupo de pessoas trabalhando juntas",
+    "usage": "ex.: our team"
+  },
+  "tearing": {
+    "translation": "rasgando; lágrimas",
+    "meaning": "gerúndio de \"tear\"; ato de rasgar",
+    "usage": "ex.: tearing paper"
+  },
+  "tears": {
+    "translation": "lágrimas; rasga",
+    "meaning": "gotas dos olhos; terceira pessoa de \"tear\"",
+    "usage": "ex.: shed tears"
+  },
+  "teased": {
+    "translation": "provocou; zombou",
+    "meaning": "passado de \"tease\"",
+    "usage": "ex.: teased him"
+  },
+  "techniques": {
+    "translation": "técnicas",
+    "meaning": "plural de \"technique\"; métodos",
+    "usage": "ex.: new techniques"
+  },
+  "teenage": {
+    "translation": "adolescente",
+    "meaning": "relativo à adolescência",
+    "usage": "ex.: teenage years"
+  },
+  "television": {
+    "translation": "televisão",
+    "meaning": "aparelho ou sistema de transmissão de TV",
+    "usage": "ex.: watch television"
+  },
+  "tell": {
+    "translation": "contar; dizer",
+    "meaning": "narrar; informar; comunicar",
+    "usage": "ex.: tell the truth"
+  },
+  "telling": {
+    "translation": "contando; dizendo",
+    "meaning": "gerúndio de \"tell\"",
+    "usage": "ex.: telling stories"
+  },
+  "tells": {
+    "translation": "conta; diz",
+    "meaning": "terceira pessoa de \"tell\"",
+    "usage": "ex.: she tells"
+  },
+  "temporary": {
+    "translation": "temporário; provisório",
+    "meaning": "que dura pouco tempo; transitório",
+    "usage": "ex.: temporary job"
+  },
+  "tempted": {
+    "translation": "tentado",
+    "meaning": "passado de \"tempt\"; seduzido",
+    "usage": "ex.: tempted to eat"
+  },
+  "ten": {
+    "translation": "dez",
+    "meaning": "número 10",
+    "usage": "ex.: ten people"
+  },
+  "tension": {
+    "translation": "tensão",
+    "meaning": "estado de estiramento; pressão emocional",
+    "usage": "ex.: feel tension"
+  },
+  "terminal": {
+    "translation": "terminal",
+    "meaning": "final; estação final; aparelho",
+    "usage": "ex.: bus terminal"
+  },
+  "terrible": {
+    "translation": "terrível; horrível",
+    "meaning": "muito ruim; assustador",
+    "usage": "ex.: terrible day"
+  },
+  "terrified": {
+    "translation": "aterrorizado; apavorado",
+    "meaning": "com muito medo",
+    "usage": "ex.: felt terrified"
+  },
+  "terrifying": {
+    "translation": "aterrorizante; apavorante",
+    "meaning": "que causa terror",
+    "usage": "ex.: terrifying experience"
+  },
+  "texted": {
+    "translation": "mandou mensagem",
+    "meaning": "passado de \"text\"",
+    "usage": "ex.: texted her"
+  },
+  "than": {
+    "translation": "do que; que",
+    "meaning": "usado em comparações",
+    "usage": "ex.: better than"
+  },
+  "thank": {
+    "translation": "agradecer",
+    "meaning": "expressar gratidão",
+    "usage": "ex.: thank you"
+  },
+  "thanked": {
+    "translation": "agradeceu",
+    "meaning": "passado de \"thank\"",
+    "usage": "ex.: thanked him"
+  },
+  "that": {
+    "translation": "que; aquele; aquela; aquilo",
+    "meaning": "pronome relativo ou demonstrativo",
+    "usage": "ex.: that book"
+  },
+  "the": {
+    "translation": "o; a; os; as",
+    "meaning": "artigo definido",
+    "usage": "ex.: the house"
+  },
+  "theater": {
+    "translation": "teatro",
+    "meaning": "local de apresentações dramáticas; cinema",
+    "usage": "ex.: movie theater"
+  },
+  "their": {
+    "translation": "seu; sua; deles; delas",
+    "meaning": "pronome possessivo plural",
+    "usage": "ex.: their house"
+  },
+  "theirs": {
+    "translation": "deles; delas",
+    "meaning": "pronome possessivo absoluto",
+    "usage": "ex.: the book is theirs"
+  },
+  "them": {
+    "translation": "eles; elas; os; as; lhes",
+    "meaning": "pronome objeto plural",
+    "usage": "ex.: see them"
+  },
+  "themselves": {
+    "translation": "eles mesmos; elas mesmas; si mesmos",
+    "meaning": "pronome reflexivo plural",
+    "usage": "ex.: by themselves"
+  },
+  "then": {
+    "translation": "então; depois; naquela época",
+    "meaning": "naquele momento; em seguida",
+    "usage": "ex.: and then"
+  },
+  "therapist": {
+    "translation": "terapeuta",
+    "meaning": "profissional de terapia",
+    "usage": "ex.: my therapist"
+  },
+  "therapists": {
+    "translation": "terapeutas",
+    "meaning": "plural de \"therapist\"",
+    "usage": "ex.: many therapists"
+  },
+  "therapy": {
+    "translation": "terapia",
+    "meaning": "tratamento de saúde mental ou física",
+    "usage": "ex.: in therapy"
+  },
+  "there": {
+    "translation": "lá; ali; aí; há",
+    "meaning": "naquele lugar; existência",
+    "usage": "ex.: over there"
+  },
+  "these": {
+    "translation": "estes; estas; esses; essas",
+    "meaning": "pronome demonstrativo plural",
+    "usage": "ex.: these books"
+  },
+  "they": {
+    "translation": "eles; elas",
+    "meaning": "pronome pessoal plural",
+    "usage": "ex.: they are"
+  },
+  "thief": {
+    "translation": "ladrão",
+    "meaning": "pessoa que rouba",
+    "usage": "ex.: catch the thief"
+  },
+  "thing": {
+    "translation": "coisa",
+    "meaning": "objeto; assunto; algo",
+    "usage": "ex.: the thing is"
+  },
+  "things": {
+    "translation": "coisas",
+    "meaning": "plural de \"thing\"",
+    "usage": "ex.: many things"
+  },
+  "think": {
+    "translation": "pensar; achar",
+    "meaning": "usar o pensamento; acreditar",
+    "usage": "ex.: I think so"
+  },
+  "thinking": {
+    "translation": "pensando; pensamento",
+    "meaning": "gerúndio de \"think\"; ato mental",
+    "usage": "ex.: critical thinking"
+  },
+  "third": {
+    "translation": "terceiro",
+    "meaning": "número ordinal 3º",
+    "usage": "ex.: third place"
+  },
+  "thirty": {
+    "translation": "trinta",
+    "meaning": "número 30",
+    "usage": "ex.: thirty years"
+  },
+  "this": {
+    "translation": "este; esta; isto; isso",
+    "meaning": "pronome demonstrativo singular",
+    "usage": "ex.: this book"
+  },
+  "thomas": {
+    "translation": "Thomas; Tomás",
+    "meaning": "nome próprio masculino",
+    "usage": "ex.: Thomas said"
+  },
+  "those": {
+    "translation": "aqueles; aquelas",
+    "meaning": "pronome demonstrativo plural distante",
+    "usage": "ex.: those days"
+  },
+  "though": {
+    "translation": "embora; apesar de; porém",
+    "meaning": "conjunção concessiva",
+    "usage": "ex.: even though"
+  },
+  "thought": {
+    "translation": "pensou; pensamento",
+    "meaning": "passado de \"think\"; ideia",
+    "usage": "ex.: I thought"
+  },
+  "thousands": {
+    "translation": "milhares",
+    "meaning": "plural de \"thousand\"; muitos",
+    "usage": "ex.: thousands of people"
+  },
+  "three": {
+    "translation": "três",
+    "meaning": "número 3",
+    "usage": "ex.: three days"
+  },
+  "thrives": {
+    "translation": "prospera; floresce",
+    "meaning": "terceira pessoa de \"thrive\"",
+    "usage": "ex.: she thrives"
+  },
+  "thriving": {
+    "translation": "prosperando; florescendo",
+    "meaning": "gerúndio de \"thrive\"",
+    "usage": "ex.: thriving business"
+  },
+  "through": {
+    "translation": "através; por; durante",
+    "meaning": "de um lado a outro; por meio de",
+    "usage": "ex.: go through"
+  },
+  "throughout": {
+    "translation": "por todo; durante todo",
+    "meaning": "em toda a extensão ou duração",
+    "usage": "ex.: throughout the day"
+  },
+  "ticking": {
+    "translation": "fazendo tique-taque; funcionando",
+    "meaning": "gerúndio de \"tick\"",
+    "usage": "ex.: clock ticking"
+  },
+  "tied": {
+    "translation": "amarrado; empatado",
+    "meaning": "passado de \"tie\"",
+    "usage": "ex.: tied up"
+  },
+  "time": {
+    "translation": "tempo; hora; vez",
+    "meaning": "duração; momento; ocasião",
+    "usage": "ex.: what time"
+  },
+  "times": {
+    "translation": "vezes; tempos; épocas",
+    "meaning": "plural de \"time\"",
+    "usage": "ex.: many times"
+  },
+  "tired": {
+    "translation": "cansado",
+    "meaning": "com fadiga; exausto",
+    "usage": "ex.: feel tired"
+  },
+  "tirelessly": {
+    "translation": "incansavelmente",
+    "meaning": "de forma incansável; sem descanso",
+    "usage": "ex.: work tirelessly"
+  },
+  "to": {
+    "translation": "para; a; de",
+    "meaning": "preposição de direção ou infinitivo",
+    "usage": "ex.: go to school"
+  },
+  "together": {
+    "translation": "juntos; juntas",
+    "meaning": "em companhia; em conjunto",
+    "usage": "ex.: work together"
+  },
+  "told": {
+    "translation": "contou; disse; falou",
+    "meaning": "passado de \"tell\"",
+    "usage": "ex.: told me"
+  },
+  "tolerate": {
+    "translation": "tolerar; suportar",
+    "meaning": "aceitar; aguentar",
+    "usage": "ex.: tolerate pain"
+  },
+  "tomas": {
+    "translation": "Tomás; Tomas",
+    "meaning": "nome próprio masculino",
+    "usage": "ex.: Tomas arrived"
+  },
+  "too": {
+    "translation": "também; demais; muito",
+    "meaning": "além disso; excessivamente",
+    "usage": "ex.: too much"
+  },
+  "took": {
+    "translation": "levou; pegou; tomou",
+    "meaning": "passado de \"take\"",
+    "usage": "ex.: took time"
+  },
+  "tool": {
+    "translation": "ferramenta; instrumento",
+    "meaning": "utensílio; recurso",
+    "usage": "ex.: useful tool"
+  },
+  "tools": {
+    "translation": "ferramentas; instrumentos",
+    "meaning": "plural de \"tool\"",
+    "usage": "ex.: need tools"
+  },
+  "top": {
+    "translation": "topo; topo; superior",
+    "meaning": "parte mais alta; melhor",
+    "usage": "ex.: on top"
+  },
+  "topics": {
+    "translation": "tópicos; assuntos",
+    "meaning": "plural de \"topic\"; temas",
+    "usage": "ex.: various topics"
+  },
+  "touched": {
+    "translation": "tocou; emocionou",
+    "meaning": "passado de \"touch\"",
+    "usage": "ex.: touched my heart"
+  },
+  "toward": {
+    "translation": "em direção a; para",
+    "meaning": "na direção de; com relação a",
+    "usage": "ex.: walk toward"
+  },
+  "town": {
+    "translation": "cidade; vila",
+    "meaning": "localidade urbana pequena",
+    "usage": "ex.: small town"
+  },
+  "towns": {
+    "translation": "cidades; vilas",
+    "meaning": "plural de \"town\"",
+    "usage": "ex.: small towns"
+  },
+  "track": {
+    "translation": "trilha; pista; acompanhar",
+    "meaning": "caminho; rastro; monitorar",
+    "usage": "ex.: track progress"
+  },
+  "tradition": {
+    "translation": "tradição",
+    "meaning": "costume passado através de gerações",
+    "usage": "ex.: family tradition"
+  },
+  "traditional": {
+    "translation": "tradicional",
+    "meaning": "conforme tradição; convencional",
+    "usage": "ex.: traditional way"
+  },
+  "tragedy": {
+    "translation": "tragédia",
+    "meaning": "evento triste; desastre",
+    "usage": "ex.: terrible tragedy"
+  },
+  "trained": {
+    "translation": "treinou; treinado",
+    "meaning": "passado de \"train\"; capacitado",
+    "usage": "ex.: well trained"
+  },
+  "training": {
+    "translation": "treinamento; treinando",
+    "meaning": "capacitação; gerúndio de \"train\"",
+    "usage": "ex.: job training"
+  },
+  "traits": {
+    "translation": "traços; características",
+    "meaning": "plural de \"trait\"; qualidades",
+    "usage": "ex.: personality traits"
+  },
+  "trajectory": {
+    "translation": "trajetória",
+    "meaning": "caminho; percurso",
+    "usage": "ex.: career trajectory"
+  },
+  "transfer": {
+    "translation": "transferir; transferência",
+    "meaning": "mover de um lugar a outro",
+    "usage": "ex.: transfer money"
+  },
+  "transform": {
+    "translation": "transformar",
+    "meaning": "mudar completamente; converter",
+    "usage": "ex.: transform life"
+  },
+  "transformed": {
+    "translation": "transformou; transformado",
+    "meaning": "passado de \"transform\"",
+    "usage": "ex.: transformed completely"
+  },
+  "transition": {
+    "translation": "transição",
+    "meaning": "mudança; passagem de um estado a outro",
+    "usage": "ex.: smooth transition"
+  },
+  "transitions": {
+    "translation": "transições",
+    "meaning": "plural de \"transition\"",
+    "usage": "ex.: life transitions"
+  },
+  "trapped": {
+    "translation": "preso; encurralado",
+    "meaning": "passado de \"trap\"; capturado",
+    "usage": "ex.: felt trapped"
+  },
+  "trauma": {
+    "translation": "trauma",
+    "meaning": "lesão física ou psicológica grave",
+    "usage": "ex.: childhood trauma"
+  },
+  "traumatic": {
+    "translation": "traumático",
+    "meaning": "relativo a trauma; causador de trauma",
+    "usage": "ex.: traumatic event"
+  },
+  "traumatized": {
+    "translation": "traumatizado",
+    "meaning": "que sofreu trauma; afetado por trauma",
+    "usage": "ex.: deeply traumatized"
+  },
+  "travel": {
+    "translation": "viajar; viagem",
+    "meaning": "deslocar-se; jornada",
+    "usage": "ex.: love to travel"
+  },
+  "traveled": {
+    "translation": "viajou",
+    "meaning": "passado de \"travel\"",
+    "usage": "ex.: traveled abroad"
+  },
+  "traveling": {
+    "translation": "viajando",
+    "meaning": "gerúndio de \"travel\"",
+    "usage": "ex.: traveling abroad"
+  },
+  "treasure": {
+    "translation": "tesouro",
+    "meaning": "riqueza escondida; algo valioso",
+    "usage": "ex.: hidden treasure"
+  },
+  "treated": {
+    "translation": "tratou; tratado",
+    "meaning": "passado de \"treat\"",
+    "usage": "ex.: treated well"
+  },
+  "treatment": {
+    "translation": "tratamento",
+    "meaning": "cuidado médico; maneira de tratar",
+    "usage": "ex.: medical treatment"
+  },
+  "trembling": {
+    "translation": "tremendo",
+    "meaning": "gerúndio de \"tremble\"; tremor",
+    "usage": "ex.: trembling with fear"
+  },
+  "tremendous": {
+    "translation": "tremendo; enorme",
+    "meaning": "muito grande; extraordinário",
+    "usage": "ex.: tremendous effort"
+  },
+  "trevor": {
+    "translation": "Trevor",
+    "meaning": "nome próprio masculino",
+    "usage": "ex.: Trevor arrived"
+  },
+  "tribe": {
+    "translation": "tribo",
+    "meaning": "grupo social tradicional; comunidade",
+    "usage": "ex.: native tribe"
+  },
+  "tried": {
+    "translation": "tentou; experimentou",
+    "meaning": "passado de \"try\"",
+    "usage": "ex.: tried hard"
+  },
+  "trip": {
+    "translation": "viagem; tropeço",
+    "meaning": "excursão; tropeçar",
+    "usage": "ex.: take a trip"
+  },
+  "trips": {
+    "translation": "viagens; tropeça",
+    "meaning": "plural de \"trip\"; terceira pessoa",
+    "usage": "ex.: many trips"
+  },
+  "true": {
+    "translation": "verdadeiro; verdade",
+    "meaning": "real; correto; autêntico",
+    "usage": "ex.: true story"
+  },
+  "truly": {
+    "translation": "verdadeiramente; realmente",
+    "meaning": "de forma verdadeira; sinceramente",
+    "usage": "ex.: truly sorry"
+  },
+  "trust": {
+    "translation": "confiança; confiar",
+    "meaning": "crença na honestidade; acreditar em",
+    "usage": "ex.: trust me"
+  },
+  "truth": {
+    "translation": "verdade",
+    "meaning": "realidade; fato verdadeiro",
+    "usage": "ex.: tell the truth"
+  },
+  "try": {
+    "translation": "tentar; experimentar; tentativa",
+    "meaning": "esforçar-se; provar",
+    "usage": "ex.: try again"
+  },
+  "trying": {
+    "translation": "tentando; difícil",
+    "meaning": "gerúndio de \"try\"; desafiador",
+    "usage": "ex.: trying times"
+  },
+  "turn": {
+    "translation": "virar; girar; vez; volta",
+    "meaning": "mudar de direção; oportunidade",
+    "usage": "ex.: turn left"
+  },
+  "twelve": {
+    "translation": "doze",
+    "meaning": "número 12",
+    "usage": "ex.: twelve months"
+  },
+  "twenty": {
+    "translation": "vinte",
+    "meaning": "número 20",
+    "usage": "ex.: twenty years"
+  },
+  "two": {
+    "translation": "dois; duas",
+    "meaning": "número 2",
+    "usage": "ex.: two people"
+  },
+  "type": {
+    "translation": "tipo; digitar",
+    "meaning": "categoria; escrever no teclado",
+    "usage": "ex.: type of person"
+  },
+  "ultimately": {
+    "translation": "finalmente; no final das contas",
+    "meaning": "ao fim; em última análise",
+    "usage": "ex.: ultimately successful"
+  },
+  "unable": {
+    "translation": "incapaz; impossibilitado",
+    "meaning": "que não pode; sem capacidade",
+    "usage": "ex.: unable to help"
+  },
+  "unaddressed": {
+    "translation": "não abordado; não tratado",
+    "meaning": "que não foi tratado ou resolvido",
+    "usage": "ex.: unaddressed issues"
+  },
+  "unappreciated": {
+    "translation": "não apreciado; não valorizado",
+    "meaning": "que não recebe reconhecimento",
+    "usage": "ex.: feel unappreciated"
+  },
+  "unbearable": {
+    "translation": "insuportável; intolerável",
+    "meaning": "que não pode ser suportado",
+    "usage": "ex.: unbearable pain"
+  },
+  "uncertainty": {
+    "translation": "incerteza; dúvida",
+    "meaning": "falta de certeza; instabilidade",
+    "usage": "ex.: live with uncertainty"
+  },
+  "uncomfortable": {
+    "translation": "desconfortável; incômodo",
+    "meaning": "que causa desconforto",
+    "usage": "ex.: feel uncomfortable"
+  },
+  "unconditional": {
+    "translation": "incondicional",
+    "meaning": "sem condições; absoluto",
+    "usage": "ex.: unconditional love"
+  },
+  "unconditionally": {
+    "translation": "incondicionalmente",
+    "meaning": "de forma incondicional; sem restrições",
+    "usage": "ex.: love unconditionally"
+  },
+  "uncontrollable": {
+    "translation": "incontrolável",
+    "meaning": "que não pode ser controlado",
+    "usage": "ex.: uncontrollable emotions"
+  },
+  "under": {
+    "translation": "sob; embaixo; abaixo",
+    "meaning": "em posição inferior; submetido a",
+    "usage": "ex.: under pressure"
+  },
+  "underfunded": {
+    "translation": "subfinanciado",
+    "meaning": "com financiamento insuficiente",
+    "usage": "ex.: underfunded program"
+  },
+  "underprivileged": {
+    "translation": "desprivilegiado; carente",
+    "meaning": "com menos recursos ou oportunidades",
+    "usage": "ex.: underprivileged communities"
+  },
+  "understand": {
+    "translation": "entender; compreender",
+    "meaning": "perceber o significado; captar",
+    "usage": "ex.: I understand"
+  },
+  "understanding": {
+    "translation": "entendendo; compreensão",
+    "meaning": "gerúndio de \"understand\"; conhecimento",
+    "usage": "ex.: mutual understanding"
+  },
+  "understood": {
+    "translation": "entendeu; entendido",
+    "meaning": "passado de \"understand\"",
+    "usage": "ex.: I understood"
+  },
+  "unexpected": {
+    "translation": "inesperado",
+    "meaning": "que não era esperado; surpreendente",
+    "usage": "ex.: unexpected visit"
+  },
+  "unfairly": {
+    "translation": "injustamente",
+    "meaning": "de forma injusta",
+    "usage": "ex.: treated unfairly"
+  },
+  "unfolded": {
+    "translation": "desdobrou; desenrolou",
+    "meaning": "passado de \"unfold\"; revelou-se",
+    "usage": "ex.: story unfolded"
+  },
+  "unfollowing": {
+    "translation": "deixando de seguir",
+    "meaning": "gerúndio de \"unfollow\" (redes sociais)",
+    "usage": "ex.: unfollowing accounts"
+  },
+  "unforgettable": {
+    "translation": "inesquecível",
+    "meaning": "que não pode ser esquecido",
+    "usage": "ex.: unforgettable moment"
+  },
+  "unfulfilled": {
+    "translation": "não realizado; insatisfeito",
+    "meaning": "que não foi cumprido ou satisfeito",
+    "usage": "ex.: unfulfilled dreams"
+  },
+  "unfulfilling": {
+    "translation": "insatisfatório; frustrante",
+    "meaning": "que não traz satisfação",
+    "usage": "ex.: unfulfilling job"
+  },
+  "ungrateful": {
+    "translation": "ingrato; desagradecido",
+    "meaning": "que não demonstra gratidão",
+    "usage": "ex.: ungrateful person"
+  },
+  "unhappiness": {
+    "translation": "infelicidade; tristeza",
+    "meaning": "falta de felicidade",
+    "usage": "ex.: cause unhappiness"
+  },
+  "unhappy": {
+    "translation": "infeliz; triste",
+    "meaning": "não feliz; insatisfeito",
+    "usage": "ex.: unhappy life"
+  },
+  "unhealthy": {
+    "translation": "não saudável; insalubre",
+    "meaning": "prejudicial à saúde",
+    "usage": "ex.: unhealthy habits"
+  },
+  "unique": {
+    "translation": "único; singular",
+    "meaning": "sem igual; exclusivo",
+    "usage": "ex.: unique opportunity"
+  },
+  "universities": {
+    "translation": "universidades",
+    "meaning": "plural de \"university\"",
+    "usage": "ex.: top universities"
+  },
+  "university": {
+    "translation": "universidade",
+    "meaning": "instituição de ensino superior",
+    "usage": "ex.: go to university"
+  },
+  "unless": {
+    "translation": "a menos que; a não ser que",
+    "meaning": "conjunção condicional negativa",
+    "usage": "ex.: unless you try"
+  },
+  "unnatural": {
+    "translation": "antinatural; forçado",
+    "meaning": "que não é natural; artificial",
+    "usage": "ex.: unnatural behavior"
+  },
+  "unreliable": {
+    "translation": "não confiável; duvidoso",
+    "meaning": "que não merece confiança",
+    "usage": "ex.: unreliable source"
+  },
+  "unremarkable": {
+    "translation": "comum; sem destaque",
+    "meaning": "que não se destaca; ordinário",
+    "usage": "ex.: unremarkable day"
+  },
+  "unstable": {
+    "translation": "instável",
+    "meaning": "que não é estável; variável",
+    "usage": "ex.: unstable condition"
+  },
+  "unstructured": {
+    "translation": "não estruturado; informal",
+    "meaning": "sem estrutura definida",
+    "usage": "ex.: unstructured time"
+  },
+  "until": {
+    "translation": "até; até que",
+    "meaning": "até o momento em que",
+    "usage": "ex.: wait until tomorrow"
+  },
+  "unwanted": {
+    "translation": "indesejado; não desejado",
+    "meaning": "que não é querido",
+    "usage": "ex.: unwanted attention"
+  },
+  "up": {
+    "translation": "acima; para cima; levantado",
+    "meaning": "em direção superior; de pé",
+    "usage": "ex.: go up"
+  },
+  "upscale": {
+    "translation": "sofisticado; de alto padrão",
+    "meaning": "de luxo; requintado",
+    "usage": "ex.: upscale restaurant"
+  },
+  "upset": {
+    "translation": "chateado; perturbado; perturbar",
+    "meaning": "aborrecido; transtornar",
+    "usage": "ex.: feel upset"
+  },
+  "urge": {
+    "translation": "impulso; instigar; incitar",
+    "meaning": "desejo forte; encorajar fortemente",
+    "usage": "ex.: urge to act"
+  },
+  "us": {
+    "translation": "nos; nós",
+    "meaning": "pronome objeto plural primeira pessoa",
+    "usage": "ex.: tell us"
+  },
+  "use": {
+    "translation": "usar; utilizar; uso",
+    "meaning": "empregar; fazer uso de",
+    "usage": "ex.: use tools"
+  },
+  "used": {
+    "translation": "usado; usou; costumava",
+    "meaning": "passado de \"use\"; habituado",
+    "usage": "ex.: used car"
+  },
+  "using": {
+    "translation": "usando",
+    "meaning": "gerúndio de \"use\"",
+    "usage": "ex.: using technology"
+  },
+  "usually": {
+    "translation": "geralmente; normalmente",
+    "meaning": "na maioria das vezes; habitualmente",
+    "usage": "ex.: usually happy"
+  },
+  "validation": {
+    "translation": "validação",
+    "meaning": "ato de validar; confirmação",
+    "usage": "ex.: need validation"
+  },
+  "valuable": {
+    "translation": "valioso",
+    "meaning": "que tem valor; precioso",
+    "usage": "ex.: valuable lesson"
+  },
+  "value": {
+    "translation": "valor; valorizar",
+    "meaning": "importância; preço; dar valor a",
+    "usage": "ex.: great value"
+  },
+  "valued": {
+    "translation": "valorizado; valorizou",
+    "meaning": "passado de \"value\"; estimado",
+    "usage": "ex.: highly valued"
+  },
+  "values": {
+    "translation": "valores; valoriza",
+    "meaning": "plural de \"value\"; princípios",
+    "usage": "ex.: family values"
+  },
+  "ve": {
+    "translation": "'ve (have)",
+    "meaning": "contração de \"have\"",
+    "usage": "ex.: I've been"
+  },
+  "very": {
+    "translation": "muito; bem",
+    "meaning": "em alto grau; extremamente",
+    "usage": "ex.: very good"
+  },
+  "victim": {
+    "translation": "vítima",
+    "meaning": "pessoa que sofre prejuízo ou dano",
+    "usage": "ex.: crime victim"
+  },
+  "victimized": {
+    "translation": "vitimizado",
+    "meaning": "passado de \"victimize\"; tornado vítima",
+    "usage": "ex.: felt victimized"
+  },
+  "victims": {
+    "translation": "vítimas",
+    "meaning": "plural de \"victim\"",
+    "usage": "ex.: many victims"
+  },
+  "victor": {
+    "translation": "Victor; vencedor",
+    "meaning": "nome próprio; pessoa vitoriosa",
+    "usage": "ex.: Victor won"
+  },
+  "victoria": {
+    "translation": "Victoria; Vitória",
+    "meaning": "nome próprio feminino",
+    "usage": "ex.: Victoria said"
+  },
+  "victories": {
+    "translation": "vitórias",
+    "meaning": "plural de \"victory\"",
+    "usage": "ex.: many victories"
+  },
+  "videos": {
+    "translation": "vídeos",
+    "meaning": "plural de \"video\"",
+    "usage": "ex.: watch videos"
+  },
+  "view": {
+    "translation": "vista; visão; ver",
+    "meaning": "perspectiva; cena; observar",
+    "usage": "ex.: point of view"
+  },
+  "village": {
+    "translation": "vila; aldeia",
+    "meaning": "pequena comunidade rural",
+    "usage": "ex.: small village"
+  },
+  "vincent": {
+    "translation": "Vincent; Vicente",
+    "meaning": "nome próprio masculino",
+    "usage": "ex.: Vincent arrived"
+  },
+  "violence": {
+    "translation": "violência",
+    "meaning": "uso de força física para causar dano",
+    "usage": "ex.: domestic violence"
+  },
+  "violin": {
+    "translation": "violino",
+    "meaning": "instrumento musical de cordas",
+    "usage": "ex.: play violin"
+  },
+  "visible": {
+    "translation": "visível",
+    "meaning": "que pode ser visto",
+    "usage": "ex.: visible change"
+  },
+  "visit": {
+    "translation": "visitar; visita",
+    "meaning": "ir ver; ato de visitar",
+    "usage": "ex.: visit friends"
+  },
+  "visited": {
+    "translation": "visitou",
+    "meaning": "passado de \"visit\"",
+    "usage": "ex.: visited yesterday"
+  },
+  "vitality": {
+    "translation": "vitalidade",
+    "meaning": "energia; vigor",
+    "usage": "ex.: full of vitality"
+  },
+  "vocal": {
+    "translation": "vocal; expressivo",
+    "meaning": "relativo à voz; que se expressa",
+    "usage": "ex.: vocal critic"
+  },
+  "voice": {
+    "translation": "voz",
+    "meaning": "som produzido pelas cordas vocais; opinião",
+    "usage": "ex.: loud voice"
+  },
+  "voices": {
+    "translation": "vozes",
+    "meaning": "plural de \"voice\"",
+    "usage": "ex.: hear voices"
+  },
+  "volunteer": {
+    "translation": "voluntário; voluntariar-se",
+    "meaning": "pessoa que se oferece; oferecer-se",
+    "usage": "ex.: volunteer work"
+  },
+  "volunteered": {
+    "translation": "voluntariou-se; ofereceu-se",
+    "meaning": "passado de \"volunteer\"",
+    "usage": "ex.: volunteered to help"
+  },
+  "volunteering": {
+    "translation": "voluntariando; voluntariado",
+    "meaning": "gerúndio de \"volunteer\"",
+    "usage": "ex.: volunteering time"
+  },
+  "vulnerability": {
+    "translation": "vulnerabilidade",
+    "meaning": "estado de ser vulnerável; fragilidade",
+    "usage": "ex.: show vulnerability"
+  },
+  "vulnerable": {
+    "translation": "vulnerável",
+    "meaning": "suscetível a dano; frágil",
+    "usage": "ex.: feel vulnerable"
+  },
+  "wait": {
+    "translation": "esperar; espera",
+    "meaning": "permanecer até algo acontecer; ato de esperar",
+    "usage": "ex.: wait here"
+  },
+  "waiting": {
+    "translation": "esperando; espera",
+    "meaning": "gerúndio de \"wait\"",
+    "usage": "ex.: waiting for you"
+  },
+  "waitress": {
+    "translation": "garçonete",
+    "meaning": "mulher que serve em restaurante",
+    "usage": "ex.: call the waitress"
+  },
+  "walk": {
+    "translation": "caminhar; andar; caminhada",
+    "meaning": "mover-se a pé; passeio",
+    "usage": "ex.: walk home"
+  },
+  "walked": {
+    "translation": "caminhou; andou",
+    "meaning": "passado de \"walk\"",
+    "usage": "ex.: walked away"
+  },
+  "wall": {
+    "translation": "parede; muro",
+    "meaning": "estrutura vertical que divide espaços",
+    "usage": "ex.: white wall"
+  },
+  "want": {
+    "translation": "querer; desejar",
+    "meaning": "ter desejo de; precisar",
+    "usage": "ex.: I want this"
+  },
+  "wanted": {
+    "translation": "queria; quis; procurado",
+    "meaning": "passado de \"want\"; desejado",
+    "usage": "ex.: wanted to go"
+  },
+  "wanting": {
+    "translation": "querendo; desejando",
+    "meaning": "gerúndio de \"want\"",
+    "usage": "ex.: wanting more"
+  },
+  "war": {
+    "translation": "guerra",
+    "meaning": "conflito armado entre nações ou grupos",
+    "usage": "ex.: civil war"
+  },
+  "warm": {
+    "translation": "quente; cálido; aquecer",
+    "meaning": "com temperatura agradável; amigável",
+    "usage": "ex.: warm day"
+  },
+  "warmth": {
+    "translation": "calor; aconchego",
+    "meaning": "temperatura agradável; afeto",
+    "usage": "ex.: feel warmth"
+  },
+  "was": {
+    "translation": "era; estava; foi",
+    "meaning": "passado de \"be\" (singular)",
+    "usage": "ex.: I was there"
+  },
+  "wasn": {
+    "translation": "wasn't (não era/estava)",
+    "meaning": "contração de \"was not\"",
+    "usage": "ex.: wasn't ready"
+  },
+  "wasted": {
+    "translation": "desperdiçou; desperdiçado",
+    "meaning": "passado de \"waste\"; usado mal",
+    "usage": "ex.: wasted time"
+  },
+  "wasting": {
+    "translation": "desperdiçando",
+    "meaning": "gerúndio de \"waste\"",
+    "usage": "ex.: wasting money"
+  },
+  "watch": {
+    "translation": "assistir; observar; relógio",
+    "meaning": "olhar atentamente; vigiar; relógio de pulso",
+    "usage": "ex.: watch TV"
+  },
+  "watched": {
+    "translation": "assistiu; observou",
+    "meaning": "passado de \"watch\"",
+    "usage": "ex.: watched carefully"
+  },
+  "watching": {
+    "translation": "assistindo; observando",
+    "meaning": "gerúndio de \"watch\"",
+    "usage": "ex.: watching you"
+  },
+  "water": {
+    "translation": "água",
+    "meaning": "líquido transparente essencial à vida",
+    "usage": "ex.: drink water"
+  },
+  "way": {
+    "translation": "caminho; maneira; jeito",
+    "meaning": "direção; método; forma",
+    "usage": "ex.: this way"
+  },
+  "ways": {
+    "translation": "caminhos; maneiras; jeitos",
+    "meaning": "plural de \"way\"",
+    "usage": "ex.: many ways"
+  },
+  "we": {
+    "translation": "nós",
+    "meaning": "pronome pessoal plural primeira pessoa",
+    "usage": "ex.: we are"
+  },
+  "weak": {
+    "translation": "fraco",
+    "meaning": "sem força; débil",
+    "usage": "ex.: feel weak"
+  },
+  "weakness": {
+    "translation": "fraqueza; ponto fraco",
+    "meaning": "falta de força; vulnerabilidade",
+    "usage": "ex.: show weakness"
+  },
+  "weaknesses": {
+    "translation": "fraquezas; pontos fracos",
+    "meaning": "plural de \"weakness\"",
+    "usage": "ex.: my weaknesses"
+  },
+  "wealth": {
+    "translation": "riqueza; fortuna",
+    "meaning": "abundância de recursos; patrimônio",
+    "usage": "ex.: great wealth"
+  },
+  "wealthy": {
+    "translation": "rico; abastado",
+    "meaning": "que possui riqueza",
+    "usage": "ex.: wealthy family"
+  },
+  "wear": {
+    "translation": "vestir; usar; desgastar",
+    "meaning": "ter roupa no corpo; gastar pelo uso",
+    "usage": "ex.: wear clothes"
+  },
+  "wearing": {
+    "translation": "vestindo; usando",
+    "meaning": "gerúndio de \"wear\"",
+    "usage": "ex.: wearing a hat"
+  },
+  "wedding": {
+    "translation": "casamento",
+    "meaning": "cerimônia de matrimônio",
+    "usage": "ex.: wedding day"
+  },
+  "week": {
+    "translation": "semana",
+    "meaning": "período de sete dias",
+    "usage": "ex.: last week"
+  },
+  "weeks": {
+    "translation": "semanas",
+    "meaning": "plural de \"week\"",
+    "usage": "ex.: two weeks"
+  },
+  "well": {
+    "translation": "bem; poço",
+    "meaning": "de forma satisfatória; buraco profundo",
+    "usage": "ex.: doing well"
+  },
+  "went": {
+    "translation": "foi",
+    "meaning": "passado de \"go\"",
+    "usage": "ex.: went home"
+  },
+  "were": {
+    "translation": "eram; estavam; foram",
+    "meaning": "passado de \"be\" (plural ou \"you\")",
+    "usage": "ex.: we were there"
+  },
+  "weren": {
+    "translation": "weren't (não eram/estavam)",
+    "meaning": "contração de \"were not\"",
+    "usage": "ex.: weren't ready"
+  },
+  "what": {
+    "translation": "o que; que",
+    "meaning": "pronome interrogativo ou relativo",
+    "usage": "ex.: what is this"
+  },
+  "whatever": {
+    "translation": "o que quer que; qualquer coisa",
+    "meaning": "não importa o que; tudo que",
+    "usage": "ex.: whatever happens"
+  },
+  "wheelchair": {
+    "translation": "cadeira de rodas",
+    "meaning": "cadeira com rodas para locomover pessoas",
+    "usage": "ex.: use wheelchair"
+  },
+  "when": {
+    "translation": "quando",
+    "meaning": "em que momento; sempre que",
+    "usage": "ex.: when I arrived"
+  },
+  "whenever": {
+    "translation": "sempre que; quando quer que",
+    "meaning": "em qualquer momento que",
+    "usage": "ex.: whenever you want"
+  },
+  "where": {
+    "translation": "onde; aonde",
+    "meaning": "em que lugar; para que lugar",
+    "usage": "ex.: where are you"
+  },
+  "whether": {
+    "translation": "se; quer",
+    "meaning": "conjunção condicional alternativa",
+    "usage": "ex.: whether or not"
+  },
+  "which": {
+    "translation": "qual; que",
+    "meaning": "pronome interrogativo ou relativo",
+    "usage": "ex.: which one"
+  },
+  "while": {
+    "translation": "enquanto; momento",
+    "meaning": "durante o tempo que; período",
+    "usage": "ex.: while waiting"
+  },
+  "whispered": {
+    "translation": "sussurrou",
+    "meaning": "passado de \"whisper\"; falou baixo",
+    "usage": "ex.: whispered softly"
+  },
+  "who": {
+    "translation": "quem; que",
+    "meaning": "pronome interrogativo ou relativo (pessoas)",
+    "usage": "ex.: who is it"
+  },
+  "whole": {
+    "translation": "todo; inteiro; completo",
+    "meaning": "total; sem divisões",
+    "usage": "ex.: whole world"
+  },
+  "whom": {
+    "translation": "quem (objeto)",
+    "meaning": "forma objetiva de \"who\"",
+    "usage": "ex.: to whom"
+  },
+  "whose": {
+    "translation": "de quem; cujo",
+    "meaning": "pronome possessivo interrogativo",
+    "usage": "ex.: whose book"
+  },
+  "why": {
+    "translation": "por quê; por que",
+    "meaning": "por qual razão; motivo",
+    "usage": "ex.: why not"
+  },
+  "wife": {
+    "translation": "esposa; mulher",
+    "meaning": "cônjuge feminino",
+    "usage": "ex.: my wife"
+  },
+  "will": {
+    "translation": "vai; irá; vontade",
+    "meaning": "futuro; desejo; testamento",
+    "usage": "ex.: I will go"
+  },
+  "william": {
+    "translation": "William; Guilherme",
+    "meaning": "nome próprio masculino",
+    "usage": "ex.: William said"
+  },
+  "willing": {
+    "translation": "disposto; pronto",
+    "meaning": "que está disposto a; voluntarioso",
+    "usage": "ex.: willing to help"
+  },
+  "willingness": {
+    "translation": "disposição; prontidão",
+    "meaning": "qualidade de estar disposto",
+    "usage": "ex.: show willingness"
+  },
+  "willow": {
+    "translation": "salgueiro; Willow",
+    "meaning": "árvore; nome próprio",
+    "usage": "ex.: willow tree"
+  },
+  "win": {
+    "translation": "vencer; ganhar; vitória",
+    "meaning": "obter vitória; triunfar",
+    "usage": "ex.: win the game"
+  },
+  "winning": {
+    "translation": "vencendo; ganhando; vencedor",
+    "meaning": "gerúndio de \"win\"; vitorioso",
+    "usage": "ex.: winning team"
+  },
+  "winter": {
+    "translation": "inverno",
+    "meaning": "estação mais fria do ano",
+    "usage": "ex.: cold winter"
+  },
+  "wisdom": {
+    "translation": "sabedoria",
+    "meaning": "conhecimento profundo; juízo",
+    "usage": "ex.: ancient wisdom"
+  },
+  "wise": {
+    "translation": "sábio; sensato",
+    "meaning": "que tem sabedoria",
+    "usage": "ex.: wise decision"
+  },
+  "wiser": {
+    "translation": "mais sábio; mais sensato",
+    "meaning": "comparativo de \"wise\"",
+    "usage": "ex.: getting wiser"
+  },
+  "wished": {
+    "translation": "desejou",
+    "meaning": "passado de \"wish\"",
+    "usage": "ex.: wished for"
+  },
+  "wishing": {
+    "translation": "desejando",
+    "meaning": "gerúndio de \"wish\"",
+    "usage": "ex.: wishing you well"
+  },
+  "with": {
+    "translation": "com",
+    "meaning": "na companhia de; usando",
+    "usage": "ex.: with you"
+  },
+  "withdraw": {
+    "translation": "retirar; sacar",
+    "meaning": "tirar; remover; afastar-se",
+    "usage": "ex.: withdraw money"
+  },
+  "withdrawal": {
+    "translation": "retirada; saque",
+    "meaning": "ato de retirar; abstenção",
+    "usage": "ex.: cash withdrawal"
+  },
+  "without": {
+    "translation": "sem",
+    "meaning": "na ausência de; fora de",
+    "usage": "ex.: without you"
+  },
+  "woke": {
+    "translation": "acordou",
+    "meaning": "passado de \"wake\"",
+    "usage": "ex.: woke up early"
+  },
+  "woman": {
+    "translation": "mulher",
+    "meaning": "pessoa adulta do sexo feminino",
+    "usage": "ex.: young woman"
+  },
+  "women": {
+    "translation": "mulheres",
+    "meaning": "plural de \"woman\"",
+    "usage": "ex.: many women"
+  },
+  "won": {
+    "translation": "venceu; ganhou",
+    "meaning": "passado de \"win\"",
+    "usage": "ex.: won the game"
+  },
+  "wonder": {
+    "translation": "perguntar-se; maravilha; admirar-se",
+    "meaning": "questionar; algo maravilhoso",
+    "usage": "ex.: I wonder why"
+  },
+  "wood": {
+    "translation": "madeira; bosque",
+    "meaning": "material de árvore; floresta",
+    "usage": "ex.: wooden table"
+  },
+  "woodworking": {
+    "translation": "marcenaria; trabalho em madeira",
+    "meaning": "arte de trabalhar com madeira",
+    "usage": "ex.: woodworking skills"
+  },
+  "word": {
+    "translation": "palavra",
+    "meaning": "unidade de linguagem; promessa",
+    "usage": "ex.: give your word"
+  },
+  "words": {
+    "translation": "palavras",
+    "meaning": "plural de \"word\"",
+    "usage": "ex.: kind words"
+  },
+  "wore": {
+    "translation": "vestiu; usou",
+    "meaning": "passado de \"wear\"",
+    "usage": "ex.: wore a hat"
+  },
+  "work": {
+    "translation": "trabalho; trabalhar; funcionar",
+    "meaning": "emprego; atividade; operar",
+    "usage": "ex.: hard work"
+  },
+  "worked": {
+    "translation": "trabalhou; funcionou",
+    "meaning": "passado de \"work\"",
+    "usage": "ex.: worked hard"
+  },
+  "workers": {
+    "translation": "trabalhadores; operários",
+    "meaning": "plural de \"worker\"",
+    "usage": "ex.: factory workers"
+  },
+  "working": {
+    "translation": "trabalhando; funcionando",
+    "meaning": "gerúndio de \"work\"",
+    "usage": "ex.: working together"
+  },
+  "world": {
+    "translation": "mundo",
+    "meaning": "planeta Terra; universo; sociedade",
+    "usage": "ex.: around the world"
+  },
+  "worried": {
+    "translation": "preocupado",
+    "meaning": "ansioso; apreensivo",
+    "usage": "ex.: felt worried"
+  },
+  "worry": {
+    "translation": "preocupar-se; preocupação",
+    "meaning": "sentir ansiedade; inquietação",
+    "usage": "ex.: don't worry"
+  },
+  "worrying": {
+    "translation": "preocupando; preocupante",
+    "meaning": "gerúndio de \"worry\"; que causa preocupação",
+    "usage": "ex.: worrying news"
+  },
+  "worse": {
+    "translation": "pior",
+    "meaning": "comparativo de \"bad\"; mais ruim",
+    "usage": "ex.: getting worse"
+  },
+  "worst": {
+    "translation": "o pior",
+    "meaning": "superlativo de \"bad\"",
+    "usage": "ex.: the worst day"
+  },
+  "worth": {
+    "translation": "valor; que vale",
+    "meaning": "mérito; digno de",
+    "usage": "ex.: worth it"
+  },
+  "worthless": {
+    "translation": "sem valor; inútil",
+    "meaning": "que não tem valor",
+    "usage": "ex.: worthless item"
+  },
+  "worthy": {
+    "translation": "digno; merecedor",
+    "meaning": "que merece; valoroso",
+    "usage": "ex.: worthy cause"
+  },
+  "would": {
+    "translation": "seria; iria; faria",
+    "meaning": "condicional de \"will\"; passado de \"will\"",
+    "usage": "ex.: would go"
+  },
+  "wouldn": {
+    "translation": "wouldn't (não iria/faria)",
+    "meaning": "contração de \"would not\"",
+    "usage": "ex.: wouldn't do it"
+  },
+  "wounds": {
+    "translation": "feridas; fere",
+    "meaning": "plural de \"wound\"; terceira pessoa",
+    "usage": "ex.: deep wounds"
+  },
+  "write": {
+    "translation": "escrever",
+    "meaning": "registrar palavras; compor",
+    "usage": "ex.: write a letter"
+  },
+  "writers": {
+    "translation": "escritores",
+    "meaning": "plural de \"writer\"",
+    "usage": "ex.: famous writers"
+  },
+  "writing": {
+    "translation": "escrevendo; escrita",
+    "meaning": "gerúndio de \"write\"; arte de escrever",
+    "usage": "ex.: writing skills"
+  },
+  "written": {
+    "translation": "escrito",
+    "meaning": "particípio passado de \"write\"",
+    "usage": "ex.: written text"
+  },
+  "wrong": {
+    "translation": "errado; erro; injustiça",
+    "meaning": "incorreto; mal; ofensa",
+    "usage": "ex.: wrong answer"
+  },
+  "wronged": {
+    "translation": "prejudicou; ofendeu",
+    "meaning": "passado de \"wrong\"; tratou injustamente",
+    "usage": "ex.: wronged me"
+  },
+  "wrongly": {
+    "translation": "erroneamente; injustamente",
+    "meaning": "de forma errada",
+    "usage": "ex.: wrongly accused"
+  },
+  "wrote": {
+    "translation": "escreveu",
+    "meaning": "passado de \"write\"",
+    "usage": "ex.: wrote a book"
+  },
+  "xavier": {
+    "translation": "Xavier",
+    "meaning": "nome próprio masculino",
+    "usage": "ex.: Xavier arrived"
+  },
+  "year": {
+    "translation": "ano",
+    "meaning": "período de 12 meses",
+    "usage": "ex.: last year"
+  },
+  "years": {
+    "translation": "anos",
+    "meaning": "plural de \"year\"",
+    "usage": "ex.: many years"
+  },
+  "yes": {
+    "translation": "sim",
+    "meaning": "expressão de concordância ou afirmação",
+    "usage": "ex.: yes, I agree"
+  },
+  "yesterday": {
+    "translation": "ontem",
+    "meaning": "o dia anterior a hoje",
+    "usage": "ex.: saw you yesterday"
+  },
+  "yet": {
+    "translation": "ainda; contudo; já",
+    "meaning": "até agora; porém; mesmo assim",
+    "usage": "ex.: not yet"
+  },
+  "yolanda": {
+    "translation": "Yolanda; Iolanda",
+    "meaning": "nome próprio feminino",
+    "usage": "ex.: Yolanda said"
+  },
+  "you": {
+    "translation": "você; tu; vocês",
+    "meaning": "pronome pessoal segunda pessoa",
+    "usage": "ex.: thank you"
+  },
+  "young": {
+    "translation": "jovem",
+    "meaning": "de pouca idade; novo",
+    "usage": "ex.: young person"
+  },
+  "younger": {
+    "translation": "mais jovem",
+    "meaning": "comparativo de \"young\"",
+    "usage": "ex.: younger brother"
+  },
+  "youngest": {
+    "translation": "o mais jovem",
+    "meaning": "superlativo de \"young\"",
+    "usage": "ex.: youngest child"
+  },
+  "your": {
+    "translation": "seu; sua; teu; tua",
+    "meaning": "pronome possessivo segunda pessoa",
+    "usage": "ex.: your book"
+  },
+  "yourself": {
+    "translation": "você mesmo; te; si mesmo",
+    "meaning": "pronome reflexivo segunda pessoa",
+    "usage": "ex.: do it yourself"
+  },
+  "youth": {
+    "translation": "juventude; jovem",
+    "meaning": "período de ser jovem; pessoa jovem",
+    "usage": "ex.: in my youth"
+  },
+  "yuki": {
+    "translation": "Yuki",
+    "meaning": "nome próprio japonês",
+    "usage": "ex.: Yuki smiled"
+  }
 }
