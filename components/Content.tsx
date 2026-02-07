@@ -13,7 +13,6 @@ interface PopupData {
 }
 
 export default function ContentBody({ text, audio }: { text: string, audio: React.ReactNode }){
-    const [word, setWord] = useState("");
     const lineHeight = 10;
     const [fontSize, setFontSize] = useState<number>(18);
     const [popup, setPopup] = useState<PopupData | null>(null);
