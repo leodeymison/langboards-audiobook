@@ -5,8 +5,6 @@ import { useSpeech } from 'react-text-to-speech';
 
 interface WordPopupData {
   word: string;
-  audioUrl: string;
-  translations: string[];
   x: number;
   y: number;
 }
@@ -132,6 +130,8 @@ export default function WordPopup({ data, onClose }: WordPopupProps) {
     positionY = data.y - popupHeight - 10;
   }
 
+  const capitalizeText = (text: string) => text ? text[0].toUpperCase() + text.slice(1) : "";
+
   return (
     <div
       ref={popupRef}
@@ -166,13 +166,13 @@ export default function WordPopup({ data, onClose }: WordPopupProps) {
               ) : (
                 <div className="flex flex-col gap-2">
                   <div>
-                    <span className="font-bold text-base">Tradução:</span> <span className="text-base">{entry.translation}</span>
+                    <span className="font-bold text-base">Tradução:</span> <span className="text-base">{capitalizeText(entry.translation)}</span>
                   </div>
                   <div>
-                    <span className="font-bold text-base">Significado:</span> <span className="text-base">{entry.meaning}</span>
+                    <span className="font-bold text-base">Significado:</span> <span className="text-base">{capitalizeText(entry.meaning)}</span>
                   </div>
                   <div>
-                    <span className="font-bold text-base">Uso:</span> <span className="text-base">{entry.usage}</span>
+                    <span className="font-bold text-base">Uso:</span> <span className="text-base">{capitalizeText(entry.usage)}</span>
                   </div>
                 </div>
               )}

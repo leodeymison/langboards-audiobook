@@ -5,8 +5,6 @@ import WordPopup from "./WordPopup";
 
 interface PopupData {
   word: string;
-  audioUrl: string;
-  translations: string[];
   x: number;
   y: number;
 }
@@ -15,8 +13,6 @@ export default function ContentBody({ text }: { text: string }){
     const lineHeight = 10;
     const [fontSize, setFontSizeState] = useState<number>(18);
     const [popup, setPopup] = useState<PopupData | null>(null);
-    const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
-    const [selectedVoice, setSelectedVoice] = useState<SpeechSynthesisVoice | null>(null);
 
     const textList = text.split(" ");
 
@@ -70,10 +66,11 @@ export default function ContentBody({ text }: { text: string }){
     const handleWordClick = async (e: React.MouseEvent<HTMLSpanElement>, word: string) => {
         const rect = e.currentTarget.getBoundingClientRect();
 
+        // Remove pontuações do início e fim da palavra
+        const cleanWord = word.replace(/^[.,!?;:"""''()[\]{}\-—]+|[.,!?;:"""''()[\]{}\-—]+$/g, '');
+
         setPopup({
-            word: word,
-            audioUrl: word,
-            translations: ["Exemplo 1", "Exemplo 2"],
+            word: cleanWord,
             x: rect.left,
             y: rect.top,
         });
