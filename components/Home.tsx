@@ -4,6 +4,7 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import { useEffect, useState } from 'react';
 
 import ContentBody from '@/components/Content';
+import AudioPlayer from '@/components/AudioPlayer';
 import { IoIosArrowBack } from 'react-icons/io';
 import { IoIosArrowForward } from 'react-icons/io';
 
@@ -78,7 +79,8 @@ export default function HomeContent() {
           <h1 className='text-5xl font-bold'>{page}</h1>
           <p className='font-medium text-lg text-gray-500'>Nível atual</p>
         </div>
-        <ContentBody audio={<>Audio aqui</>} text={text} />
+        <AudioPlayer text={text} />
+        <ContentBody text={text} />
         <div className='flex justify-between mt-4'>
           <button
             className='bg-gray-600 text-white px-5 py-2 rounded-md flex items-center gap-1'

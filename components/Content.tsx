@@ -12,7 +12,7 @@ interface PopupData {
   y: number;
 }
 
-export default function ContentBody({ text, audio }: { text: string, audio: React.ReactNode }){
+export default function ContentBody({ text }: { text: string }){
     const lineHeight = 10;
     const [fontSize, setFontSize] = useState<number>(18);
     const [popup, setPopup] = useState<PopupData | null>(null);
@@ -105,7 +105,7 @@ export default function ContentBody({ text, audio }: { text: string, audio: Reac
 
     return <div>
         <div className="flex justify-between items-center mb-4">
-            <div>{audio}</div>
+            <div></div>
             <div className="flex gap-3 items-center">
                 {/* Seletor de Voz */}
                 <select
