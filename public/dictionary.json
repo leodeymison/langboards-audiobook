@@ -7909,203 +7909,991 @@
     "meaning": "plural de \"perspective\"",
     "usage": "ex.: multiple perspectives"
   },
-  "peter": "peter",
-  "phone": "phone",
-  "physical": "physical",
-  "picked": "picked",
-  "pieces": "pieces",
-  "pilot": "pilot",
-  "pitied": "pitied",
-  "place": "lugar",
-  "places": "places",
-  "plan": "plan",
-  "planes": "planes",
-  "planet": "planet",
-  "planned": "planned",
-  "planning": "planning",
-  "platform": "platform",
-  "played": "played",
-  "playing": "playing",
-  "please": "please",
-  "pleaser": "pleaser",
-  "pleases": "pleases",
-  "pleasure": "pleasure",
-  "pleasures": "pleasures",
-  "point": "point",
-  "pointed": "pointed",
-  "pointing": "pointing",
-  "poison": "poison",
-  "policies": "policies",
-  "policy": "policy",
-  "poor": "poor",
-  "position": "position",
-  "positive": "positive",
-  "possession": "possession",
-  "possessions": "possessions",
-  "possibilities": "possibilities",
-  "possible": "possible",
-  "potential": "potential",
-  "pour": "pour",
-  "poverty": "poverty",
-  "power": "power",
-  "powerful": "powerful",
-  "practice": "practice",
-  "practiced": "practiced",
-  "practices": "practices",
-  "practicing": "practicing",
-  "praised": "praised",
-  "pregnancy": "pregnancy",
-  "pregnant": "pregnant",
-  "preparation": "preparation",
-  "prepared": "prepared",
-  "preparing": "preparing",
-  "prerequisite": "prerequisite",
-  "presence": "presence",
-  "present": "present",
-  "presentation": "presentation",
-  "pressure": "pressure",
-  "prestige": "prestige",
-  "prestigious": "prestigious",
-  "pretended": "pretended",
-  "pretending": "pretending",
-  "prevent": "prevent",
-  "prevented": "prevented",
-  "prevention": "prevention",
-  "preventive": "preventive",
-  "previous": "previous",
-  "pride": "pride",
-  "primary": "primary",
-  "prioritize": "prioritize",
-  "prioritized": "prioritized",
-  "prioritizing": "prioritizing",
-  "prison": "prison",
-  "private": "private",
-  "privileged": "privileged",
-  "priya": "priya",
-  "proactive": "proactive",
-  "proactively": "proactively",
-  "probably": "probably",
-  "problem": "problem",
-  "problems": "problems",
-  "procedures": "procedures",
-  "process": "process",
-  "processed": "processed",
-  "processing": "processing",
-  "productions": "productions",
-  "professional": "professional",
-  "professionally": "professionally",
-  "professor": "professor",
-  "profit": "profit",
-  "profound": "profound",
-  "profusely": "profusely",
-  "program": "program",
-  "programs": "programs",
-  "progress": "progress",
-  "project": "project",
-  "promised": "promised",
-  "promises": "promises",
-  "promotion": "promotion",
-  "proof": "proof",
-  "proper": "proper",
-  "properly": "properly",
-  "protect": "protect",
-  "protecting": "protecting",
-  "protection": "protection",
-  "proud": "proud",
-  "proudly": "proudly",
-  "prove": "prove",
-  "proven": "proven",
-  "provide": "provide",
-  "provided": "provided",
-  "provider": "provider",
-  "proving": "proving",
-  "ptsd": "ptsd",
-  "public": "public",
-  "publicly": "publicly",
-  "published": "published",
-  "publishers": "publishers",
-  "purchased": "purchased",
-  "pure": "pure",
-  "purely": "purely",
-  "purpose": "purpose",
-  "purposeful": "purposeful",
-  "purposeless": "purposeless",
-  "pursue": "pursue",
-  "pursued": "pursued",
-  "pursuing": "pursuing",
-  "pursuit": "pursuit",
-  "pursuits": "pursuits",
-  "push": "push",
-  "pushed": "pushed",
-  "pushing": "pushing",
-  "put": "put",
-  "qualifications": "qualifications",
-  "qualified": "qualified",
-  "qualities": "qualities",
-  "question": "question",
-  "questioned": "questioned",
-  "questions": "questions",
-  "quiet": "quiet",
-  "quietly": "quietly",
-  "quit": "quit",
-  "quo": "quo",
-  "race": "race",
-  "rachel": "rachel",
-  "racial": "racial",
-  "racism": "racism",
-  "radiation": "radiation",
-  "radical": "radical",
-  "raise": "raise",
-  "raised": "raised",
-  "raising": "raising",
-  "ran": "ran",
-  "random": "random",
-  "rarely": "rarely",
-  "rather": "rather",
-  "re": "re",
-  "reached": "reached",
-  "reactive": "reactive",
-  "reactively": "reactively",
-  "read": "ler",
-  "ready": "ready",
-  "real": "real",
-  "reality": "reality",
-  "realize": "realize",
-  "realized": "realized",
-  "really": "really",
-  "reasons": "reasons",
-  "reassurance": "reassurance",
-  "rebecca": "rebecca",
-  "rebellion": "rebellion",
-  "rebuild": "rebuild",
-  "rebuilding": "rebuilding",
-  "rebuilt": "rebuilt",
-  "receive": "receive",
-  "received": "received",
-  "recently": "recently",
-  "recipes": "recipes",
-  "reclaim": "reclaim",
-  "recognize": "recognize",
-  "recognized": "recognized",
-  "recognizing": "recognizing",
-  "recommended": "recommended",
-  "reconciliation": "reconciliation",
-  "reconciling": "reconciling",
-  "recorded": "recorded",
-  "recover": "recover",
-  "recovered": "recovered",
-  "recovering": "recovering",
-  "recovery": "recovery",
-  "recreational": "recreational",
-  "redirections": "redirections",
-  "reduced": "reduced",
-  "reevaluated": "reevaluated",
-  "reflection": "reflection",
-  "reframing": "reframing",
-  "refugee": "refugee",
-  "refugees": "refugees",
-  "refused": "refused",
-  "regain": "regain",
+  "peter": {
+    "translation": "Peter",
+    "meaning": "nome próprio masculino",
+    "usage": "usado como nome pessoal"
+  },
+  "phone": {
+    "translation": "telefone; telefonar",
+    "meaning": "aparelho de comunicação; também ligar",
+    "usage": "ex.: mobile phone; phone a friend"
+  },
+  "physical": {
+    "translation": "físico(a)",
+    "meaning": "relativo ao corpo ou matéria",
+    "usage": "ex.: physical health"
+  },
+  "picked": {
+    "translation": "escolheu; colheu",
+    "meaning": "passado de \"pick\"",
+    "usage": "ex.: picked flowers"
+  },
+  "pieces": {
+    "translation": "peças; pedaços",
+    "meaning": "plural de \"piece\"",
+    "usage": "ex.: puzzle pieces"
+  },
+  "pilot": {
+    "translation": "piloto; pilotar",
+    "meaning": "pessoa que pilota; também conduzir",
+    "usage": "ex.: airplane pilot; pilot program"
+  },
+  "pitied": {
+    "translation": "teve pena; compadeceu",
+    "meaning": "passado de \"pity\"",
+    "usage": "ex.: pitied the homeless"
+  },
+  "place": {
+    "translation": "lugar; colocar",
+    "meaning": "local; também pôr em posição",
+    "usage": "ex.: nice place; place order"
+  },
+  "places": {
+    "translation": "lugares; coloca",
+    "meaning": "plural de \"place\"; também 3ª pessoa do singular",
+    "usage": "ex.: many places"
+  },
+  "plan": {
+    "translation": "plano; planejar",
+    "meaning": "projeto; também fazer planos",
+    "usage": "ex.: make a plan; plan ahead"
+  },
+  "planes": {
+    "translation": "aviões; planos",
+    "meaning": "plural de \"plane\"",
+    "usage": "ex.: fly planes"
+  },
+  "planet": {
+    "translation": "planeta",
+    "meaning": "corpo celeste que orbita estrela",
+    "usage": "ex.: planet Earth"
+  },
+  "planned": {
+    "translation": "planejou; planejado(a)",
+    "meaning": "passado de \"plan\"",
+    "usage": "ex.: planned vacation"
+  },
+  "planning": {
+    "translation": "planejando; planejamento",
+    "meaning": "gerúndio de \"plan\"; também ato de planejar",
+    "usage": "ex.: planning ahead"
+  },
+  "platform": {
+    "translation": "plataforma",
+    "meaning": "superfície elevada; também sistema ou base",
+    "usage": "ex.: train platform; digital platform"
+  },
+  "played": {
+    "translation": "jogou; tocou; brincou",
+    "meaning": "passado de \"play\"",
+    "usage": "ex.: played soccer; played piano"
+  },
+  "playing": {
+    "translation": "jogando; tocando; brincando",
+    "meaning": "gerúndio de \"play\"",
+    "usage": "ex.: playing games"
+  },
+  "please": {
+    "translation": "por favor; agradar",
+    "meaning": "expressão de cortesia; também satisfazer",
+    "usage": "ex.: please help; hard to please"
+  },
+  "pleaser": {
+    "translation": "agradador(a)",
+    "meaning": "pessoa que busca agradar outros",
+    "usage": "ex.: people pleaser"
+  },
+  "pleases": {
+    "translation": "agrada",
+    "meaning": "3ª pessoa do singular de \"please\"",
+    "usage": "ex.: whatever pleases you"
+  },
+  "pleasure": {
+    "translation": "prazer",
+    "meaning": "satisfação; deleite",
+    "usage": "ex.: my pleasure"
+  },
+  "pleasures": {
+    "translation": "prazeres",
+    "meaning": "plural de \"pleasure\"",
+    "usage": "ex.: simple pleasures"
+  },
+  "point": {
+    "translation": "ponto; apontar",
+    "meaning": "marca; também indicar direção",
+    "usage": "ex.: main point; point at something"
+  },
+  "pointed": {
+    "translation": "apontou; pontiagudo(a)",
+    "meaning": "passado de \"point\"; também aguçado",
+    "usage": "ex.: pointed finger; pointed stick"
+  },
+  "pointing": {
+    "translation": "apontando",
+    "meaning": "gerúndio de \"point\"",
+    "usage": "ex.: pointing direction"
+  },
+  "poison": {
+    "translation": "veneno; envenenar",
+    "meaning": "substância tóxica; também intoxicar",
+    "usage": "ex.: rat poison; poison someone"
+  },
+  "policies": {
+    "translation": "políticas",
+    "meaning": "plural de \"policy\"",
+    "usage": "ex.: company policies"
+  },
+  "policy": {
+    "translation": "política; apólice",
+    "meaning": "diretriz; também contrato de seguro",
+    "usage": "ex.: company policy; insurance policy"
+  },
+  "poor": {
+    "translation": "pobre; ruim",
+    "meaning": "sem recursos; também de má qualidade",
+    "usage": "ex.: poor people; poor quality"
+  },
+  "position": {
+    "translation": "posição; posicionar",
+    "meaning": "lugar; cargo; também colocar",
+    "usage": "ex.: sitting position; job position"
+  },
+  "positive": {
+    "translation": "positivo(a)",
+    "meaning": "otimista; afirmativo; também acima de zero",
+    "usage": "ex.: positive attitude; positive number"
+  },
+  "possession": {
+    "translation": "posse; pertence",
+    "meaning": "ato de possuir; também item possuído",
+    "usage": "ex.: in possession of; valuable possession"
+  },
+  "possessions": {
+    "translation": "pertences; posses",
+    "meaning": "plural de \"possession\"",
+    "usage": "ex.: material possessions"
+  },
+  "possibilities": {
+    "translation": "possibilidades",
+    "meaning": "plural de \"possibility\"",
+    "usage": "ex.: endless possibilities"
+  },
+  "possible": {
+    "translation": "possível",
+    "meaning": "que pode acontecer ou ser feito",
+    "usage": "ex.: everything possible"
+  },
+  "potential": {
+    "translation": "potencial; potencialidade",
+    "meaning": "capacidade latente; também possível",
+    "usage": "ex.: full potential; potential risk"
+  },
+  "pour": {
+    "translation": "despejar; servir",
+    "meaning": "verter líquido; também chover forte",
+    "usage": "ex.: pour water; pour rain"
+  },
+  "poverty": {
+    "translation": "pobreza",
+    "meaning": "estado de carência material",
+    "usage": "ex.: live in poverty"
+  },
+  "power": {
+    "translation": "poder; energia",
+    "meaning": "força; autoridade; também eletricidade",
+    "usage": "ex.: political power; power supply"
+  },
+  "powerful": {
+    "translation": "poderoso(a); potente",
+    "meaning": "que tem grande força ou influência",
+    "usage": "ex.: powerful leader; powerful engine"
+  },
+  "practice": {
+    "translation": "prática; praticar",
+    "meaning": "exercício; também realizar repetidamente",
+    "usage": "ex.: practice makes perfect; practice piano"
+  },
+  "practiced": {
+    "translation": "praticou; praticado(a)",
+    "meaning": "passado de \"practice\"; também experiente",
+    "usage": "ex.: practiced daily; practiced skill"
+  },
+  "practices": {
+    "translation": "práticas; pratica",
+    "meaning": "plural de \"practice\"; também 3ª pessoa do singular",
+    "usage": "ex.: best practices; she practices yoga"
+  },
+  "practicing": {
+    "translation": "praticando",
+    "meaning": "gerúndio de \"practice\"",
+    "usage": "ex.: practicing medicine"
+  },
+  "praised": {
+    "translation": "elogiou; louvou",
+    "meaning": "passado de \"praise\"",
+    "usage": "ex.: praised effort"
+  },
+  "pregnancy": {
+    "translation": "gravidez",
+    "meaning": "estado de estar grávida",
+    "usage": "ex.: during pregnancy"
+  },
+  "pregnant": {
+    "translation": "grávida",
+    "meaning": "esperando bebê",
+    "usage": "ex.: pregnant woman"
+  },
+  "preparation": {
+    "translation": "preparação; preparo",
+    "meaning": "ato de preparar; prontidão",
+    "usage": "ex.: in preparation for"
+  },
+  "prepared": {
+    "translation": "preparou; preparado(a)",
+    "meaning": "passado de \"prepare\"; também pronto",
+    "usage": "ex.: prepared meal; well prepared"
+  },
+  "preparing": {
+    "translation": "preparando",
+    "meaning": "gerúndio de \"prepare\"",
+    "usage": "ex.: preparing dinner"
+  },
+  "prerequisite": {
+    "translation": "pré-requisito",
+    "meaning": "condição necessária previamente",
+    "usage": "ex.: prerequisite course"
+  },
+  "presence": {
+    "translation": "presença",
+    "meaning": "ato de estar presente",
+    "usage": "ex.: your presence matters"
+  },
+  "present": {
+    "translation": "presente; apresentar",
+    "meaning": "atual; também dom; também mostrar",
+    "usage": "ex.: present moment; present idea"
+  },
+  "presentation": {
+    "translation": "apresentação",
+    "meaning": "ato de apresentar; exposição",
+    "usage": "ex.: give presentation"
+  },
+  "pressure": {
+    "translation": "pressão; pressionar",
+    "meaning": "força aplicada; também coagir",
+    "usage": "ex.: blood pressure; under pressure"
+  },
+  "prestige": {
+    "translation": "prestígio",
+    "meaning": "reputação elevada; respeito",
+    "usage": "ex.: gain prestige"
+  },
+  "prestigious": {
+    "translation": "prestigioso(a); prestigiado(a)",
+    "meaning": "que tem prestígio",
+    "usage": "ex.: prestigious university"
+  },
+  "pretended": {
+    "translation": "fingiu; simulou",
+    "meaning": "passado de \"pretend\"",
+    "usage": "ex.: pretended to sleep"
+  },
+  "pretending": {
+    "translation": "fingindo; simulando",
+    "meaning": "gerúndio de \"pretend\"",
+    "usage": "ex.: pretending nothing happened"
+  },
+  "prevent": {
+    "translation": "prevenir; impedir",
+    "meaning": "evitar que aconteça",
+    "usage": "ex.: prevent disease"
+  },
+  "prevented": {
+    "translation": "preveniu; impediu",
+    "meaning": "passado de \"prevent\"",
+    "usage": "ex.: prevented accident"
+  },
+  "prevention": {
+    "translation": "prevenção",
+    "meaning": "ato de prevenir",
+    "usage": "ex.: disease prevention"
+  },
+  "preventive": {
+    "translation": "preventivo(a)",
+    "meaning": "que visa prevenir",
+    "usage": "ex.: preventive care"
+  },
+  "previous": {
+    "translation": "anterior; prévio(a)",
+    "meaning": "que veio antes",
+    "usage": "ex.: previous chapter"
+  },
+  "pride": {
+    "translation": "orgulho; orgulhar-se",
+    "meaning": "sentimento de satisfação própria",
+    "usage": "ex.: take pride in"
+  },
+  "primary": {
+    "translation": "primário(a); principal",
+    "meaning": "primeiro em importância; básico",
+    "usage": "ex.: primary school; primary concern"
+  },
+  "prioritize": {
+    "translation": "priorizar",
+    "meaning": "dar prioridade a",
+    "usage": "ex.: prioritize tasks"
+  },
+  "prioritized": {
+    "translation": "priorizou; priorizado(a)",
+    "meaning": "passado de \"prioritize\"",
+    "usage": "ex.: prioritized health"
+  },
+  "prioritizing": {
+    "translation": "priorizando",
+    "meaning": "gerúndio de \"prioritize\"",
+    "usage": "ex.: prioritizing goals"
+  },
+  "prison": {
+    "translation": "prisão",
+    "meaning": "local de encarceramento",
+    "usage": "ex.: sent to prison"
+  },
+  "private": {
+    "translation": "privado(a); particular",
+    "meaning": "não público; pessoal",
+    "usage": "ex.: private property; private life"
+  },
+  "privileged": {
+    "translation": "privilegiado(a)",
+    "meaning": "que tem vantagens especiais",
+    "usage": "ex.: privileged background"
+  },
+  "priya": {
+    "translation": "Priya",
+    "meaning": "nome próprio feminino",
+    "usage": "usado como nome pessoal"
+  },
+  "proactive": {
+    "translation": "proativo(a)",
+    "meaning": "que age antecipadamente; preventivo",
+    "usage": "ex.: proactive approach"
+  },
+  "proactively": {
+    "translation": "proativamente",
+    "meaning": "de modo proativo",
+    "usage": "ex.: act proactively"
+  },
+  "probably": {
+    "translation": "provavelmente",
+    "meaning": "muito provável; possivelmente",
+    "usage": "ex.: probably right"
+  },
+  "problem": {
+    "translation": "problema",
+    "meaning": "questão difícil; dificuldade",
+    "usage": "ex.: solve problem"
+  },
+  "problems": {
+    "translation": "problemas",
+    "meaning": "plural de \"problem\"",
+    "usage": "ex.: many problems"
+  },
+  "procedures": {
+    "translation": "procedimentos",
+    "meaning": "plural de \"procedure\"; métodos",
+    "usage": "ex.: medical procedures"
+  },
+  "process": {
+    "translation": "processo; processar",
+    "meaning": "sequência de ações; também executar",
+    "usage": "ex.: learning process; process data"
+  },
+  "processed": {
+    "translation": "processou; processado(a)",
+    "meaning": "passado de \"process\"",
+    "usage": "ex.: processed food"
+  },
+  "processing": {
+    "translation": "processando",
+    "meaning": "gerúndio de \"process\"",
+    "usage": "ex.: processing information"
+  },
+  "productions": {
+    "translation": "produções",
+    "meaning": "plural de \"production\"",
+    "usage": "ex.: theatrical productions"
+  },
+  "professional": {
+    "translation": "profissional",
+    "meaning": "relativo à profissão; também pessoa qualificada",
+    "usage": "ex.: professional career"
+  },
+  "professionally": {
+    "translation": "profissionalmente",
+    "meaning": "de modo profissional",
+    "usage": "ex.: behave professionally"
+  },
+  "professor": {
+    "translation": "professor(a) universitário(a)",
+    "meaning": "docente de nível superior",
+    "usage": "ex.: college professor"
+  },
+  "profit": {
+    "translation": "lucro; lucrar",
+    "meaning": "ganho financeiro; também obter vantagem",
+    "usage": "ex.: make profit"
+  },
+  "profound": {
+    "translation": "profundo(a)",
+    "meaning": "muito intenso; de grande significado",
+    "usage": "ex.: profound impact"
+  },
+  "profusely": {
+    "translation": "profusamente",
+    "meaning": "abundantemente; copiosamente",
+    "usage": "ex.: sweat profusely"
+  },
+  "program": {
+    "translation": "programa; programar",
+    "meaning": "plano; software; também criar código",
+    "usage": "ex.: TV program; program computer"
+  },
+  "programs": {
+    "translation": "programas",
+    "meaning": "plural de \"program\"",
+    "usage": "ex.: training programs"
+  },
+  "progress": {
+    "translation": "progresso; progredir",
+    "meaning": "avanço; também avançar",
+    "usage": "ex.: make progress"
+  },
+  "project": {
+    "translation": "projeto; projetar",
+    "meaning": "empreendimento; também lançar para frente",
+    "usage": "ex.: school project; project image"
+  },
+  "promised": {
+    "translation": "prometeu; prometido(a)",
+    "meaning": "passado de \"promise\"",
+    "usage": "ex.: promised to help"
+  },
+  "promises": {
+    "translation": "promessas; promete",
+    "meaning": "plural de \"promise\"; também 3ª pessoa do singular",
+    "usage": "ex.: keep promises"
+  },
+  "promotion": {
+    "translation": "promoção",
+    "meaning": "elevação de cargo; também divulgação",
+    "usage": "ex.: job promotion"
+  },
+  "proof": {
+    "translation": "prova; comprovação",
+    "meaning": "evidência; demonstração",
+    "usage": "ex.: proof of concept"
+  },
+  "proper": {
+    "translation": "apropriado(a); adequado(a)",
+    "meaning": "correto; próprio",
+    "usage": "ex.: proper behavior"
+  },
+  "properly": {
+    "translation": "adequadamente; corretamente",
+    "meaning": "de modo apropriado",
+    "usage": "ex.: do it properly"
+  },
+  "protect": {
+    "translation": "proteger",
+    "meaning": "defender; resguardar",
+    "usage": "ex.: protect children"
+  },
+  "protecting": {
+    "translation": "protegendo",
+    "meaning": "gerúndio de \"protect\"",
+    "usage": "ex.: protecting environment"
+  },
+  "protection": {
+    "translation": "proteção",
+    "meaning": "ato de proteger; defesa",
+    "usage": "ex.: need protection"
+  },
+  "proud": {
+    "translation": "orgulhoso(a)",
+    "meaning": "que sente orgulho",
+    "usage": "ex.: proud parent"
+  },
+  "proudly": {
+    "translation": "orgulhosamente",
+    "meaning": "com orgulho",
+    "usage": "ex.: stand proudly"
+  },
+  "prove": {
+    "translation": "provar; demonstrar",
+    "meaning": "comprovar; evidenciar",
+    "usage": "ex.: prove theory"
+  },
+  "proven": {
+    "translation": "provado(a); comprovado(a)",
+    "meaning": "particípio de \"prove\"",
+    "usage": "ex.: proven method"
+  },
+  "provide": {
+    "translation": "fornecer; prover",
+    "meaning": "dar; disponibilizar",
+    "usage": "ex.: provide support"
+  },
+  "provided": {
+    "translation": "forneceu; fornecido(a)",
+    "meaning": "passado de \"provide\"; também contanto que",
+    "usage": "ex.: provided help; provided that"
+  },
+  "provider": {
+    "translation": "fornecedor(a); provedor(a)",
+    "meaning": "quem fornece",
+    "usage": "ex.: service provider"
+  },
+  "proving": {
+    "translation": "provando",
+    "meaning": "gerúndio de \"prove\"",
+    "usage": "ex.: proving point"
+  },
+  "ptsd": {
+    "translation": "TEPT",
+    "meaning": "transtorno de estresse pós-traumático (Post-Traumatic Stress Disorder)",
+    "usage": "ex.: suffer from PTSD"
+  },
+  "public": {
+    "translation": "público(a); o público",
+    "meaning": "acessível a todos; também população",
+    "usage": "ex.: public place; general public"
+  },
+  "publicly": {
+    "translation": "publicamente",
+    "meaning": "de modo público; abertamente",
+    "usage": "ex.: speak publicly"
+  },
+  "published": {
+    "translation": "publicou; publicado(a)",
+    "meaning": "passado de \"publish\"",
+    "usage": "ex.: published book"
+  },
+  "publishers": {
+    "translation": "editores; editoras",
+    "meaning": "plural de \"publisher\"",
+    "usage": "ex.: book publishers"
+  },
+  "purchased": {
+    "translation": "comprou; comprado(a)",
+    "meaning": "passado de \"purchase\"",
+    "usage": "ex.: purchased property"
+  },
+  "pure": {
+    "translation": "puro(a)",
+    "meaning": "não misturado; genuíno",
+    "usage": "ex.: pure water; pure joy"
+  },
+  "purely": {
+    "translation": "puramente",
+    "meaning": "de modo puro; apenas",
+    "usage": "ex.: purely coincidental"
+  },
+  "purpose": {
+    "translation": "propósito; objetivo",
+    "meaning": "finalidade; razão de ser",
+    "usage": "ex.: life purpose; serve purpose"
+  },
+  "purposeful": {
+    "translation": "proposital; determinado(a)",
+    "meaning": "intencional; com propósito",
+    "usage": "ex.: purposeful action"
+  },
+  "purposeless": {
+    "translation": "sem propósito",
+    "meaning": "sem finalidade ou objetivo",
+    "usage": "ex.: feel purposeless"
+  },
+  "pursue": {
+    "translation": "perseguir; buscar",
+    "meaning": "ir atrás de; procurar alcançar",
+    "usage": "ex.: pursue dreams"
+  },
+  "pursued": {
+    "translation": "perseguiu; buscou",
+    "meaning": "passado de \"pursue\"",
+    "usage": "ex.: pursued career"
+  },
+  "pursuing": {
+    "translation": "perseguindo; buscando",
+    "meaning": "gerúndio de \"pursue\"",
+    "usage": "ex.: pursuing goals"
+  },
+  "pursuit": {
+    "translation": "busca; perseguição",
+    "meaning": "ato de perseguir; procura",
+    "usage": "ex.: pursuit of happiness"
+  },
+  "pursuits": {
+    "translation": "buscas; atividades",
+    "meaning": "plural de \"pursuit\"; ocupações",
+    "usage": "ex.: intellectual pursuits"
+  },
+  "push": {
+    "translation": "empurrar; pressionar",
+    "meaning": "aplicar força; também incentivar",
+    "usage": "ex.: push door; push yourself"
+  },
+  "pushed": {
+    "translation": "empurrou; pressionou",
+    "meaning": "passado de \"push\"",
+    "usage": "ex.: pushed boundaries"
+  },
+  "pushing": {
+    "translation": "empurrando; pressionando",
+    "meaning": "gerúndio de \"push\"",
+    "usage": "ex.: pushing limits"
+  },
+  "put": {
+    "translation": "colocar; pôr",
+    "meaning": "posicionar; também expressar",
+    "usage": "ex.: put down; put effort"
+  },
+  "qualifications": {
+    "translation": "qualificações",
+    "meaning": "plural de \"qualification\"; credenciais",
+    "usage": "ex.: job qualifications"
+  },
+  "qualified": {
+    "translation": "qualificado(a); capacitado(a)",
+    "meaning": "que tem qualificações necessárias",
+    "usage": "ex.: qualified professional"
+  },
+  "qualities": {
+    "translation": "qualidades",
+    "meaning": "plural de \"quality\"; características",
+    "usage": "ex.: good qualities"
+  },
+  "question": {
+    "translation": "pergunta; questão; questionar",
+    "meaning": "indagação; também duvidar",
+    "usage": "ex.: ask question; question authority"
+  },
+  "questioned": {
+    "translation": "questionou; questionado(a)",
+    "meaning": "passado de \"question\"",
+    "usage": "ex.: questioned decision"
+  },
+  "questions": {
+    "translation": "perguntas; questiona",
+    "meaning": "plural de \"question\"; também 3ª pessoa do singular",
+    "usage": "ex.: many questions"
+  },
+  "quiet": {
+    "translation": "quieto(a); silencioso(a); silêncio",
+    "meaning": "sem ruído; também calma",
+    "usage": "ex.: be quiet; quiet place"
+  },
+  "quietly": {
+    "translation": "silenciosamente; calmamente",
+    "meaning": "de modo quieto",
+    "usage": "ex.: speak quietly"
+  },
+  "quit": {
+    "translation": "desistir; parar; sair",
+    "meaning": "abandonar; deixar emprego",
+    "usage": "ex.: quit job; quit smoking"
+  },
+  "quo": {
+    "translation": "quo",
+    "meaning": "usado em \"status quo\" (estado atual)",
+    "usage": "ex.: status quo"
+  },
+  "race": {
+    "translation": "corrida; raça; correr",
+    "meaning": "competição; também grupo étnico",
+    "usage": "ex.: car race; human race"
+  },
+  "rachel": {
+    "translation": "Rachel",
+    "meaning": "nome próprio feminino",
+    "usage": "usado como nome pessoal"
+  },
+  "racial": {
+    "translation": "racial",
+    "meaning": "relativo à raça",
+    "usage": "ex.: racial discrimination"
+  },
+  "racism": {
+    "translation": "racismo",
+    "meaning": "discriminação baseada em raça",
+    "usage": "ex.: fight racism"
+  },
+  "radiation": {
+    "translation": "radiação",
+    "meaning": "emissão de energia; raios",
+    "usage": "ex.: radiation therapy"
+  },
+  "radical": {
+    "translation": "radical",
+    "meaning": "extremo; fundamental; também reformista",
+    "usage": "ex.: radical change"
+  },
+  "raise": {
+    "translation": "levantar; criar; aumentar",
+    "meaning": "erguer; também educar; elevar",
+    "usage": "ex.: raise hand; raise children"
+  },
+  "raised": {
+    "translation": "levantou; criou; elevado(a)",
+    "meaning": "passado de \"raise\"",
+    "usage": "ex.: raised awareness"
+  },
+  "raising": {
+    "translation": "levantando; criando; elevando",
+    "meaning": "gerúndio de \"raise\"",
+    "usage": "ex.: raising kids"
+  },
+  "ran": {
+    "translation": "correu; dirigiu",
+    "meaning": "passado de \"run\"",
+    "usage": "ex.: ran fast; ran business"
+  },
+  "random": {
+    "translation": "aleatório(a); casual",
+    "meaning": "sem padrão; ao acaso",
+    "usage": "ex.: random selection"
+  },
+  "rarely": {
+    "translation": "raramente",
+    "meaning": "poucas vezes; quase nunca",
+    "usage": "ex.: rarely happens"
+  },
+  "rather": {
+    "translation": "bastante; preferivelmente",
+    "meaning": "relativamente; também em vez de",
+    "usage": "ex.: rather difficult; would rather"
+  },
+  "re": {
+    "translation": "re-; sobre",
+    "meaning": "prefixo de repetição; também referente a",
+    "usage": "ex.: re: email subject"
+  },
+  "reached": {
+    "translation": "alcançou; atingiu",
+    "meaning": "passado de \"reach\"",
+    "usage": "ex.: reached goal"
+  },
+  "reactive": {
+    "translation": "reativo(a)",
+    "meaning": "que reage a estímulos; responsivo",
+    "usage": "ex.: reactive behavior"
+  },
+  "reactively": {
+    "translation": "reativamente",
+    "meaning": "de modo reativo",
+    "usage": "ex.: respond reactively"
+  },
+  "read": {
+    "translation": "ler; leu; lido(a)",
+    "meaning": "interpretar texto; também passado/particípio",
+    "usage": "ex.: read book; have read"
+  },
+  "ready": {
+    "translation": "pronto(a); preparado(a)",
+    "meaning": "em condições; disposto",
+    "usage": "ex.: get ready; ready to go"
+  },
+  "real": {
+    "translation": "real; verdadeiro(a)",
+    "meaning": "genuíno; autêntico",
+    "usage": "ex.: real story; real life"
+  },
+  "reality": {
+    "translation": "realidade",
+    "meaning": "o que é real; situação verdadeira",
+    "usage": "ex.: face reality"
+  },
+  "realize": {
+    "translation": "perceber; realizar",
+    "meaning": "dar-se conta; também concretizar",
+    "usage": "ex.: realize mistake; realize dream"
+  },
+  "realized": {
+    "translation": "percebeu; realizou",
+    "meaning": "passado de \"realize\"",
+    "usage": "ex.: realized truth"
+  },
+  "really": {
+    "translation": "realmente; muito",
+    "meaning": "verdadeiramente; também intensificador",
+    "usage": "ex.: really important"
+  },
+  "reasons": {
+    "translation": "razões; motivos",
+    "meaning": "plural de \"reason\"",
+    "usage": "ex.: many reasons"
+  },
+  "reassurance": {
+    "translation": "reafirmação; consolo",
+    "meaning": "ato de tranquilizar; segurança renovada",
+    "usage": "ex.: need reassurance"
+  },
+  "rebecca": {
+    "translation": "Rebecca",
+    "meaning": "nome próprio feminino",
+    "usage": "usado como nome pessoal"
+  },
+  "rebellion": {
+    "translation": "rebelião",
+    "meaning": "ato de rebelar-se; insurreição",
+    "usage": "ex.: teenage rebellion"
+  },
+  "rebuild": {
+    "translation": "reconstruir",
+    "meaning": "construir novamente",
+    "usage": "ex.: rebuild life"
+  },
+  "rebuilding": {
+    "translation": "reconstruindo",
+    "meaning": "gerúndio de \"rebuild\"",
+    "usage": "ex.: rebuilding trust"
+  },
+  "rebuilt": {
+    "translation": "reconstruiu; reconstruído(a)",
+    "meaning": "passado de \"rebuild\"",
+    "usage": "ex.: rebuilt relationship"
+  },
+  "receive": {
+    "translation": "receber",
+    "meaning": "obter; aceitar",
+    "usage": "ex.: receive gift"
+  },
+  "received": {
+    "translation": "recebeu; recebido(a)",
+    "meaning": "passado de \"receive\"",
+    "usage": "ex.: received message"
+  },
+  "recently": {
+    "translation": "recentemente",
+    "meaning": "há pouco tempo; ultimamente",
+    "usage": "ex.: recently learned"
+  },
+  "recipes": {
+    "translation": "receitas",
+    "meaning": "plural de \"recipe\"; instruções culinárias",
+    "usage": "ex.: cooking recipes"
+  },
+  "reclaim": {
+    "translation": "reivindicar; recuperar",
+    "meaning": "retomar; recobrar",
+    "usage": "ex.: reclaim time"
+  },
+  "recognize": {
+    "translation": "reconhecer",
+    "meaning": "identificar; admitir",
+    "usage": "ex.: recognize face"
+  },
+  "recognized": {
+    "translation": "reconheceu; reconhecido(a)",
+    "meaning": "passado de \"recognize\"",
+    "usage": "ex.: recognized expert"
+  },
+  "recognizing": {
+    "translation": "reconhecendo",
+    "meaning": "gerúndio de \"recognize\"",
+    "usage": "ex.: recognizing patterns"
+  },
+  "recommended": {
+    "translation": "recomendou; recomendado(a)",
+    "meaning": "passado de \"recommend\"",
+    "usage": "ex.: highly recommended"
+  },
+  "reconciliation": {
+    "translation": "reconciliação",
+    "meaning": "ato de reconciliar; restabelecimento de relações",
+    "usage": "ex.: seek reconciliation"
+  },
+  "reconciling": {
+    "translation": "reconciliando",
+    "meaning": "gerúndio de \"reconcile\"",
+    "usage": "ex.: reconciling differences"
+  },
+  "recorded": {
+    "translation": "gravou; gravado(a); registrado(a)",
+    "meaning": "passado de \"record\"",
+    "usage": "ex.: recorded video"
+  },
+  "recover": {
+    "translation": "recuperar; recuperar-se",
+    "meaning": "retomar; também curar-se",
+    "usage": "ex.: recover health"
+  },
+  "recovered": {
+    "translation": "recuperou; recuperado(a)",
+    "meaning": "passado de \"recover\"",
+    "usage": "ex.: recovered fully"
+  },
+  "recovering": {
+    "translation": "recuperando",
+    "meaning": "gerúndio de \"recover\"",
+    "usage": "ex.: recovering from illness"
+  },
+  "recovery": {
+    "translation": "recuperação",
+    "meaning": "processo de recuperar-se",
+    "usage": "ex.: full recovery"
+  },
+  "recreational": {
+    "translation": "recreativo(a); recreacional",
+    "meaning": "relativo a lazer ou diversão",
+    "usage": "ex.: recreational activities"
+  },
+  "redirections": {
+    "translation": "redirecionamentos",
+    "meaning": "plural de \"redirection\"; mudanças de direção",
+    "usage": "ex.: life redirections"
+  },
+  "reduced": {
+    "translation": "reduziu; reduzido(a)",
+    "meaning": "passado de \"reduce\"",
+    "usage": "ex.: reduced cost"
+  },
+  "reevaluated": {
+    "translation": "reavaliou; reavaliado(a)",
+    "meaning": "passado de \"reevaluate\"",
+    "usage": "ex.: reevaluated priorities"
+  },
+  "reflection": {
+    "translation": "reflexão",
+    "meaning": "pensamento profundo; também imagem refletida",
+    "usage": "ex.: self-reflection"
+  },
+  "reframing": {
+    "translation": "reenquadrando; reformulando",
+    "meaning": "gerúndio de \"reframe\"; mudar perspectiva",
+    "usage": "ex.: reframing thoughts"
+  },
+  "refugee": {
+    "translation": "refugiado(a)",
+    "meaning": "pessoa que busca refúgio",
+    "usage": "ex.: war refugee"
+  },
+  "refugees": {
+    "translation": "refugiados(as)",
+    "meaning": "plural de \"refugee\"",
+    "usage": "ex.: help refugees"
+  },
+  "refused": {
+    "translation": "recusou; recusado(a)",
+    "meaning": "passado de \"refuse\"",
+    "usage": "ex.: refused offer"
+  },
+  "regain": {
+    "translation": "recuperar; readquirir",
+    "meaning": "obter novamente",
+    "usage": "ex.: regain confidence"
+  },
   "regardless": "regardless",
   "regret": "regret",
   "regrets": "regrets",
