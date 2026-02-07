@@ -72,26 +72,28 @@ export default function HomeContent() {
   };
 
   return (
-    <div className="w-3/4 max-2xl:w-11/12 py-2">
-      <div className='flex justify-center items-center flex-col py-10'>
-        <h1 className='text-5xl font-bold'>{page}</h1>
-        <p className='font-medium text-lg text-gray-500'>Nível atual</p>
+    <main className="flex justify-center">
+      <div className="w-3/4 max-2xl:w-11/12 py-2">
+        <div className='flex justify-center items-center flex-col py-10'>
+          <h1 className='text-5xl font-bold'>{page}</h1>
+          <p className='font-medium text-lg text-gray-500'>Nível atual</p>
+        </div>
+        <ContentBody audio={<>Audio aqui</>} text={text} />
+        <div className='flex justify-between mt-4'>
+          <button
+            className='bg-gray-600 text-white px-5 py-2 rounded-md flex items-center gap-1'
+            onClick={handlePrevious}
+            disabled={currentPage === 1}
+          >
+            <IoIosArrowBack />
+            <span>Voltar</span>
+          </button>
+          <button className='bg-green-600 text-white px-5 py-2 rounded-md flex items-center gap-1' onClick={handleNext}>
+            <span>Próximo</span>
+            <IoIosArrowForward />
+          </button>
+        </div>
       </div>
-      <ContentBody audio={<>Audio aqui</>} text={text} />
-      <div className='flex justify-between mt-4'>
-        <button
-          className='bg-gray-600 text-white px-5 py-2 rounded-md flex items-center gap-1'
-          onClick={handlePrevious}
-          disabled={currentPage === 1}
-        >
-          <IoIosArrowBack />
-          <span>Voltar</span>
-        </button>
-        <button className='bg-green-600 text-white px-5 py-2 rounded-md flex items-center gap-1' onClick={handleNext}>
-          <span>Próximo</span>
-          <IoIosArrowForward />
-        </button>
-      </div>
-    </div>
+    </main>
   );
 }

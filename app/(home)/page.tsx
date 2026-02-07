@@ -1,11 +1,9 @@
-'use client';
+import HomeContent from "@/components/Home";
+import { Suspense } from "react";
 
-import { Suspense } from 'react';
-import HomeContent from './home-content';
-
-export default function Home() {
+export default function Page() {
   return (
-    <Suspense>
+    <Suspense fallback={<div>Loading...</div>}>
       <HomeContent />
     </Suspense>
   );
