@@ -1,16 +1,23 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useSpeech } from 'react-text-to-speech';
 
 interface WordPopupData {
   word: string;
-  category: string;
   audioUrl: string;
   translations: string[];
   x: number;
   y: number;
 }
+
+type DictionaryEntry =
+  | string
+  | {
+      translation: string;
+      meaning: string;
+      usage: string;
+    };
 
 interface WordPopupProps {
   data: WordPopupData | null;
@@ -19,6 +26,9 @@ interface WordPopupProps {
 
 export default function WordPopup({ data, onClose }: WordPopupProps) {
   const popupRef = useRef<HTMLDivElement>(null);
+  const [loading, setLoading] = useState(false);
+  const [entry, setEntry] = useState<DictionaryEntry | null>(null);
+  const [error, setError] = useState<string | null>(null);
 
   const {
     start,
@@ -32,6 +42,39 @@ export default function WordPopup({ data, onClose }: WordPopupProps) {
     voiceURI: 'Google US English',
   });
 
+  // Busca tradução da palavra
+  useEffect(() => {
+    const fetchTranslation = async () => {
+      if (!data?.word) return;
+      
+      setLoading(true);
+      setError(null);
+      setEntry(null);
+      
+      try {
+        // Carrega o dicionário local
+        const response = await fetch('/dictionary.json');
+        const dictionary = await response.json();
+        
+        // Tenta encontrar a tradução (case-insensitive)
+        const wordLower = data.word.toLowerCase();
+        const translation = dictionary[wordLower] as DictionaryEntry | undefined;
+
+        if (translation) {
+          setEntry(translation);
+        } else {
+          setError('Palavra não encontrada no dicionário');
+        }
+      } catch (err) {
+        console.error('Erro ao buscar tradução:', err);
+        setError('Não foi possível buscar a tradução');
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchTranslation();
+  }, [data?.word]);
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
@@ -103,22 +146,38 @@ export default function WordPopup({ data, onClose }: WordPopupProps) {
         <h3 className="text-xl font-bold text-gray-800 break-words">{data.word}</h3>
       </div>
 
-      {/* Categoria */}
-      <div className="mb-3 flex items-center gap-2">
-        <span className="text-xs font-semibold text-white bg-blue-500 px-2 py-1 rounded-full">
-          {data.category}
-        </span>
-      </div>
-
-      {/* Traduções */}
+      {/* Tradução */}
       <div className="mb-4">
-        <p className="text-sm font-semibold text-gray-700 mb-2">Traduções:</p>
         <div className="flex flex-col gap-1">
-          {data.translations.map((translation, index) => (
-            <div key={index} className="text-sm text-gray-600 bg-gray-50 p-2 rounded">
-              {translation}
+          {loading && (
+            <div className="flex items-center justify-center p-4">
+              <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500"></div>
             </div>
-          ))}
+          )}
+          {error && (
+            <div className="text-sm text-red-600 bg-red-50 p-2 rounded">
+              {error}
+            </div>
+          )}
+          {!loading && !error && entry && (
+            <div className="text-sm text-gray-600 bg-gray-50 p-2 rounded">
+              {typeof entry === "string" ? (
+                <div>{entry}</div>
+              ) : (
+                <div className="flex flex-col gap-2">
+                  <div>
+                    <span className="font-bold text-base">Tradução:</span> <span className="text-base">{entry.translation}</span>
+                  </div>
+                  <div>
+                    <span className="font-bold text-base">Significado:</span> <span className="text-base">{entry.meaning}</span>
+                  </div>
+                  <div>
+                    <span className="font-bold text-base">Uso:</span> <span className="text-base">{entry.usage}</span>
+                  </div>
+                </div>
+              )}
+            </div>
+          )}
         </div>
       </div>
 

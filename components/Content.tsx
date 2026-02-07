@@ -5,7 +5,6 @@ import WordPopup from "./WordPopup";
 
 interface PopupData {
   word: string;
-  category: string;
   audioUrl: string;
   translations: string[];
   x: number;
@@ -73,7 +72,6 @@ export default function ContentBody({ text }: { text: string }){
 
         setPopup({
             word: word,
-            category: "Verbo",
             audioUrl: word,
             translations: ["Exemplo 1", "Exemplo 2"],
             x: rect.left,
@@ -134,16 +132,15 @@ export default function ContentBody({ text }: { text: string }){
                     textJustify: 'inter-word'
                 }}
             >
-                {textList.map((element, index) => <>
-                    <span 
+                {textList.map((element, index) =><span 
                         key={index}
                         onClick={(e) => handleWordClick(e, element)}
                         className="cursor-pointer hover:bg-blue-100 hover:text-blue-700 rounded px-1 py-0.5 transition-all duration-200 inline-block hover:shadow-sm" 
                     >
                         {element}
+                        {" "}
                     </span>
-                    {" "}
-                </>)}
+                )}
             </div>
         </div>
 
