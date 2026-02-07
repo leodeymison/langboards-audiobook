@@ -15,10 +15,9 @@ interface WordPopupData {
 interface WordPopupProps {
   data: WordPopupData | null;
   onClose: () => void;
-  onPlayAudio?: (word: string) => void;
 }
 
-export default function WordPopup({ data, onClose, onPlayAudio }: WordPopupProps) {
+export default function WordPopup({ data, onClose }: WordPopupProps) {
   const popupRef = useRef<HTMLDivElement>(null);
 
   const {
@@ -32,6 +31,7 @@ export default function WordPopup({ data, onClose, onPlayAudio }: WordPopupProps
     lang: 'en-US',
     voiceURI: 'Google US English',
   });
+
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {

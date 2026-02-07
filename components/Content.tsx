@@ -46,29 +46,6 @@ export default function ContentBody({ text }: { text: string }){
         }
     };
 
-    // Carrega as vozes disponíveis
-    useEffect(() => {
-        const loadVoices = () => {
-            const availableVoices = window.speechSynthesis.getVoices();
-            const englishVoices = availableVoices.filter(voice => voice.lang.startsWith('en'));
-            setVoices(englishVoices);
-            
-            const defaultVoice = 
-                englishVoices.find(v => v.name === 'Google UK English Male') ||
-                englishVoices.find(v => v.lang === 'en-GB') ||
-                englishVoices.find(v => v.lang === 'en-US') || 
-                englishVoices[0];
-            setSelectedVoice(defaultVoice);
-        };
-
-        loadVoices();
-        
-        // Algumas vozes carregam assincronamente
-        if (window.speechSynthesis.onvoiceschanged !== undefined) {
-            window.speechSynthesis.onvoiceschanged = loadVoices;
-        }
-    }, []);
-
     const changeFontSize = (e: ChangeEvent<HTMLInputElement, HTMLInputElement>) => {
         const value = e.target.value;
 
@@ -94,63 +71,22 @@ export default function ContentBody({ text }: { text: string }){
     const handleWordClick = async (e: React.MouseEvent<HTMLSpanElement>, word: string) => {
         const rect = e.currentTarget.getBoundingClientRect();
 
-        const urlAudio = await handlePlayAudio(word);
-
         setPopup({
             word: word,
             category: "Verbo",
-            audioUrl: urlAudio,
+            audioUrl: word,
             translations: ["Exemplo 1", "Exemplo 2"],
             x: rect.left,
             y: rect.top,
         });
     };
 
-    const handlePlayAudio = async (word: string) => {
-        try {
-            // Usa a Web Speech API nativa do navegador
-            const utterance = new SpeechSynthesisUtterance(word);
-            utterance.lang = 'en-US';
-            utterance.rate = 0.8;
-            utterance.pitch = 1.1;
-            
-            // Aplica a voz selecionada
-            if (selectedVoice) {
-                utterance.voice = selectedVoice;
-            }
-            
-            window.speechSynthesis.speak(utterance);
-            
-            return word;
-        } catch (error) {
-            console.error('Erro ao tocar o áudio:', error);
-            return '';
-        }
-    };
-
     return <div>
         {/* Controles */}
         <div className="bg-gradient-to-r from-slate-50 to-gray-100 rounded-xl shadow-md p-4 mb-6 border border-gray-200">
             <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
-                {/* Seletor de voz */}
-                <div className="flex flex-col gap-1.5 w-full sm:w-auto">
-                    <label className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                        Voz do Narrador
-                    </label>
-                    <select
-                        value={selectedVoice?.name || ''}
-                        onChange={(e) => {
-                            const voice = voices.find(v => v.name === e.target.value);
-                            setSelectedVoice(voice || null);
-                        }}
-                        className="px-4 py-2.5 bg-white border-2 border-gray-300 rounded-lg text-sm font-medium text-gray-700 shadow-sm hover:border-blue-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all"
-                    >
-                        {voices.map((voice) => (
-                            <option key={voice.name} value={voice.name}>
-                                {voice.name} ({voice.lang})
-                            </option>
-                        ))}
-                    </select>
+                <div>
+                    
                 </div>
                 
                 {/* Controle de tamanho de fonte */}
@@ -214,7 +150,6 @@ export default function ContentBody({ text }: { text: string }){
         <WordPopup 
             data={popup} 
             onClose={() => setPopup(null)}
-            onPlayAudio={handlePlayAudio}
         />
     </div>
 }
