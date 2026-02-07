@@ -104,55 +104,86 @@ export default function ContentBody({ text }: { text: string }){
     };
 
     return <div>
-        <div className="flex justify-between items-center mb-4">
-            <div></div>
-            <div className="flex gap-3 items-center">
-                {/* Seletor de Voz */}
-                <select
-                    value={selectedVoice?.name || ''}
-                    onChange={(e) => {
-                        const voice = voices.find(v => v.name === e.target.value);
-                        setSelectedVoice(voice || null);
-                    }}
-                    className="px-3 py-1 border border-gray-600 rounded-sm text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
-                >
-                    {voices.map((voice) => (
-                        <option key={voice.name} value={voice.name}>
-                            {voice.name} ({voice.lang})
-                        </option>
-                    ))}
-                </select>
+        {/* Controles */}
+        <div className="bg-gradient-to-r from-slate-50 to-gray-100 rounded-xl shadow-md p-4 mb-6 border border-gray-200">
+            <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
+                {/* Seletor de voz */}
+                <div className="flex flex-col gap-1.5 w-full sm:w-auto">
+                    <label className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
+                        Voz do Narrador
+                    </label>
+                    <select
+                        value={selectedVoice?.name || ''}
+                        onChange={(e) => {
+                            const voice = voices.find(v => v.name === e.target.value);
+                            setSelectedVoice(voice || null);
+                        }}
+                        className="px-4 py-2.5 bg-white border-2 border-gray-300 rounded-lg text-sm font-medium text-gray-700 shadow-sm hover:border-blue-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all"
+                    >
+                        {voices.map((voice) => (
+                            <option key={voice.name} value={voice.name}>
+                                {voice.name} ({voice.lang})
+                            </option>
+                        ))}
+                    </select>
+                </div>
                 
-                {/* Controle de Tamanho */}
-                <div className="flex gap-1">
-                    <span onClick={() => changeFontSizeValue(fontSize-1)} className="px-1 bg-gray-50 rounded-sm cursor-pointer text-lg hover:bg-gray-200 min-w-10 flex justify-center items-center">-</span>
-                    <input
-                        type="string"
-                        id="fontSize"
-                        onChange={changeFontSize}
-                        value={fontSize}
-                        className="w-10 border border-gray-600 focus:outline-hidden rounded-sm text-center text-lg"
-                    />
-                    <span onClick={() => changeFontSizeValue(fontSize+1)} className="px-1 bg-gray-50 rounded-sm cursor-pointer text-lg hover:bg-gray-200 min-w-10 flex justify-center items-center">+</span>
+                {/* Controle de tamanho de fonte */}
+                <div className="flex flex-col gap-1.5">
+                    <label className="text-xs font-semibold text-gray-600 uppercase tracking-wide text-center">
+                        Tamanho da Fonte
+                    </label>
+                    <div className="flex gap-2 items-center bg-white rounded-lg p-1.5 shadow-sm border-2 border-gray-300">
+                        <button 
+                            onClick={() => changeFontSizeValue(fontSize-1)} 
+                            className="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-600 text-white rounded-md cursor-pointer text-xl font-bold hover:from-blue-600 hover:to-blue-700 active:scale-95 transition-all shadow-md flex justify-center items-center"
+                            aria-label="Diminuir fonte"
+                        >
+                            -
+                        </button>
+                        <div className="relative">
+                            <input
+                                type="string"
+                                id="fontSize"
+                                onChange={changeFontSize}
+                                value={fontSize}
+                                className="w-14 h-10 border-2 border-gray-300 focus:border-blue-500 focus:ring-2 focus:ring-blue-200 rounded-md text-center text-lg font-bold text-gray-700 transition-all"
+                            />
+                        </div>
+                        <button 
+                            onClick={() => changeFontSizeValue(fontSize+1)} 
+                            className="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-600 text-white rounded-md cursor-pointer text-xl font-bold hover:from-blue-600 hover:to-blue-700 active:scale-95 transition-all shadow-md flex justify-center items-center"
+                            aria-label="Aumentar fonte"
+                        >
+                            +
+                        </button>
+                    </div>
                 </div>
             </div>
         </div>
-        <div
-            style={{
-                fontSize: `${fontSize}px`,
-                lineHeight: `${fontSize+lineHeight}px`
-            }}
-        >
-            {textList.map((element, index) => <>
-                <span 
-                    key={index}
-                    onClick={(e) => handleWordClick(e, element)}
-                    className="cursor-pointer hover:bg-gray-200 rounded-sm transition-colors duration-150" 
-                    style={{ padding: "2px" }}
-                >
-                    {element}
-                </span> {" "}
-            </>)}
+        {/* Conteúdo */}
+        <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-4 sm:p-8 mb-6">
+            {/* Área de leitura estilizada */}
+            <div 
+                className="text-gray-800 leading-relaxed max-w-4xl mx-auto"
+                style={{
+                    fontSize: `${fontSize}px`,
+                    lineHeight: `${fontSize+lineHeight}px`,
+                    textAlign: 'justify',
+                    textJustify: 'inter-word'
+                }}
+            >
+                {textList.map((element, index) => <>
+                    <span 
+                        key={index}
+                        onClick={(e) => handleWordClick(e, element)}
+                        className="cursor-pointer hover:bg-blue-100 hover:text-blue-700 rounded px-1 py-0.5 transition-all duration-200 inline-block hover:shadow-sm" 
+                    >
+                        {element}
+                    </span>
+                    {" "}
+                </>)}
+            </div>
         </div>
 
         <WordPopup 
