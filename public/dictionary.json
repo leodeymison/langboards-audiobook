@@ -1944,376 +1944,1856 @@
     "meaning": "pessoa não pertencente às forças armadas",
     "usage": "ex.: civilian population"
   },
-  "claire": "claire",
-  "clarity": "clarity",
-  "class": "class",
-  "classes": "classes",
-  "classical": "classical",
-  "classmates": "classmates",
-  "classroom": "classroom",
-  "clear": "clear",
-  "client": "client",
-  "clients": "clients",
-  "climbed": "climbed",
-  "clinic": "clinic",
-  "clinics": "clinics",
-  "clock": "clock",
-  "close": "close",
-  "clothes": "clothes",
-  "club": "club",
-  "coach": "coach",
-  "coaches": "coaches",
-  "cockpit": "cockpit",
-  "coffee": "coffee",
-  "cognitive": "cognitive",
-  "cold": "cold",
-  "collapsed": "collapsed",
-  "colleague": "colleague",
-  "colleagues": "colleagues",
-  "college": "college",
-  "color": "color",
-  "come": "vir",
-  "comes": "comes",
-  "comfort": "comfort",
-  "comfortable": "comfortable",
-  "comforted": "comforted",
-  "coming": "coming",
-  "committed": "committed",
-  "common": "common",
-  "communities": "communities",
-  "community": "community",
-  "companion": "companion",
-  "companionship": "companionship",
-  "company": "company",
-  "compare": "compare",
-  "compared": "compared",
-  "comparing": "comparing",
-  "comparison": "comparison",
-  "compassion": "compassion",
-  "compensated": "compensated",
-  "competed": "competed",
-  "competing": "competing",
-  "competitions": "competitions",
-  "competitive": "competitive",
-  "competitiveness": "competitiveness",
-  "complete": "complete",
-  "completely": "completely",
-  "completing": "completing",
-  "complex": "complex",
-  "complicated": "complicated",
-  "concept": "concept",
-  "concerned": "concerned",
-  "concerns": "concerns",
-  "concert": "concert",
-  "condition": "condition",
-  "conditions": "conditions",
-  "confidence": "confidence",
-  "confident": "confident",
-  "confirmed": "confirmed",
-  "conflict": "conflict",
-  "conflicts": "conflicts",
-  "conform": "conform",
-  "confrontation": "confrontation",
-  "confronted": "confronted",
-  "connected": "connected",
-  "connection": "connection",
-  "connections": "connections",
-  "conscious": "conscious",
-  "conservation": "conservation",
-  "conservative": "conservative",
-  "considered": "considered",
-  "consistent": "consistent",
-  "consistently": "consistently",
-  "constant": "constant",
-  "constantly": "constantly",
-  "consumed": "consumed",
-  "contemplated": "contemplated",
-  "contentment": "contentment",
-  "continue": "continue",
-  "continued": "continued",
-  "contract": "contract",
-  "contributed": "contributed",
-  "contributing": "contributing",
-  "contribution": "contribution",
-  "contributions": "contributions",
-  "control": "control",
-  "controlling": "controlling",
-  "conversations": "conversations",
-  "convicted": "convicted",
-  "cook": "cook",
-  "cooked": "cooked",
-  "cooking": "cooking",
-  "corporate": "corporate",
-  "corporations": "corporations",
-  "cosmetic": "cosmetic",
-  "cost": "cost",
-  "costs": "costs",
-  "could": "poderia",
-  "couldn": "couldn",
-  "counsel": "counsel",
-  "counselor": "counselor",
-  "counted": "counted",
-  "counterbalance": "counterbalance",
-  "counting": "counting",
-  "countless": "countless",
-  "country": "country",
-  "courage": "courage",
-  "courageous": "courageous",
-  "course": "course",
-  "court": "court",
-  "cousins": "cousins",
-  "coworkers": "coworkers",
-  "crazy": "crazy",
-  "cream": "cream",
-  "creams": "creams",
-  "create": "create",
-  "created": "created",
-  "creates": "creates",
-  "creating": "creating",
-  "creative": "creative",
-  "credentials": "credentials",
-  "cried": "cried",
-  "crises": "crises",
-  "crisis": "crisis",
-  "critic": "critic",
-  "critical": "critical",
-  "criticism": "criticism",
-  "criticize": "criticize",
-  "criticized": "criticized",
-  "crucial": "crucial",
-  "cry": "cry",
-  "culinary": "culinary",
-  "culture": "culture",
-  "cup": "cup",
-  "curated": "curated",
-  "curious": "curious",
-  "custom": "custom",
-  "customers": "customers",
-  "cut": "cut",
-  "cycle": "cycle",
-  "dancing": "dancing",
-  "dangerous": "dangerous",
-  "daniel": "daniel",
-  "darkest": "darkest",
-  "date": "date",
-  "dates": "dates",
-  "daughter": "daughter",
-  "david": "david",
-  "day": "dia",
-  "days": "days",
-  "dead": "dead",
-  "dealing": "dealing",
-  "death": "death",
-  "debate": "debate",
-  "debates": "debates",
-  "debt": "debt",
-  "decades": "decades",
-  "decent": "decent",
-  "decide": "decide",
-  "decided": "decided",
-  "decision": "decision",
-  "decisions": "decisions",
-  "declining": "declining",
-  "decreased": "decreased",
-  "dedicated": "dedicated",
-  "deep": "deep",
-  "deepened": "deepened",
-  "deeper": "deeper",
-  "deepest": "deepest",
-  "deeply": "deeply",
-  "defending": "defending",
-  "defense": "defense",
-  "defensive": "defensive",
-  "define": "define",
-  "defined": "defined",
-  "degree": "degree",
-  "demanding": "demanding",
-  "denying": "denying",
-  "depended": "depended",
-  "dependent": "dependent",
-  "depleted": "depleted",
-  "depressed": "depressed",
-  "depression": "depression",
-  "described": "described",
-  "deserves": "deserves",
-  "desire": "desire",
-  "desires": "desires",
-  "despair": "despair",
-  "desperate": "desperate",
-  "desperately": "desperately",
-  "desperation": "desperation",
-  "despite": "despite",
-  "destination": "destination",
-  "destiny": "destiny",
-  "destroy": "destroy",
-  "destroyed": "destroyed",
-  "destroying": "destroying",
-  "destructive": "destructive",
-  "detail": "detail",
-  "deteriorated": "deteriorated",
-  "determination": "determination",
-  "determine": "determine",
-  "determined": "determined",
-  "devastated": "devastated",
-  "develop": "develop",
-  "developing": "developing",
-  "development": "development",
-  "diagnosed": "diagnosed",
-  "diagnosis": "diagnosis",
-  "diane": "diane",
-  "did": "did",
-  "didn": "didn",
-  "die": "die",
-  "died": "died",
-  "diets": "diets",
-  "differed": "differed",
-  "difference": "difference",
-  "differences": "differences",
-  "different": "diferente",
-  "differently": "differently",
-  "difficult": "difficult",
-  "difficulty": "difficulty",
-  "dignity": "dignity",
-  "diminish": "diminish",
-  "dining": "dining",
-  "dinner": "dinner",
-  "direct": "direct",
-  "directly": "directly",
-  "director": "director",
-  "disabilities": "disabilities",
-  "disability": "disability",
-  "disabled": "disabled",
-  "disagreements": "disagreements",
-  "disappear": "disappear",
-  "disappearing": "disappearing",
-  "disappointed": "disappointed",
-  "disappointment": "disappointment",
-  "disapproved": "disapproved",
-  "discipline": "discipline",
-  "discomfort": "discomfort",
-  "disconnected": "disconnected",
-  "discover": "discover",
-  "discovered": "discovered",
-  "discriminated": "discriminated",
-  "discrimination": "discrimination",
-  "discriminatory": "discriminatory",
-  "discussed": "discussed",
-  "dishes": "dishes",
-  "disillusioned": "disillusioned",
-  "disqualify": "disqualify",
-  "disrespectful": "disrespectful",
-  "distance": "distance",
-  "distanced": "distanced",
-  "distant": "distant",
-  "do": "fazer",
-  "doctor": "doctor",
-  "doctors": "doctors",
-  "doesn": "doesn",
-  "doing": "doing",
-  "domestic": "domestic",
-  "dominance": "dominance",
-  "don": "don",
-  "done": "done",
-  "doubts": "doubts",
-  "down": "down",
-  "downturn": "downturn",
-  "dramatic": "dramatic",
-  "dramatically": "dramatically",
-  "drawn": "drawn",
-  "dream": "dream",
-  "dreamed": "dreamed",
-  "dreams": "dreams",
-  "dressed": "dressed",
-  "drinking": "drinking",
-  "driven": "driven",
-  "dropped": "dropped",
-  "drove": "drove",
-  "drugs": "drugs",
-  "during": "durante",
-  "duty": "duty",
-  "dying": "dying",
-  "dynamics": "dynamics",
-  "each": "cada",
-  "earn": "earn",
-  "earned": "earned",
-  "easier": "easier",
-  "eaten": "eaten",
-  "eating": "eating",
-  "economic": "economic",
-  "educated": "educated",
-  "education": "education",
-  "edwin": "edwin",
-  "efficiency": "efficiency",
-  "effort": "effort",
-  "eighteen": "eighteen",
-  "either": "either",
-  "elderly": "elderly",
-  "eleanor": "eleanor",
-  "elena": "elena",
-  "eliminate": "eliminate",
-  "eloquently": "eloquently",
-  "else": "else",
-  "emma": "emma",
-  "emotion": "emotion",
-  "emotional": "emotional",
-  "emotionally": "emotionally",
-  "emotions": "emotions",
-  "empathy": "empathy",
-  "employee": "employee",
-  "employees": "employees",
-  "employers": "employers",
-  "empowered": "empowered",
-  "emptier": "emptier",
-  "empty": "empty",
-  "emulate": "emulate",
-  "enabled": "enabled",
-  "encourage": "encourage",
-  "encouraged": "encouraged",
-  "encouragement": "encouragement",
-  "end": "end",
-  "ended": "ended",
-  "ending": "ending",
-  "endless": "endless",
-  "endlessly": "endlessly",
-  "enemies": "enemies",
-  "enemy": "enemy",
-  "energy": "energy",
-  "engaged": "engaged",
-  "engineer": "engineer",
-  "engineering": "engineering",
-  "engineers": "engineers",
-  "enjoy": "enjoy",
-  "enjoyed": "enjoyed",
-  "enjoying": "enjoying",
-  "enjoyment": "enjoyment",
-  "enormous": "enormous",
-  "enough": "enough",
-  "enrolled": "enrolled",
-  "ensure": "ensure",
-  "enthusiastic": "enthusiastic",
-  "entire": "entire",
-  "entrepreneurs": "entrepreneurs",
-  "envious": "envious",
-  "environment": "environment",
-  "environmental": "environmental",
-  "environments": "environments",
-  "envy": "envy",
-  "equally": "equally",
-  "equations": "equations",
-  "erasing": "erasing",
-  "escalated": "escalated",
-  "escape": "escape",
-  "escaped": "escaped",
-  "especially": "especially",
-  "essential": "essential",
-  "esteem": "esteem",
-  "estranged": "estranged",
-  "estrangement": "estrangement",
-  "ethical": "ethical",
-  "evaporated": "evaporated",
-  "even": "até mesmo",
-  "evening": "evening",
-  "evenings": "evenings",
+  "claire": {
+    "translation": "Claire",
+    "meaning": "nome próprio feminino",
+    "usage": "usado como nome pessoal"
+  },
+  "clarity": {
+    "translation": "clareza",
+    "meaning": "qualidade de ser claro, compreensível ou transparente",
+    "usage": "ex.: clarity of thought; clarity in writing"
+  },
+  "class": {
+    "translation": "turma; classe",
+    "meaning": "grupo de alunos; também categoria ou nível",
+    "usage": "ex.: attend class; class of students; a class of problems"
+  },
+  "classes": {
+    "translation": "turmas; classes",
+    "meaning": "plural de \"class\"; grupos ou categorias",
+    "usage": "ex.: morning classes; different classes of users"
+  },
+  "classical": {
+    "translation": "clássico(a)",
+    "meaning": "relativo ao estilo clássico, especialmente em música, arte ou literatura",
+    "usage": "ex.: classical music; classical literature"
+  },
+  "classmates": {
+    "translation": "colegas de classe",
+    "meaning": "pessoas que estudam na mesma turma",
+    "usage": "ex.: my classmates helped me"
+  },
+  "classroom": {
+    "translation": "sala de aula",
+    "meaning": "ambiente onde ocorrem aulas",
+    "usage": "ex.: classroom discussion"
+  },
+  "clear": {
+    "translation": "claro; evidente",
+    "meaning": "fácil de entender; sem confusão",
+    "usage": "ex.: clear instructions; a clear explanation"
+  },
+  "client": {
+    "translation": "cliente",
+    "meaning": "pessoa ou empresa que recebe serviços de um profissional",
+    "usage": "ex.: meet a client; client feedback"
+  },
+  "clients": {
+    "translation": "clientes",
+    "meaning": "plural de \"client\"",
+    "usage": "ex.: serve multiple clients"
+  },
+  "climbed": {
+    "translation": "escalou; subiu",
+    "meaning": "passado de \"climb\"; mover-se para cima",
+    "usage": "ex.: climbed the mountain; climbed the stairs"
+  },
+  "clinic": {
+    "translation": "clínica",
+    "meaning": "estabelecimento de atendimento médico ou especializado",
+    "usage": "ex.: dental clinic; medical clinic"
+  },
+  "clinics": {
+    "translation": "clínicas",
+    "meaning": "plural de \"clinic\"",
+    "usage": "ex.: local clinics offer vaccines"
+  },
+  "clock": {
+    "translation": "relógio",
+    "meaning": "dispositivo que marca o tempo",
+    "usage": "ex.: wall clock; set the clock"
+  },
+  "close": {
+    "translation": "fechar; perto",
+    "meaning": "ato de fechar; também indica proximidade",
+    "usage": "ex.: close the door; stay close to me"
+  },
+  "clothes": {
+    "translation": "roupas",
+    "meaning": "itens de vestuário",
+    "usage": "ex.: wash your clothes"
+  },
+  "club": {
+    "translation": "clube",
+    "meaning": "grupo/associação; também local de encontro",
+    "usage": "ex.: join a club; night club"
+  },
+  "coach": {
+    "translation": "treinador(a); coach",
+    "meaning": "pessoa que treina ou orienta",
+    "usage": "ex.: soccer coach; career coach"
+  },
+  "coaches": {
+    "translation": "treinadores(as); treina",
+    "meaning": "plural de \"coach\"; também forma verbal",
+    "usage": "ex.: the coaches met; she coaches the team"
+  },
+  "cockpit": {
+    "translation": "cabine de comando",
+    "meaning": "área de controle de um avião ou veículo",
+    "usage": "ex.: pilot in the cockpit"
+  },
+  "coffee": {
+    "translation": "café",
+    "meaning": "bebida feita de grãos de café",
+    "usage": "ex.: drink coffee; a cup of coffee"
+  },
+  "cognitive": {
+    "translation": "cognitivo(a)",
+    "meaning": "relativo ao pensamento, memória e aprendizagem",
+    "usage": "ex.: cognitive skills; cognitive therapy"
+  },
+  "cold": {
+    "translation": "frio; resfriado",
+    "meaning": "baixa temperatura; também doença leve",
+    "usage": "ex.: cold weather; catch a cold"
+  },
+  "collapsed": {
+    "translation": "colapsou; desabou",
+    "meaning": "passado de \"collapse\"; cair ou perder a força",
+    "usage": "ex.: the bridge collapsed; she collapsed from exhaustion"
+  },
+  "colleague": {
+    "translation": "colega de trabalho",
+    "meaning": "pessoa que trabalha na mesma área/empresa",
+    "usage": "ex.: a trusted colleague"
+  },
+  "colleagues": {
+    "translation": "colegas de trabalho",
+    "meaning": "plural de \"colleague\"",
+    "usage": "ex.: my colleagues are helpful"
+  },
+  "college": {
+    "translation": "faculdade; universidade",
+    "meaning": "instituição de ensino superior",
+    "usage": "ex.: go to college; college degree"
+  },
+  "color": {
+    "translation": "cor",
+    "meaning": "característica visual percebida pela luz; também pode indicar pintura",
+    "usage": "ex.: bright color; paint in color"
+  },
+  "come": {
+    "translation": "vir",
+    "meaning": "aproximar-se do falante; também chegar",
+    "usage": "ex.: come here; come to the meeting"
+  },
+  "comes": {
+    "translation": "vem",
+    "meaning": "forma do verbo \"come\" na 3ª pessoa do singular",
+    "usage": "ex.: he comes early"
+  },
+  "comfort": {
+    "translation": "conforto; confortar",
+    "meaning": "sensação de bem-estar; também o ato de consolar",
+    "usage": "ex.: provide comfort; comfort a friend"
+  },
+  "comfortable": {
+    "translation": "confortável",
+    "meaning": "que oferece conforto; à vontade",
+    "usage": "ex.: comfortable chair; feel comfortable"
+  },
+  "comforted": {
+    "translation": "consolou; confortado(a)",
+    "meaning": "passado de \"comfort\"; dar consolo",
+    "usage": "ex.: she comforted him"
+  },
+  "coming": {
+    "translation": "vindo; chegando",
+    "meaning": "ato de vir; forma contínua de \"come\"",
+    "usage": "ex.: coming soon; coming to help"
+  },
+  "committed": {
+    "translation": "comprometido(a); cometeu",
+    "meaning": "dedicado a algo; também passado de \"commit\"",
+    "usage": "ex.: committed to the project; committed a mistake"
+  },
+  "common": {
+    "translation": "comum",
+    "meaning": "frequente; compartilhado por muitos",
+    "usage": "ex.: a common problem; common interests"
+  },
+  "communities": {
+    "translation": "comunidades",
+    "meaning": "plural de \"community\"",
+    "usage": "ex.: local communities"
+  },
+  "community": {
+    "translation": "comunidade",
+    "meaning": "grupo de pessoas com interesses ou local em comum",
+    "usage": "ex.: community support"
+  },
+  "companion": {
+    "translation": "companheiro(a)",
+    "meaning": "pessoa que acompanha ou faz companhia",
+    "usage": "ex.: travel companion"
+  },
+  "companionship": {
+    "translation": "companhia",
+    "meaning": "presença ou relação de companhia",
+    "usage": "ex.: enjoy companionship"
+  },
+  "company": {
+    "translation": "empresa; companhia",
+    "meaning": "organização comercial; também presença de alguém",
+    "usage": "ex.: work for a company; keep someone company"
+  },
+  "compare": {
+    "translation": "comparar",
+    "meaning": "analisar semelhanças e diferenças entre coisas",
+    "usage": "ex.: compare prices; compare two options"
+  },
+  "compared": {
+    "translation": "comparado(a); comparou",
+    "meaning": "passado de \"compare\"",
+    "usage": "ex.: compared the results"
+  },
+  "comparing": {
+    "translation": "comparando",
+    "meaning": "ato de comparar; forma contínua de \"compare\"",
+    "usage": "ex.: comparing features"
+  },
+  "comparison": {
+    "translation": "comparação",
+    "meaning": "ato de comparar; relação entre coisas comparadas",
+    "usage": "ex.: make a comparison"
+  },
+  "compassion": {
+    "translation": "compaixão",
+    "meaning": "sentimento de empatia e desejo de ajudar",
+    "usage": "ex.: show compassion"
+  },
+  "compensated": {
+    "translation": "compensado(a); compensou",
+    "meaning": "passado de \"compensate\"; reparar ou retribuir",
+    "usage": "ex.: compensated for the delay"
+  },
+  "competed": {
+    "translation": "competiu",
+    "meaning": "passado de \"compete\"; disputar",
+    "usage": "ex.: she competed in the race"
+  },
+  "competing": {
+    "translation": "competindo",
+    "meaning": "ato de competir; forma contínua de \"compete\"",
+    "usage": "ex.: competing for a prize"
+  },
+  "competitions": {
+    "translation": "competições",
+    "meaning": "eventos ou disputas competitivas",
+    "usage": "ex.: sports competitions"
+  },
+  "competitive": {
+    "translation": "competitivo(a)",
+    "meaning": "relativo à competição; com foco em vencer",
+    "usage": "ex.: competitive market; competitive athlete"
+  },
+  "competitiveness": {
+    "translation": "competitividade",
+    "meaning": "grau de capacidade de competir ou ser competitivo",
+    "usage": "ex.: business competitiveness"
+  },
+  "complete": {
+    "translation": "completo(a); completar",
+    "meaning": "inteiro, sem faltar partes; também finalizar",
+    "usage": "ex.: complete set; complete the form"
+  },
+  "completely": {
+    "translation": "completamente",
+    "meaning": "de forma total; sem deixar nada",
+    "usage": "ex.: completely finished"
+  },
+  "completing": {
+    "translation": "completando",
+    "meaning": "ato de completar; forma contínua de \"complete\"",
+    "usage": "ex.: completing the task"
+  },
+  "complex": {
+    "translation": "complexo(a)",
+    "meaning": "que possui muitas partes ou é difícil de entender",
+    "usage": "ex.: complex problem"
+  },
+  "complicated": {
+    "translation": "complicado(a)",
+    "meaning": "difícil de resolver ou entender",
+    "usage": "ex.: a complicated issue"
+  },
+  "concept": {
+    "translation": "conceito",
+    "meaning": "ideia ou noção geral sobre algo",
+    "usage": "ex.: basic concept"
+  },
+  "concerned": {
+    "translation": "preocupado(a); relacionado(a)",
+    "meaning": "com preocupação; também ligado a um assunto",
+    "usage": "ex.: concerned about safety; parties concerned"
+  },
+  "concerns": {
+    "translation": "preocupações; diz respeito",
+    "meaning": "plural de \"concern\"; também forma verbal",
+    "usage": "ex.: safety concerns; this concerns everyone"
+  },
+  "concert": {
+    "translation": "concerto",
+    "meaning": "apresentação musical ao vivo",
+    "usage": "ex.: attend a concert"
+  },
+  "condition": {
+    "translation": "condição",
+    "meaning": "estado, situação ou requisito",
+    "usage": "ex.: medical condition; terms and conditions"
+  },
+  "conditions": {
+    "translation": "condições",
+    "meaning": "plural de \"condition\"; circunstâncias ou requisitos",
+    "usage": "ex.: working conditions"
+  },
+  "confidence": {
+    "translation": "confiança",
+    "meaning": "segurança em si mesmo ou em algo",
+    "usage": "ex.: build confidence"
+  },
+  "confident": {
+    "translation": "confiante",
+    "meaning": "que tem confiança; seguro",
+    "usage": "ex.: confident speaker"
+  },
+  "confirmed": {
+    "translation": "confirmado(a)",
+    "meaning": "que foi verificado ou aprovado; passado de \"confirm\"",
+    "usage": "ex.: confirmed booking"
+  },
+  "conflict": {
+    "translation": "conflito",
+    "meaning": "choque de interesses, ideias ou forças",
+    "usage": "ex.: conflict resolution"
+  },
+  "conflicts": {
+    "translation": "conflitos; conflita",
+    "meaning": "plural de \"conflict\"; também forma verbal",
+    "usage": "ex.: conflicts of interest; it conflicts with the rules"
+  },
+  "conform": {
+    "translation": "conformar-se; obedecer",
+    "meaning": "seguir regras ou padrões",
+    "usage": "ex.: conform to standards"
+  },
+  "confrontation": {
+    "translation": "confronto",
+    "meaning": "situação de conflito direto",
+    "usage": "ex.: avoid confrontation"
+  },
+  "confronted": {
+    "translation": "confrontou; confrontado(a)",
+    "meaning": "passado de \"confront\"",
+    "usage": "ex.: confronted with the truth"
+  },
+  "connected": {
+    "translation": "conectado(a)",
+    "meaning": "ligado a algo; com conexão",
+    "usage": "ex.: connected to the network"
+  },
+  "connection": {
+    "translation": "conexão",
+    "meaning": "ligação entre pessoas, coisas ou sistemas",
+    "usage": "ex.: internet connection; emotional connection"
+  },
+  "connections": {
+    "translation": "conexões",
+    "meaning": "plural de \"connection\"",
+    "usage": "ex.: professional connections"
+  },
+  "conscious": {
+    "translation": "consciente",
+    "meaning": "ciente ou acordado; com percepção",
+    "usage": "ex.: conscious decision"
+  },
+  "conservation": {
+    "translation": "conservação",
+    "meaning": "proteção e uso responsável de recursos",
+    "usage": "ex.: wildlife conservation"
+  },
+  "conservative": {
+    "translation": "conservador(a)",
+    "meaning": "que mantém tradições; cauteloso",
+    "usage": "ex.: conservative approach"
+  },
+  "considered": {
+    "translation": "considerado(a); considerou",
+    "meaning": "passado de \"consider\"; refletido ou avaliado",
+    "usage": "ex.: considered the offer"
+  },
+  "consistent": {
+    "translation": "consistente",
+    "meaning": "que se mantém estável ou coerente",
+    "usage": "ex.: consistent results"
+  },
+  "consistently": {
+    "translation": "consistentemente",
+    "meaning": "de forma constante e coerente",
+    "usage": "ex.: consistently good"
+  },
+  "constant": {
+    "translation": "constante",
+    "meaning": "que não muda; contínuo",
+    "usage": "ex.: constant pressure"
+  },
+  "constantly": {
+    "translation": "constantemente",
+    "meaning": "de forma contínua",
+    "usage": "ex.: constantly improving"
+  },
+  "consumed": {
+    "translation": "consumido(a); consumiu",
+    "meaning": "passado de \"consume\"; usar ou ingerir",
+    "usage": "ex.: consumed energy; consumed by worry"
+  },
+  "contemplated": {
+    "translation": "contemplou; contemplado(a)",
+    "meaning": "passado de \"contemplate\"; pensar com atenção",
+    "usage": "ex.: contemplated the options"
+  },
+  "contentment": {
+    "translation": "contentamento",
+    "meaning": "estado de satisfação tranquila",
+    "usage": "ex.: a sense of contentment"
+  },
+  "continue": {
+    "translation": "continuar",
+    "meaning": "prosseguir sem parar",
+    "usage": "ex.: continue the work"
+  },
+  "continued": {
+    "translation": "continuou; continuado(a)",
+    "meaning": "passado de \"continue\"",
+    "usage": "ex.: continued the story"
+  },
+  "contract": {
+    "translation": "contrato",
+    "meaning": "acordo legal entre partes",
+    "usage": "ex.: sign a contract"
+  },
+  "contributed": {
+    "translation": "contribuiu",
+    "meaning": "passado de \"contribute\"; dar contribuição",
+    "usage": "ex.: contributed to the project"
+  },
+  "contributing": {
+    "translation": "contribuindo",
+    "meaning": "ato de contribuir; forma contínua de \"contribute\"",
+    "usage": "ex.: contributing factors"
+  },
+  "contribution": {
+    "translation": "contribuição",
+    "meaning": "ato de contribuir; ajuda ou doação",
+    "usage": "ex.: make a contribution"
+  },
+  "contributions": {
+    "translation": "contribuições",
+    "meaning": "plural de \"contribution\"",
+    "usage": "ex.: employee contributions"
+  },
+  "control": {
+    "translation": "controle; controlar",
+    "meaning": "poder de dirigir algo; também o ato de controlar",
+    "usage": "ex.: control the process; under control"
+  },
+  "controlling": {
+    "translation": "controlando; controlador(a)",
+    "meaning": "ato de controlar; também descreve quem controla demais",
+    "usage": "ex.: controlling the budget; controlling behavior"
+  },
+  "conversations": {
+    "translation": "conversas",
+    "meaning": "trocas de fala entre pessoas",
+    "usage": "ex.: have conversations"
+  },
+  "convicted": {
+    "translation": "condenado(a)",
+    "meaning": "declarado culpado por um crime; passado de \"convict\"",
+    "usage": "ex.: convicted of fraud"
+  },
+  "cook": {
+    "translation": "cozinhar; cozinheiro(a)",
+    "meaning": "preparar alimentos; também a pessoa que cozinha",
+    "usage": "ex.: cook dinner; a skilled cook"
+  },
+  "cooked": {
+    "translation": "cozinhou; cozido(a)",
+    "meaning": "passado de \"cook\"; preparado pelo calor",
+    "usage": "ex.: cooked rice"
+  },
+  "cooking": {
+    "translation": "cozinhando; culinária",
+    "meaning": "ato de cozinhar; também a prática de cozinhar",
+    "usage": "ex.: cooking at home"
+  },
+  "corporate": {
+    "translation": "corporativo(a)",
+    "meaning": "relativo a empresas ou corporações",
+    "usage": "ex.: corporate culture"
+  },
+  "corporations": {
+    "translation": "corporações",
+    "meaning": "grandes empresas ou organizações",
+    "usage": "ex.: multinational corporations"
+  },
+  "cosmetic": {
+    "translation": "cosmético(a)",
+    "meaning": "relativo à aparência; não essencial",
+    "usage": "ex.: cosmetic changes"
+  },
+  "cost": {
+    "translation": "custo; custar",
+    "meaning": "valor necessário; também o ato de custar",
+    "usage": "ex.: the cost is high; it costs $10"
+  },
+  "costs": {
+    "translation": "custos; custa",
+    "meaning": "plural de \"cost\"; também forma verbal",
+    "usage": "ex.: rising costs; it costs too much"
+  },
+  "could": {
+    "translation": "poderia",
+    "meaning": "passado de \"can\"; indica possibilidade ou capacidade",
+    "usage": "ex.: I could help"
+  },
+  "couldn": {
+    "translation": "couldn't (forma contraída)",
+    "meaning": "contração de \"could not\" em inglês informal",
+    "usage": "ex.: I couldn't go"
+  },
+  "counsel": {
+    "translation": "aconselhamento; aconselhar",
+    "meaning": "orientação profissional; também o ato de aconselhar",
+    "usage": "ex.: legal counsel; counsel a client"
+  },
+  "counselor": {
+    "translation": "conselheiro(a)",
+    "meaning": "profissional que orienta ou aconselha",
+    "usage": "ex.: school counselor"
+  },
+  "counted": {
+    "translation": "contou; contado(a)",
+    "meaning": "passado de \"count\"",
+    "usage": "ex.: counted the votes"
+  },
+  "counterbalance": {
+    "translation": "contrabalançar; contrapeso",
+    "meaning": "equilibrar forças ou efeitos",
+    "usage": "ex.: counterbalance the risks"
+  },
+  "counting": {
+    "translation": "contando",
+    "meaning": "ato de contar; forma contínua de \"count\"",
+    "usage": "ex.: counting to ten"
+  },
+  "countless": {
+    "translation": "incontável",
+    "meaning": "em número muito grande; impossível de contar",
+    "usage": "ex.: countless stars"
+  },
+  "country": {
+    "translation": "país",
+    "meaning": "nação ou território com governo próprio",
+    "usage": "ex.: my country"
+  },
+  "courage": {
+    "translation": "coragem",
+    "meaning": "capacidade de enfrentar medo ou perigo",
+    "usage": "ex.: show courage"
+  },
+  "courageous": {
+    "translation": "corajoso(a)",
+    "meaning": "que demonstra coragem",
+    "usage": "ex.: a courageous decision"
+  },
+  "course": {
+    "translation": "curso",
+    "meaning": "programa de estudo ou sequência de aulas",
+    "usage": "ex.: take a course"
+  },
+  "court": {
+    "translation": "tribunal; quadra",
+    "meaning": "instituição judicial; também área esportiva",
+    "usage": "ex.: court decision; tennis court"
+  },
+  "cousins": {
+    "translation": "primos(as)",
+    "meaning": "filhos dos tios; parentesco de primo",
+    "usage": "ex.: my cousins live nearby"
+  },
+  "coworkers": {
+    "translation": "colegas de trabalho",
+    "meaning": "pessoas que trabalham na mesma empresa",
+    "usage": "ex.: my coworkers are friendly"
+  },
+  "crazy": {
+    "translation": "louco(a)",
+    "meaning": "fora do comum; também informal para muito intenso",
+    "usage": "ex.: a crazy idea; crazy busy"
+  },
+  "cream": {
+    "translation": "creme",
+    "meaning": "substância cremosa; também creme culinário",
+    "usage": "ex.: face cream; add cream to coffee"
+  },
+  "creams": {
+    "translation": "cremes",
+    "meaning": "plural de \"cream\"",
+    "usage": "ex.: skin creams"
+  },
+  "create": {
+    "translation": "criar",
+    "meaning": "produzir ou trazer algo à existência",
+    "usage": "ex.: create a plan"
+  },
+  "created": {
+    "translation": "criou; criado(a)",
+    "meaning": "passado de \"create\"",
+    "usage": "ex.: created a file"
+  },
+  "creates": {
+    "translation": "cria",
+    "meaning": "forma do verbo \"create\" na 3ª pessoa do singular",
+    "usage": "ex.: this creates opportunities"
+  },
+  "creating": {
+    "translation": "criando",
+    "meaning": "ato de criar; forma contínua de \"create\"",
+    "usage": "ex.: creating value"
+  },
+  "creative": {
+    "translation": "criativo(a)",
+    "meaning": "que envolve criatividade",
+    "usage": "ex.: creative solution"
+  },
+  "credentials": {
+    "translation": "credenciais",
+    "meaning": "qualificações ou comprovações de competência",
+    "usage": "ex.: professional credentials"
+  },
+  "cried": {
+    "translation": "chorou",
+    "meaning": "passado de \"cry\"",
+    "usage": "ex.: she cried during the movie"
+  },
+  "crises": {
+    "translation": "crises",
+    "meaning": "plural de \"crisis\"",
+    "usage": "ex.: economic crises"
+  },
+  "crisis": {
+    "translation": "crise",
+    "meaning": "situação grave que exige ação",
+    "usage": "ex.: in a crisis"
+  },
+  "critic": {
+    "translation": "crítico(a)",
+    "meaning": "pessoa que avalia e critica obras ou ideias",
+    "usage": "ex.: film critic"
+  },
+  "critical": {
+    "translation": "crítico(a)",
+    "meaning": "muito importante ou de alto risco",
+    "usage": "ex.: critical situation"
+  },
+  "criticism": {
+    "translation": "crítica",
+    "meaning": "avaliação ou comentário negativo",
+    "usage": "ex.: handle criticism"
+  },
+  "criticize": {
+    "translation": "criticar",
+    "meaning": "apontar falhas ou avaliar negativamente",
+    "usage": "ex.: criticize a policy"
+  },
+  "criticized": {
+    "translation": "criticou; criticado(a)",
+    "meaning": "passado de \"criticize\"",
+    "usage": "ex.: criticized the decision"
+  },
+  "crucial": {
+    "translation": "crucial",
+    "meaning": "essencial ou decisivo",
+    "usage": "ex.: crucial step"
+  },
+  "cry": {
+    "translation": "chorar; choro",
+    "meaning": "derramar lágrimas; também o ato de chorar",
+    "usage": "ex.: cry for help; a baby's cry"
+  },
+  "culinary": {
+    "translation": "culinário(a)",
+    "meaning": "relativo à cozinha ou gastronomia",
+    "usage": "ex.: culinary arts"
+  },
+  "culture": {
+    "translation": "cultura",
+    "meaning": "conjunto de hábitos, valores e tradições",
+    "usage": "ex.: company culture"
+  },
+  "cup": {
+    "translation": "xícara; copo",
+    "meaning": "recipiente para bebidas; também medida",
+    "usage": "ex.: a cup of tea"
+  },
+  "curated": {
+    "translation": "curado(a); selecionado(a)",
+    "meaning": "passado de \"curate\"; selecionar e organizar conteúdo",
+    "usage": "ex.: curated playlist"
+  },
+  "curious": {
+    "translation": "curioso(a)",
+    "meaning": "com desejo de saber ou aprender",
+    "usage": "ex.: curious about science"
+  },
+  "custom": {
+    "translation": "costume; personalizado",
+    "meaning": "prática habitual; também feito sob medida",
+    "usage": "ex.: local custom; custom design"
+  },
+  "customers": {
+    "translation": "clientes",
+    "meaning": "plural de \"customer\"",
+    "usage": "ex.: serve customers"
+  },
+  "cut": {
+    "translation": "cortar; corte",
+    "meaning": "fazer um corte; também o resultado do corte",
+    "usage": "ex.: cut the paper; a deep cut"
+  },
+  "cycle": {
+    "translation": "ciclo",
+    "meaning": "sequência que se repete regularmente",
+    "usage": "ex.: life cycle"
+  },
+  "dancing": {
+    "translation": "dançando; dança",
+    "meaning": "ato de dançar; atividade de dança",
+    "usage": "ex.: dancing lessons"
+  },
+  "dangerous": {
+    "translation": "perigoso(a)",
+    "meaning": "que oferece risco ou ameaça",
+    "usage": "ex.: dangerous situation"
+  },
+  "daniel": {
+    "translation": "Daniel",
+    "meaning": "nome próprio masculino",
+    "usage": "usado como nome pessoal"
+  },
+  "darkest": {
+    "translation": "o mais escuro",
+    "meaning": "superlativo de \"dark\"",
+    "usage": "ex.: the darkest night"
+  },
+  "date": {
+    "translation": "data; encontro",
+    "meaning": "dia específico no calendário; encontro social",
+    "usage": "ex.: set a date; a dinner date"
+  },
+  "dates": {
+    "translation": "datas; encontros",
+    "meaning": "plural de \"date\"; também forma verbal",
+    "usage": "ex.: dates in July; he dates her"
+  },
+  "daughter": {
+    "translation": "filha",
+    "meaning": "filha do sexo feminino",
+    "usage": "ex.: my daughter is 10"
+  },
+  "david": {
+    "translation": "David",
+    "meaning": "nome próprio masculino",
+    "usage": "usado como nome pessoal"
+  },
+  "day": {
+    "translation": "dia",
+    "meaning": "período de 24 horas ou parte clara do dia",
+    "usage": "ex.: every day; sunny day"
+  },
+  "days": {
+    "translation": "dias",
+    "meaning": "plural de \"day\"",
+    "usage": "ex.: three days"
+  },
+  "dead": {
+    "translation": "morto(a)",
+    "meaning": "sem vida; que morreu",
+    "usage": "ex.: a dead battery; found dead"
+  },
+  "dealing": {
+    "translation": "lidando; negociando",
+    "meaning": "ato de lidar; forma contínua de \"deal\"",
+    "usage": "ex.: dealing with stress"
+  },
+  "death": {
+    "translation": "morte",
+    "meaning": "fim da vida",
+    "usage": "ex.: cause of death"
+  },
+  "debate": {
+    "translation": "debate; debater",
+    "meaning": "discussão formal; também o ato de debater",
+    "usage": "ex.: a public debate; debate an issue"
+  },
+  "debates": {
+    "translation": "debates; debate",
+    "meaning": "plural de \"debate\"; também forma verbal",
+    "usage": "ex.: policy debates; he debates topics"
+  },
+  "debt": {
+    "translation": "dívida",
+    "meaning": "obrigação financeira de pagar algo",
+    "usage": "ex.: pay a debt"
+  },
+  "decades": {
+    "translation": "décadas",
+    "meaning": "plural de \"decade\"; períodos de 10 anos",
+    "usage": "ex.: over the decades"
+  },
+  "decent": {
+    "translation": "decente",
+    "meaning": "adequado ou de boa qualidade",
+    "usage": "ex.: a decent salary"
+  },
+  "decide": {
+    "translation": "decidir",
+    "meaning": "escolher após considerar opções",
+    "usage": "ex.: decide quickly"
+  },
+  "decided": {
+    "translation": "decidiu; decidido(a)",
+    "meaning": "passado de \"decide\"",
+    "usage": "ex.: she decided to leave"
+  },
+  "decision": {
+    "translation": "decisão",
+    "meaning": "escolha feita após consideração",
+    "usage": "ex.: make a decision"
+  },
+  "decisions": {
+    "translation": "decisões",
+    "meaning": "plural de \"decision\"",
+    "usage": "ex.: tough decisions"
+  },
+  "declining": {
+    "translation": "declinando; recusando",
+    "meaning": "diminuindo; também ato de recusar",
+    "usage": "ex.: declining sales; declining an invitation"
+  },
+  "decreased": {
+    "translation": "diminuiu; diminuído(a)",
+    "meaning": "passado de \"decrease\"",
+    "usage": "ex.: costs decreased"
+  },
+  "dedicated": {
+    "translation": "dedicado(a)",
+    "meaning": "comprometido e focado; também passado de \"dedicate\"",
+    "usage": "ex.: dedicated team"
+  },
+  "deep": {
+    "translation": "profundo(a)",
+    "meaning": "com grande profundidade; intenso",
+    "usage": "ex.: deep water; deep thought"
+  },
+  "deepened": {
+    "translation": "aprofundou; aprofundado(a)",
+    "meaning": "passado de \"deepen\"; tornar mais profundo",
+    "usage": "ex.: deepened the relationship"
+  },
+  "deeper": {
+    "translation": "mais profundo(a)",
+    "meaning": "comparativo de \"deep\"",
+    "usage": "ex.: a deeper analysis"
+  },
+  "deepest": {
+    "translation": "o mais profundo",
+    "meaning": "superlativo de \"deep\"",
+    "usage": "ex.: the deepest part"
+  },
+  "deeply": {
+    "translation": "profundamente",
+    "meaning": "de forma intensa ou profunda",
+    "usage": "ex.: deeply moved"
+  },
+  "defending": {
+    "translation": "defendendo",
+    "meaning": "ato de defender; forma contínua de \"defend\"",
+    "usage": "ex.: defending rights"
+  },
+  "defense": {
+    "translation": "defesa",
+    "meaning": "ato de proteger ou argumentar em favor",
+    "usage": "ex.: legal defense"
+  },
+  "defensive": {
+    "translation": "defensivo(a)",
+    "meaning": "que protege; também que reage para se defender",
+    "usage": "ex.: defensive posture"
+  },
+  "define": {
+    "translation": "definir",
+    "meaning": "explicar claramente o significado",
+    "usage": "ex.: define a term"
+  },
+  "defined": {
+    "translation": "definiu; definido(a)",
+    "meaning": "passado de \"define\"; estabelecido claramente",
+    "usage": "ex.: defined goals"
+  },
+  "degree": {
+    "translation": "grau; diploma",
+    "meaning": "nível de intensidade; também título acadêmico",
+    "usage": "ex.: a high degree; college degree"
+  },
+  "demanding": {
+    "translation": "exigente",
+    "meaning": "que requer muito esforço, tempo ou habilidade",
+    "usage": "ex.: a demanding job"
+  },
+  "denying": {
+    "translation": "negando",
+    "meaning": "ato de negar; forma contínua de \"deny\"",
+    "usage": "ex.: denying the facts"
+  },
+  "depended": {
+    "translation": "dependeu",
+    "meaning": "passado de \"depend\"",
+    "usage": "ex.: depended on support"
+  },
+  "dependent": {
+    "translation": "dependente",
+    "meaning": "que depende de algo ou alguém",
+    "usage": "ex.: dependent on help"
+  },
+  "depleted": {
+    "translation": "esgotado(a)",
+    "meaning": "passado de \"deplete\"; reduzido a níveis baixos",
+    "usage": "ex.: depleted resources"
+  },
+  "depressed": {
+    "translation": "deprimido(a)",
+    "meaning": "com tristeza intensa ou abatimento; também pressionado",
+    "usage": "ex.: feel depressed"
+  },
+  "depression": {
+    "translation": "depressão",
+    "meaning": "estado de tristeza profunda; também condição clínica",
+    "usage": "ex.: suffer from depression"
+  },
+  "described": {
+    "translation": "descreveu; descrito(a)",
+    "meaning": "passado de \"describe\"",
+    "usage": "ex.: described the scene"
+  },
+  "deserves": {
+    "translation": "merece",
+    "meaning": "forma do verbo \"deserve\" na 3ª pessoa do singular",
+    "usage": "ex.: she deserves respect"
+  },
+  "desire": {
+    "translation": "desejo; desejar",
+    "meaning": "vontade forte; também o ato de desejar",
+    "usage": "ex.: desire for success; desire to help"
+  },
+  "desires": {
+    "translation": "desejos; deseja",
+    "meaning": "plural de \"desire\"; também forma verbal",
+    "usage": "ex.: personal desires; he desires change"
+  },
+  "despair": {
+    "translation": "desespero",
+    "meaning": "falta de esperança",
+    "usage": "ex.: in despair"
+  },
+  "desperate": {
+    "translation": "desesperado(a)",
+    "meaning": "em grande necessidade ou sem esperança",
+    "usage": "ex.: desperate situation"
+  },
+  "desperately": {
+    "translation": "desesperadamente",
+    "meaning": "de forma desesperada",
+    "usage": "ex.: desperately needed"
+  },
+  "desperation": {
+    "translation": "desesperança; desespero",
+    "meaning": "estado de desespero extremo",
+    "usage": "ex.: in desperation"
+  },
+  "despite": {
+    "translation": "apesar de",
+    "meaning": "indica contraste ou concessão",
+    "usage": "ex.: despite the rain"
+  },
+  "destination": {
+    "translation": "destino",
+    "meaning": "lugar para onde alguém vai",
+    "usage": "ex.: final destination"
+  },
+  "destiny": {
+    "translation": "destino (futuro)",
+    "meaning": "curso previsto da vida; sorte",
+    "usage": "ex.: believe in destiny"
+  },
+  "destroy": {
+    "translation": "destruir",
+    "meaning": "causar dano total; arruinar",
+    "usage": "ex.: destroy evidence"
+  },
+  "destroyed": {
+    "translation": "destruiu; destruído(a)",
+    "meaning": "passado de \"destroy\"",
+    "usage": "ex.: the city was destroyed"
+  },
+  "destroying": {
+    "translation": "destruindo",
+    "meaning": "ato de destruir; forma contínua de \"destroy\"",
+    "usage": "ex.: destroying the habitat"
+  },
+  "destructive": {
+    "translation": "destrutivo(a)",
+    "meaning": "que causa destruição ou dano",
+    "usage": "ex.: destructive behavior"
+  },
+  "detail": {
+    "translation": "detalhe",
+    "meaning": "parte específica de algo",
+    "usage": "ex.: pay attention to detail"
+  },
+  "deteriorated": {
+    "translation": "deteriorou; deteriorado(a)",
+    "meaning": "passado de \"deteriorate\"; piorar",
+    "usage": "ex.: his health deteriorated"
+  },
+  "determination": {
+    "translation": "determinação",
+    "meaning": "firmeza de propósito; persistência",
+    "usage": "ex.: show determination"
+  },
+  "determine": {
+    "translation": "determinar",
+    "meaning": "estabelecer ou decidir algo",
+    "usage": "ex.: determine the cause"
+  },
+  "determined": {
+    "translation": "determinado(a)",
+    "meaning": "que tem decisão firme; também passado de \"determine\"",
+    "usage": "ex.: a determined effort"
+  },
+  "devastated": {
+    "translation": "devastado(a)",
+    "meaning": "completamente destruído ou muito abalado emocionalmente",
+    "usage": "ex.: devastated by the news"
+  },
+  "develop": {
+    "translation": "desenvolver",
+    "meaning": "criar, fazer crescer ou evoluir",
+    "usage": "ex.: develop new skills"
+  },
+  "developing": {
+    "translation": "desenvolvendo; em desenvolvimento",
+    "meaning": "que está em processo de desenvolvimento",
+    "usage": "ex.: developing countries"
+  },
+  "development": {
+    "translation": "desenvolvimento",
+    "meaning": "processo de crescimento, evolução ou criação",
+    "usage": "ex.: economic development"
+  },
+  "diagnosed": {
+    "translation": "diagnosticado(a)",
+    "meaning": "passado de \"diagnose\"; identificado medicamente",
+    "usage": "ex.: diagnosed with diabetes"
+  },
+  "diagnosis": {
+    "translation": "diagnóstico",
+    "meaning": "identificação de uma doença ou problema",
+    "usage": "ex.: medical diagnosis"
+  },
+  "diane": {
+    "translation": "Diane",
+    "meaning": "nome próprio feminino",
+    "usage": "usado como nome pessoal"
+  },
+  "did": {
+    "translation": "fez; fiz",
+    "meaning": "passado do verbo \"do\"",
+    "usage": "ex.: I did my homework"
+  },
+  "didn": {
+    "translation": "não fez; não fiz",
+    "meaning": "forma contraída de \"did not\"",
+    "usage": "ex.: didn't understand"
+  },
+  "die": {
+    "translation": "morrer",
+    "meaning": "cessar de viver",
+    "usage": "ex.: plants die without water"
+  },
+  "died": {
+    "translation": "morreu",
+    "meaning": "passado de \"die\"",
+    "usage": "ex.: he died peacefully"
+  },
+  "diets": {
+    "translation": "dietas",
+    "meaning": "plural de \"diet\"; regimes alimentares",
+    "usage": "ex.: different diets for different needs"
+  },
+  "differed": {
+    "translation": "diferiu; diferente",
+    "meaning": "passado de \"differ\"; foi diferente",
+    "usage": "ex.: opinions differed greatly"
+  },
+  "difference": {
+    "translation": "diferença",
+    "meaning": "aquilo que torna algo distinto de outro",
+    "usage": "ex.: make a difference"
+  },
+  "differences": {
+    "translation": "diferenças",
+    "meaning": "plural de \"difference\"",
+    "usage": "ex.: cultural differences"
+  },
+  "different": {
+    "translation": "diferente",
+    "meaning": "que não é igual; distinto",
+    "usage": "ex.: a different approach"
+  },
+  "differently": {
+    "translation": "diferentemente; de modo diferente",
+    "meaning": "de uma maneira distinta",
+    "usage": "ex.: think differently"
+  },
+  "difficult": {
+    "translation": "difícil",
+    "meaning": "que requer esforço ou habilidade; complicado",
+    "usage": "ex.: a difficult task"
+  },
+  "difficulty": {
+    "translation": "dificuldade",
+    "meaning": "qualidade do que é difícil; obstáculo",
+    "usage": "ex.: face difficulties"
+  },
+  "dignity": {
+    "translation": "dignidade",
+    "meaning": "qualidade de ser digno; respeito próprio",
+    "usage": "ex.: human dignity"
+  },
+  "diminish": {
+    "translation": "diminuir",
+    "meaning": "tornar menor ou reduzir",
+    "usage": "ex.: diminish the impact"
+  },
+  "dining": {
+    "translation": "jantar; refeição",
+    "meaning": "ato de fazer uma refeição",
+    "usage": "ex.: dining room"
+  },
+  "dinner": {
+    "translation": "jantar",
+    "meaning": "refeição principal do dia, geralmente à noite",
+    "usage": "ex.: have dinner"
+  },
+  "direct": {
+    "translation": "direto(a); dirigir",
+    "meaning": "sem desvios; também orientar ou comandar",
+    "usage": "ex.: direct route; direct a team"
+  },
+  "directly": {
+    "translation": "diretamente",
+    "meaning": "de forma direta, sem intermediários",
+    "usage": "ex.: speak directly to the manager"
+  },
+  "director": {
+    "translation": "diretor(a)",
+    "meaning": "pessoa que dirige ou administra",
+    "usage": "ex.: company director; film director"
+  },
+  "disabilities": {
+    "translation": "deficiências; incapacidades",
+    "meaning": "plural de \"disability\"",
+    "usage": "ex.: people with disabilities"
+  },
+  "disability": {
+    "translation": "deficiência; incapacidade",
+    "meaning": "condição que limita capacidades físicas ou mentais",
+    "usage": "ex.: disability benefits"
+  },
+  "disabled": {
+    "translation": "deficiente; desabilitado(a)",
+    "meaning": "que tem uma deficiência; também desativado",
+    "usage": "ex.: disabled access; disabled account"
+  },
+  "disagreements": {
+    "translation": "desacordos; divergências",
+    "meaning": "plural de \"disagreement\"; conflitos de opinião",
+    "usage": "ex.: disagreements between parties"
+  },
+  "disappear": {
+    "translation": "desaparecer",
+    "meaning": "deixar de ser visível ou existir",
+    "usage": "ex.: the sun disappeared behind clouds"
+  },
+  "disappearing": {
+    "translation": "desaparecendo",
+    "meaning": "que está desaparecendo",
+    "usage": "ex.: disappearing species"
+  },
+  "disappointed": {
+    "translation": "desapontado(a); decepcionado(a)",
+    "meaning": "que sentiu decepção",
+    "usage": "ex.: disappointed with the results"
+  },
+  "disappointment": {
+    "translation": "desapontamento; decepção",
+    "meaning": "sentimento de frustração por expectativas não atendidas",
+    "usage": "ex.: hide disappointment"
+  },
+  "disapproved": {
+    "translation": "desaprovado(a); desaprovou",
+    "meaning": "passado de \"disapprove\"; não aprovou",
+    "usage": "ex.: disapproved of the decision"
+  },
+  "discipline": {
+    "translation": "disciplina",
+    "meaning": "controle de comportamento; também área de conhecimento",
+    "usage": "ex.: academic discipline; self-discipline"
+  },
+  "discomfort": {
+    "translation": "desconforto",
+    "meaning": "falta de conforto físico ou psicológico",
+    "usage": "ex.: feel discomfort"
+  },
+  "disconnected": {
+    "translation": "desconectado(a)",
+    "meaning": "que não está conectado; separado",
+    "usage": "ex.: disconnected from reality"
+  },
+  "discover": {
+    "translation": "descobrir",
+    "meaning": "encontrar ou perceber algo pela primeira vez",
+    "usage": "ex.: discover a new talent"
+  },
+  "discovered": {
+    "translation": "descobriu; descoberto(a)",
+    "meaning": "passado de \"discover\"",
+    "usage": "ex.: discovered a cure"
+  },
+  "discriminated": {
+    "translation": "discriminado(a); discriminou",
+    "meaning": "passado de \"discriminate\"; tratou de forma injusta",
+    "usage": "ex.: discriminated against minorities"
+  },
+  "discrimination": {
+    "translation": "discriminação",
+    "meaning": "tratamento injusto baseado em características pessoais",
+    "usage": "ex.: racial discrimination"
+  },
+  "discriminatory": {
+    "translation": "discriminatório(a)",
+    "meaning": "que envolve ou caracteriza discriminação",
+    "usage": "ex.: discriminatory practices"
+  },
+  "discussed": {
+    "translation": "discutiu; discutido(a)",
+    "meaning": "passado de \"discuss\"; falou sobre algo",
+    "usage": "ex.: discussed the issue"
+  },
+  "dishes": {
+    "translation": "pratos; louças",
+    "meaning": "plural de \"dish\"; utensílios ou comidas preparadas",
+    "usage": "ex.: wash the dishes; traditional dishes"
+  },
+  "disillusioned": {
+    "translation": "desiludido(a)",
+    "meaning": "que perdeu ilusões ou esperanças",
+    "usage": "ex.: disillusioned with politics"
+  },
+  "disqualify": {
+    "translation": "desqualificar",
+    "meaning": "tornar inelegível ou eliminar de competição",
+    "usage": "ex.: disqualify a candidate"
+  },
+  "disrespectful": {
+    "translation": "desrespeitoso(a)",
+    "meaning": "que demonstra falta de respeito",
+    "usage": "ex.: disrespectful behavior"
+  },
+  "distance": {
+    "translation": "distância; distanciar",
+    "meaning": "espaço entre dois pontos; também afastar-se",
+    "usage": "ex.: long distance; distance yourself"
+  },
+  "distanced": {
+    "translation": "distanciado(a); distanciou",
+    "meaning": "passado de \"distance\"; afastou-se",
+    "usage": "ex.: distanced himself from the group"
+  },
+  "distant": {
+    "translation": "distante",
+    "meaning": "que está longe no espaço ou no tempo",
+    "usage": "ex.: distant relatives; distant future"
+  },
+  "do": {
+    "translation": "fazer",
+    "meaning": "realizar uma ação; também verbo auxiliar",
+    "usage": "ex.: do your best; do you understand?"
+  },
+  "doctor": {
+    "translation": "doutor(a); médico(a)",
+    "meaning": "profissional da medicina; também título acadêmico",
+    "usage": "ex.: see a doctor; Doctor of Philosophy"
+  },
+  "doctors": {
+    "translation": "doutores; médicos",
+    "meaning": "plural de \"doctor\"",
+    "usage": "ex.: doctors recommend exercise"
+  },
+  "doesn": {
+    "translation": "não faz; não",
+    "meaning": "forma contraída de \"does not\"",
+    "usage": "ex.: doesn't matter"
+  },
+  "doing": {
+    "translation": "fazendo",
+    "meaning": "gerúndio de \"do\"; realizando",
+    "usage": "ex.: what are you doing?"
+  },
+  "domestic": {
+    "translation": "doméstico(a)",
+    "meaning": "relacionado ao lar ou ao próprio país",
+    "usage": "ex.: domestic animals; domestic flights"
+  },
+  "dominance": {
+    "translation": "dominância",
+    "meaning": "condição de ser dominante; controle",
+    "usage": "ex.: market dominance"
+  },
+  "don": {
+    "translation": "não; vestir",
+    "meaning": "forma contraída de \"do not\"; também colocar roupa",
+    "usage": "ex.: don't worry; don a costume"
+  },
+  "done": {
+    "translation": "feito(a); terminado(a)",
+    "meaning": "particípio de \"do\"; concluído",
+    "usage": "ex.: the work is done"
+  },
+  "doubts": {
+    "translation": "dúvidas",
+    "meaning": "plural de \"doubt\"; incertezas",
+    "usage": "ex.: have doubts about the plan"
+  },
+  "down": {
+    "translation": "para baixo; abaixo",
+    "meaning": "em direção inferior; também desanimado",
+    "usage": "ex.: go down the stairs; feeling down"
+  },
+  "downturn": {
+    "translation": "queda; declínio",
+    "meaning": "período de diminuição ou piora",
+    "usage": "ex.: economic downturn"
+  },
+  "dramatic": {
+    "translation": "dramático(a)",
+    "meaning": "relacionado a drama; também muito notável",
+    "usage": "ex.: dramatic change"
+  },
+  "dramatically": {
+    "translation": "dramaticamente",
+    "meaning": "de forma dramática; significativamente",
+    "usage": "ex.: prices dropped dramatically"
+  },
+  "drawn": {
+    "translation": "desenhado(a); atraído(a)",
+    "meaning": "particípio de \"draw\"; também puxado",
+    "usage": "ex.: drawn to art; drawn conclusion"
+  },
+  "dream": {
+    "translation": "sonho; sonhar",
+    "meaning": "imagens durante o sono; também aspiração",
+    "usage": "ex.: dream big; a vivid dream"
+  },
+  "dreamed": {
+    "translation": "sonhou; sonhado(a)",
+    "meaning": "passado de \"dream\"",
+    "usage": "ex.: dreamed of success"
+  },
+  "dreams": {
+    "translation": "sonhos",
+    "meaning": "plural de \"dream\"",
+    "usage": "ex.: chase your dreams"
+  },
+  "dressed": {
+    "translation": "vestido(a); vestiu-se",
+    "meaning": "passado de \"dress\"; com roupa",
+    "usage": "ex.: dressed for the occasion"
+  },
+  "drinking": {
+    "translation": "bebendo",
+    "meaning": "gerúndio de \"drink\"; ato de beber",
+    "usage": "ex.: drinking water is important"
+  },
+  "driven": {
+    "translation": "dirigido(a); motivado(a)",
+    "meaning": "particípio de \"drive\"; também determinado",
+    "usage": "ex.: driven by passion; a driven person"
+  },
+  "dropped": {
+    "translation": "deixou cair; largou",
+    "meaning": "passado de \"drop\"; também diminuiu",
+    "usage": "ex.: dropped the ball; prices dropped"
+  },
+  "drove": {
+    "translation": "dirigiu; conduziu",
+    "meaning": "passado de \"drive\"",
+    "usage": "ex.: drove to work"
+  },
+  "drugs": {
+    "translation": "drogas; medicamentos",
+    "meaning": "plural de \"drug\"; substâncias químicas",
+    "usage": "ex.: illegal drugs; prescription drugs"
+  },
+  "during": {
+    "translation": "durante",
+    "meaning": "no decorrer de; ao longo de",
+    "usage": "ex.: during the meeting"
+  },
+  "duty": {
+    "translation": "dever; obrigação",
+    "meaning": "responsabilidade ou tarefa obrigatória",
+    "usage": "ex.: sense of duty; on duty"
+  },
+  "dying": {
+    "translation": "morrendo",
+    "meaning": "gerúndio de \"die\"; em processo de morte",
+    "usage": "ex.: dying wish; dying industry"
+  },
+  "dynamics": {
+    "translation": "dinâmica(s)",
+    "meaning": "forças que produzem mudança; padrões de interação",
+    "usage": "ex.: group dynamics; family dynamics"
+  },
+  "each": {
+    "translation": "cada",
+    "meaning": "todo item individual de um grupo",
+    "usage": "ex.: each person; each day"
+  },
+  "earn": {
+    "translation": "ganhar; conquistar",
+    "meaning": "receber dinheiro ou merecer algo",
+    "usage": "ex.: earn a living; earn respect"
+  },
+  "earned": {
+    "translation": "ganhou; conquistado(a)",
+    "meaning": "passado de \"earn\"",
+    "usage": "ex.: earned a promotion"
+  },
+  "easier": {
+    "translation": "mais fácil",
+    "meaning": "comparativo de \"easy\"",
+    "usage": "ex.: it's easier now"
+  },
+  "eaten": {
+    "translation": "comido(a)",
+    "meaning": "particípio de \"eat\"",
+    "usage": "ex.: have you eaten?"
+  },
+  "eating": {
+    "translation": "comendo",
+    "meaning": "gerúndio de \"eat\"; ato de comer",
+    "usage": "ex.: eating healthy"
+  },
+  "economic": {
+    "translation": "econômico(a)",
+    "meaning": "relacionado à economia",
+    "usage": "ex.: economic growth"
+  },
+  "educated": {
+    "translation": "educado(a); instruído(a)",
+    "meaning": "que recebeu educação formal",
+    "usage": "ex.: well-educated person"
+  },
+  "education": {
+    "translation": "educação",
+    "meaning": "processo de ensino e aprendizagem",
+    "usage": "ex.: higher education"
+  },
+  "edwin": {
+    "translation": "Edwin",
+    "meaning": "nome próprio masculino",
+    "usage": "usado como nome pessoal"
+  },
+  "efficiency": {
+    "translation": "eficiência",
+    "meaning": "capacidade de fazer algo bem com mínimo desperdício",
+    "usage": "ex.: improve efficiency"
+  },
+  "effort": {
+    "translation": "esforço",
+    "meaning": "tentativa vigorosa; energia aplicada",
+    "usage": "ex.: make an effort"
+  },
+  "eighteen": {
+    "translation": "dezoito",
+    "meaning": "número 18",
+    "usage": "ex.: eighteen years old"
+  },
+  "either": {
+    "translation": "qualquer um; também não",
+    "meaning": "um ou outro; também usado em negativas",
+    "usage": "ex.: either option; I don't either"
+  },
+  "elderly": {
+    "translation": "idoso(a)",
+    "meaning": "pessoa de idade avançada",
+    "usage": "ex.: elderly people"
+  },
+  "eleanor": {
+    "translation": "Eleanor",
+    "meaning": "nome próprio feminino",
+    "usage": "usado como nome pessoal"
+  },
+  "elena": {
+    "translation": "Elena",
+    "meaning": "nome próprio feminino",
+    "usage": "usado como nome pessoal"
+  },
+  "eliminate": {
+    "translation": "eliminar",
+    "meaning": "remover completamente; excluir",
+    "usage": "ex.: eliminate waste"
+  },
+  "eloquently": {
+    "translation": "eloquentemente",
+    "meaning": "de maneira eloquente; expressivamente",
+    "usage": "ex.: spoke eloquently"
+  },
+  "else": {
+    "translation": "mais; outro",
+    "meaning": "diferente; adicional; caso contrário",
+    "usage": "ex.: anything else?; or else"
+  },
+  "emma": {
+    "translation": "Emma",
+    "meaning": "nome próprio feminino",
+    "usage": "usado como nome pessoal"
+  },
+  "emotion": {
+    "translation": "emoção",
+    "meaning": "sentimento intenso",
+    "usage": "ex.: strong emotion"
+  },
+  "emotional": {
+    "translation": "emocional",
+    "meaning": "relacionado a emoções; sensível",
+    "usage": "ex.: emotional support"
+  },
+  "emotionally": {
+    "translation": "emocionalmente",
+    "meaning": "de maneira emocional",
+    "usage": "ex.: emotionally attached"
+  },
+  "emotions": {
+    "translation": "emoções",
+    "meaning": "plural de \"emotion\"",
+    "usage": "ex.: mixed emotions"
+  },
+  "empathy": {
+    "translation": "empatia",
+    "meaning": "capacidade de compreender sentimentos alheios",
+    "usage": "ex.: show empathy"
+  },
+  "employee": {
+    "translation": "empregado(a); funcionário(a)",
+    "meaning": "pessoa que trabalha para alguém",
+    "usage": "ex.: company employee"
+  },
+  "employees": {
+    "translation": "empregados; funcionários",
+    "meaning": "plural de \"employee\"",
+    "usage": "ex.: hire new employees"
+  },
+  "employers": {
+    "translation": "empregadores",
+    "meaning": "plural de \"employer\"; quem emprega",
+    "usage": "ex.: potential employers"
+  },
+  "empowered": {
+    "translation": "empoderado(a); capacitado(a)",
+    "meaning": "que recebeu poder ou autoridade",
+    "usage": "ex.: feel empowered"
+  },
+  "emptier": {
+    "translation": "mais vazio(a)",
+    "meaning": "comparativo de \"empty\"",
+    "usage": "ex.: the room felt emptier"
+  },
+  "empty": {
+    "translation": "vazio(a)",
+    "meaning": "sem conteúdo; desocupado",
+    "usage": "ex.: empty bottle"
+  },
+  "emulate": {
+    "translation": "emular",
+    "meaning": "imitar com objetivo de igualar ou superar",
+    "usage": "ex.: emulate success"
+  },
+  "enabled": {
+    "translation": "habilitado(a); possibilitou",
+    "meaning": "passado de \"enable\"; tornou possível",
+    "usage": "ex.: enabled by technology"
+  },
+  "encourage": {
+    "translation": "encorajar; incentivar",
+    "meaning": "dar apoio ou confiança a alguém",
+    "usage": "ex.: encourage students"
+  },
+  "encouraged": {
+    "translation": "encorajado(a); encorajou",
+    "meaning": "passado de \"encourage\"",
+    "usage": "ex.: felt encouraged"
+  },
+  "encouragement": {
+    "translation": "encorajamento; incentivo",
+    "meaning": "ato de encorajar; apoio",
+    "usage": "ex.: words of encouragement"
+  },
+  "end": {
+    "translation": "fim; terminar",
+    "meaning": "conclusão; também cessar",
+    "usage": "ex.: the end of the story; end the meeting"
+  },
+  "ended": {
+    "translation": "terminou; terminado(a)",
+    "meaning": "passado de \"end\"",
+    "usage": "ex.: the war ended"
+  },
+  "ending": {
+    "translation": "final; terminando",
+    "meaning": "conclusão de algo; também gerúndio de \"end\"",
+    "usage": "ex.: happy ending"
+  },
+  "endless": {
+    "translation": "interminável; sem fim",
+    "meaning": "que não tem fim; infinito",
+    "usage": "ex.: endless possibilities"
+  },
+  "endlessly": {
+    "translation": "infinitamente; sem parar",
+    "meaning": "de maneira interminável",
+    "usage": "ex.: talked endlessly"
+  },
+  "enemies": {
+    "translation": "inimigos",
+    "meaning": "plural de \"enemy\"",
+    "usage": "ex.: make enemies"
+  },
+  "enemy": {
+    "translation": "inimigo(a)",
+    "meaning": "adversário; oponente",
+    "usage": "ex.: face the enemy"
+  },
+  "energy": {
+    "translation": "energia",
+    "meaning": "capacidade de realizar trabalho; vigor",
+    "usage": "ex.: solar energy; full of energy"
+  },
+  "engaged": {
+    "translation": "noivo(a); engajado(a)",
+    "meaning": "comprometido para casar; também envolvido",
+    "usage": "ex.: engaged couple; engaged in work"
+  },
+  "engineer": {
+    "translation": "engenheiro(a)",
+    "meaning": "profissional de engenharia",
+    "usage": "ex.: software engineer"
+  },
+  "engineering": {
+    "translation": "engenharia",
+    "meaning": "aplicação de ciência para construção",
+    "usage": "ex.: study engineering"
+  },
+  "engineers": {
+    "translation": "engenheiros",
+    "meaning": "plural de \"engineer\"",
+    "usage": "ex.: team of engineers"
+  },
+  "enjoy": {
+    "translation": "aproveitar; desfrutar",
+    "meaning": "sentir prazer com algo",
+    "usage": "ex.: enjoy the moment"
+  },
+  "enjoyed": {
+    "translation": "aproveitou; desfrutou",
+    "meaning": "passado de \"enjoy\"",
+    "usage": "ex.: enjoyed the party"
+  },
+  "enjoying": {
+    "translation": "aproveitando; desfrutando",
+    "meaning": "gerúndio de \"enjoy\"",
+    "usage": "ex.: enjoying life"
+  },
+  "enjoyment": {
+    "translation": "prazer; diversão",
+    "meaning": "ato de aproveitar; satisfação",
+    "usage": "ex.: for your enjoyment"
+  },
+  "enormous": {
+    "translation": "enorme",
+    "meaning": "muito grande; imenso",
+    "usage": "ex.: enormous building"
+  },
+  "enough": {
+    "translation": "suficiente; bastante",
+    "meaning": "quantidade adequada",
+    "usage": "ex.: enough time; good enough"
+  },
+  "enrolled": {
+    "translation": "matriculado(a); matriculou-se",
+    "meaning": "passado de \"enroll\"; inscrito",
+    "usage": "ex.: enrolled in college"
+  },
+  "ensure": {
+    "translation": "garantir; assegurar",
+    "meaning": "tornar certo; certificar-se",
+    "usage": "ex.: ensure safety"
+  },
+  "enthusiastic": {
+    "translation": "entusiasmado(a); entusiástico(a)",
+    "meaning": "que demonstra entusiasmo",
+    "usage": "ex.: enthusiastic response"
+  },
+  "entire": {
+    "translation": "inteiro(a); todo(a)",
+    "meaning": "completo; sem falta de partes",
+    "usage": "ex.: the entire world"
+  },
+  "entrepreneurs": {
+    "translation": "empreendedores",
+    "meaning": "plural de \"entrepreneur\"; pessoas que criam negócios",
+    "usage": "ex.: successful entrepreneurs"
+  },
+  "envious": {
+    "translation": "invejoso(a)",
+    "meaning": "que sente inveja",
+    "usage": "ex.: envious of success"
+  },
+  "environment": {
+    "translation": "ambiente; meio ambiente",
+    "meaning": "entorno; condições naturais",
+    "usage": "ex.: work environment; protect the environment"
+  },
+  "environmental": {
+    "translation": "ambiental",
+    "meaning": "relacionado ao meio ambiente",
+    "usage": "ex.: environmental issues"
+  },
+  "environments": {
+    "translation": "ambientes",
+    "meaning": "plural de \"environment\"",
+    "usage": "ex.: different environments"
+  },
+  "envy": {
+    "translation": "inveja; invejar",
+    "meaning": "sentimento de desejo pelo que outro tem",
+    "usage": "ex.: green with envy"
+  },
+  "equally": {
+    "translation": "igualmente",
+    "meaning": "de maneira igual; na mesma medida",
+    "usage": "ex.: equally important"
+  },
+  "equations": {
+    "translation": "equações",
+    "meaning": "plural de \"equation\"; fórmulas matemáticas",
+    "usage": "ex.: solve equations"
+  },
+  "erasing": {
+    "translation": "apagando",
+    "meaning": "gerúndio de \"erase\"; removendo",
+    "usage": "ex.: erasing mistakes"
+  },
+  "escalated": {
+    "translation": "escalou; aumentou",
+    "meaning": "passado de \"escalate\"; intensificou",
+    "usage": "ex.: conflict escalated"
+  },
+  "escape": {
+    "translation": "escapar; fuga",
+    "meaning": "fugir; também o ato de fugir",
+    "usage": "ex.: escape danger; narrow escape"
+  },
+  "escaped": {
+    "translation": "escapou; fugiu",
+    "meaning": "passado de \"escape\"",
+    "usage": "ex.: escaped from prison"
+  },
+  "especially": {
+    "translation": "especialmente",
+    "meaning": "de modo especial; particularmente",
+    "usage": "ex.: especially important"
+  },
+  "essential": {
+    "translation": "essencial",
+    "meaning": "absolutamente necessário; fundamental",
+    "usage": "ex.: essential skills"
+  },
+  "esteem": {
+    "translation": "estima; respeito",
+    "meaning": "consideração; admiração",
+    "usage": "ex.: self-esteem; held in high esteem"
+  },
+  "estranged": {
+    "translation": "afastado(a); separado(a)",
+    "meaning": "que se distanciou emocionalmente",
+    "usage": "ex.: estranged family"
+  },
+  "estrangement": {
+    "translation": "afastamento; separação",
+    "meaning": "ato de se distanciar emocionalmente",
+    "usage": "ex.: family estrangement"
+  },
+  "ethical": {
+    "translation": "ético(a)",
+    "meaning": "relacionado à ética; moralmente correto",
+    "usage": "ex.: ethical behavior"
+  },
+  "evaporated": {
+    "translation": "evaporou; evaporado(a)",
+    "meaning": "passado de \"evaporate\"; transformou-se em vapor",
+    "usage": "ex.: water evaporated"
+  },
+  "even": {
+    "translation": "até mesmo; par",
+    "meaning": "inclusive; também número divisível por 2",
+    "usage": "ex.: even better; even numbers"
+  },
+  "evening": {
+    "translation": "noite; anoitecer",
+    "meaning": "período entre tarde e noite",
+    "usage": "ex.: evening walk; good evening"
+  },
+  "evenings": {
+    "translation": "noites",
+    "meaning": "plural de \"evening\"",
+    "usage": "ex.: spend evenings reading"
+  },
   "events": "events",
   "eventually": "eventually",
   "ever": "ever",
