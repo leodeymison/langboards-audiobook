@@ -9,7 +9,7 @@ interface AudioPlayerProps {
 }
 
 export default function AudioPlayer({ text }: AudioPlayerProps) {
-  const [speed, setSpeed] = useState(1.0);
+  const [speed, setSpeed] = useState(0.5);
   const [selectedVoiceName, setSelectedVoiceName] = useState('Google UK English Male');
 
   const {
