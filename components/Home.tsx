@@ -83,14 +83,14 @@ export default function HomeContent() {
         <ContentBody text={text} />
         <div className='flex justify-between mt-4'>
           <button
-            className='bg-gray-600 text-white px-5 py-2 rounded-md flex items-center gap-1'
+            className='bg-gray-600 text-white px-5 py-2 rounded-md flex items-center gap-1 cursor-pointer'
             onClick={handlePrevious}
             disabled={currentPage === 1}
           >
             <IoIosArrowBack />
             <span>Voltar</span>
           </button>
-          <button className='bg-green-600 text-white px-5 py-2 rounded-md flex items-center gap-1' onClick={handleNext}>
+          <button className='bg-green-600 text-white px-5 py-2 rounded-md flex items-center gap-1 cursor-pointer' onClick={handleNext}>
             <span>Próximo</span>
             <IoIosArrowForward />
           </button>
